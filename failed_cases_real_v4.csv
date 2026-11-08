@@ -1,0 +1,20 @@
+doc,kind,location,entity_or_field,value,auto_note,manual_review_note
+docx_02,TEXT-FULL,"body,comments",PERSON,Aisha Khan,,Ahmed
+docx_02,TEXT-PARTIAL,body,LOCATION,"42 Elm Street, Apt 5B, Springfield, IL 62704",remaining tokens: 62704,نور
+docx_03,TEXT-PARTIAL,body,LOCATION,"700 Harbor Blvd, Unit 12, San Diego, CA 92101",remaining tokens: 92101,jen
+docx_07,TEXT-PARTIAL,body,LOCATION,"P.O. Box 4471, Austin, TX 78765",remaining tokens: 78765,jasmin
+docx_08,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,555-0123,,hadi
+docx_12,TEXT-PARTIAL,body,LOCATION,"88 Nanjing Road, Huangpu, Shanghai 200021, China","remaining tokens: 200021, nanjing",hani
+docx_13,TEXT-PARTIAL,body,LOCATION,"12 MG Road, Bengaluru 560001, India","remaining tokens: 560001, bengaluru",salem
+docx_14,TEXT-PARTIAL,body,LOCATION,"Unter den Linden 5, 10117 Berlin, Germany","remaining tokens: linden, unter",ddii
+docx_15,TEXT-PARTIAL,body,LOCATION,"Mecca Street 90, Amman 11953, Jordan","remaining tokens: 11953, mecca",mohammed
+docx_18,TEXT-PARTIAL,body,LOCATION,"Rainbow Street 15, Amman 11181, Jordan","remaining tokens: 11181, rainbow",omar
+pdf_02,TEXT-PARTIAL,body,LOCATION,"42 Elm Street, Apt 5B, Springfield, IL 62704",remaining tokens: 62704,hopy
+pdf_03,TEXT-PARTIAL,body,LOCATION,"700 Harbor Blvd, Unit 12, San Diego, CA 92101",remaining tokens: 92101,jin
+pdf_07,TEXT-PARTIAL,body,LOCATION,"P.O. Box 4471, Austin, TX 78765",remaining tokens: 78765,dodo
+pdf_08,TEXT-FULL,body,PHONE_NUMBER,555-0123,,danial
+pdf_12,TEXT-PARTIAL,body,LOCATION,"88 Nanjing Road, Huangpu, Shanghai 200021, China","remaining tokens: 200021, nanjing",ffjlk
+pdf_13,TEXT-PARTIAL,body,LOCATION,"12 MG Road, Bengaluru 560001, India","remaining tokens: 560001, bengaluru",gty
+pdf_14,TEXT-PARTIAL,body,LOCATION,"Unter den Linden 5, 10117 Berlin, Germany","remaining tokens: linden, unter",gopm
+pdf_15,TEXT-PARTIAL,body,LOCATION,"Mecca Street 90, Amman 11953, Jordan","remaining tokens: 11953, mecca",salem
+pdf_18,TEXT-PARTIAL,body,LOCATION,"Rainbow Street 15, Amman 11181, Jordan","remaining tokens: 11181, rainbow",ahmed

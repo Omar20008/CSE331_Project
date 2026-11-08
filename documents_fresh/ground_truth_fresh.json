@@ -1,0 +1,762 @@
+{
+  "docx_00": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "ياسمين عبد الرحمن",
+      "PHONE_NUMBER": "+20 100 555 0188",
+      "EMAIL_ADDRESS": "yasmin.abdelrahman@example.eg",
+      "LOCATION": "شارع التحرير، القاهرة",
+      "US_SSN": "431-72-8859"
+    },
+    "planted_metadata": {
+      "author": "ياسمين عبد الرحمن",
+      "title": "Confidential – ياسمين عبد الرحمن",
+      "keywords": "ياسمين عبد الرحمن, yasmin.abdelrahman@example.eg",
+      "comments": "Created for ياسمين عبد الرحمن"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_00": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "ياسمين عبد الرحمن",
+      "PHONE_NUMBER": "+20 100 555 0188",
+      "EMAIL_ADDRESS": "yasmin.abdelrahman@example.eg",
+      "LOCATION": "شارع التحرير، القاهرة",
+      "US_SSN": "431-72-8859"
+    },
+    "planted_metadata": {
+      "author": "ياسمين عبد الرحمن",
+      "title": "Confidential – ياسمين عبد الرحمن",
+      "creator": "HR System – ياسمين عبد الرحمن",
+      "keywords": "ياسمين عبد الرحمن, yasmin.abdelrahman@example.eg"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_01": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Tarek El-Masry",
+      "PHONE_NUMBER": "+20 2 2574 0133",
+      "EMAIL_ADDRESS": "tarek.elmasry@example.eg",
+      "LOCATION": "12 Nasr Road, Apartment 7, Cairo 11765, Egypt",
+      "US_SSN": "502-18-3367"
+    },
+    "planted_metadata": {
+      "author": "Tarek El-Masry",
+      "title": "Confidential – Tarek El-Masry",
+      "keywords": "Tarek El-Masry, tarek.elmasry@example.eg",
+      "comments": "Created for Tarek El-Masry"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_01": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Tarek El-Masry",
+      "PHONE_NUMBER": "+20 2 2574 0133",
+      "EMAIL_ADDRESS": "tarek.elmasry@example.eg",
+      "LOCATION": "12 Nasr Road, Apartment 7, Cairo 11765, Egypt",
+      "US_SSN": "502-18-3367"
+    },
+    "planted_metadata": {
+      "author": "Tarek El-Masry",
+      "title": "Confidential – Tarek El-Masry",
+      "creator": "HR System – Tarek El-Masry",
+      "keywords": "Tarek El-Masry, tarek.elmasry@example.eg"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_02": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Elif Yilmaz-Demir",
+      "PHONE_NUMBER": "+90 212 555 0142",
+      "EMAIL_ADDRESS": "elif.yilmaz@example.com.tr",
+      "LOCATION": "Istiklal Caddesi 45, Beyoglu, Istanbul 34433, Turkey",
+      "US_SSN": "276-33-5519"
+    },
+    "planted_metadata": {
+      "author": "Elif Yilmaz-Demir",
+      "title": "Confidential – Elif Yilmaz-Demir",
+      "keywords": "Elif Yilmaz-Demir, elif.yilmaz@example.com.tr",
+      "comments": "Created for Elif Yilmaz-Demir"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_02": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Elif Yilmaz-Demir",
+      "PHONE_NUMBER": "+90 212 555 0142",
+      "EMAIL_ADDRESS": "elif.yilmaz@example.com.tr",
+      "LOCATION": "Istiklal Caddesi 45, Beyoglu, Istanbul 34433, Turkey",
+      "US_SSN": "276-33-5519"
+    },
+    "planted_metadata": {
+      "author": "Elif Yilmaz-Demir",
+      "title": "Confidential – Elif Yilmaz-Demir",
+      "creator": "HR System – Elif Yilmaz-Demir",
+      "keywords": "Elif Yilmaz-Demir, elif.yilmaz@example.com.tr"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_03": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Mehmet Kaya",
+      "PHONE_NUMBER": "+90 532 555 0176 ext. 118",
+      "EMAIL_ADDRESS": "mehmet.kaya@example.com.tr",
+      "LOCATION": "Bagdat Caddesi 210, Kadikoy, Istanbul 34710, Turkey",
+      "US_SSN": "419-52-7731"
+    },
+    "planted_metadata": {
+      "author": "Mehmet Kaya",
+      "title": "Confidential – Mehmet Kaya",
+      "keywords": "Mehmet Kaya, mehmet.kaya@example.com.tr",
+      "comments": "Created for Mehmet Kaya"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_03": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Mehmet Kaya",
+      "PHONE_NUMBER": "+90 532 555 0176 ext. 118",
+      "EMAIL_ADDRESS": "mehmet.kaya@example.com.tr",
+      "LOCATION": "Bagdat Caddesi 210, Kadikoy, Istanbul 34710, Turkey",
+      "US_SSN": "419-52-7731"
+    },
+    "planted_metadata": {
+      "author": "Mehmet Kaya",
+      "title": "Confidential – Mehmet Kaya",
+      "creator": "HR System – Mehmet Kaya",
+      "keywords": "Mehmet Kaya, mehmet.kaya@example.com.tr"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_04": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "João Carvalho-Souza",
+      "PHONE_NUMBER": "+55 11 95555-0143",
+      "EMAIL_ADDRESS": "joao.carvalho@example.com.br",
+      "LOCATION": "Rua Augusta 1500, Apto 410, São Paulo 01305-001, Brazil",
+      "US_SSN": "314-66-2285"
+    },
+    "planted_metadata": {
+      "author": "João Carvalho-Souza",
+      "title": "Confidential – João Carvalho-Souza",
+      "keywords": "João Carvalho-Souza, joao.carvalho@example.com.br",
+      "comments": "Created for João Carvalho-Souza"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_04": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "João Carvalho-Souza",
+      "PHONE_NUMBER": "+55 11 95555-0143",
+      "EMAIL_ADDRESS": "joao.carvalho@example.com.br",
+      "LOCATION": "Rua Augusta 1500, Apto 410, São Paulo 01305-001, Brazil",
+      "US_SSN": "314-66-2285"
+    },
+    "planted_metadata": {
+      "author": "João Carvalho-Souza",
+      "title": "Confidential – João Carvalho-Souza",
+      "creator": "HR System – João Carvalho-Souza",
+      "keywords": "João Carvalho-Souza, joao.carvalho@example.com.br"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_05": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Beatriz Santos Lima",
+      "PHONE_NUMBER": "+55 21 3555-0198",
+      "EMAIL_ADDRESS": "beatriz.lima@example.com.br",
+      "LOCATION": "Avenida Atlantica 1702, Copacabana, Rio de Janeiro 22021-030, Brazil",
+      "US_SSN": "188-47-9920"
+    },
+    "planted_metadata": {
+      "author": "Beatriz Santos Lima",
+      "title": "Confidential – Beatriz Santos Lima",
+      "keywords": "Beatriz Santos Lima, beatriz.lima@example.com.br",
+      "comments": "Created for Beatriz Santos Lima"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_05": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Beatriz Santos Lima",
+      "PHONE_NUMBER": "+55 21 3555-0198",
+      "EMAIL_ADDRESS": "beatriz.lima@example.com.br",
+      "LOCATION": "Avenida Atlantica 1702, Copacabana, Rio de Janeiro 22021-030, Brazil",
+      "US_SSN": "188-47-9920"
+    },
+    "planted_metadata": {
+      "author": "Beatriz Santos Lima",
+      "title": "Confidential – Beatriz Santos Lima",
+      "creator": "HR System – Beatriz Santos Lima",
+      "keywords": "Beatriz Santos Lima, beatriz.lima@example.com.br"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_06": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Haruto Sato",
+      "PHONE_NUMBER": "+81 3-3412-6690",
+      "EMAIL_ADDRESS": "haruto.sato@example.jp",
+      "LOCATION": "2-3-5 Nishi-Shinjuku, Unit 1203, Shinjuku, Tokyo 160-0023, Japan",
+      "US_SSN": "233-58-4471"
+    },
+    "planted_metadata": {
+      "author": "Haruto Sato",
+      "title": "Confidential – Haruto Sato",
+      "keywords": "Haruto Sato, haruto.sato@example.jp",
+      "comments": "Created for Haruto Sato"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_06": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Haruto Sato",
+      "PHONE_NUMBER": "+81 3-3412-6690",
+      "EMAIL_ADDRESS": "haruto.sato@example.jp",
+      "LOCATION": "2-3-5 Nishi-Shinjuku, Unit 1203, Shinjuku, Tokyo 160-0023, Japan",
+      "US_SSN": "233-58-4471"
+    },
+    "planted_metadata": {
+      "author": "Haruto Sato",
+      "title": "Confidential – Haruto Sato",
+      "creator": "HR System – Haruto Sato",
+      "keywords": "Haruto Sato, haruto.sato@example.jp"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_07": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Yuki Tanaka",
+      "PHONE_NUMBER": "+81 90-5555-0171",
+      "EMAIL_ADDRESS": "yuki.tanaka@example.jp",
+      "LOCATION": "1-8-14 Chuo, Osaka 541-0041, Japan",
+      "US_SSN": "305-19-7744"
+    },
+    "planted_metadata": {
+      "author": "Yuki Tanaka",
+      "title": "Confidential – Yuki Tanaka",
+      "keywords": "Yuki Tanaka, yuki.tanaka@example.jp",
+      "comments": "Created for Yuki Tanaka"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_07": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Yuki Tanaka",
+      "PHONE_NUMBER": "+81 90-5555-0171",
+      "EMAIL_ADDRESS": "yuki.tanaka@example.jp",
+      "LOCATION": "1-8-14 Chuo, Osaka 541-0041, Japan",
+      "US_SSN": "305-19-7744"
+    },
+    "planted_metadata": {
+      "author": "Yuki Tanaka",
+      "title": "Confidential – Yuki Tanaka",
+      "creator": "HR System – Yuki Tanaka",
+      "keywords": "Yuki Tanaka, yuki.tanaka@example.jp"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_08": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Olivia Tremblay",
+      "PHONE_NUMBER": "+1-604-555-0162",
+      "EMAIL_ADDRESS": "olivia.tremblay@example.ca",
+      "LOCATION": "P.O. Box 2210, Station A, Toronto, ON M5W 1E6, Canada",
+      "US_SSN": "262-41-8830"
+    },
+    "planted_metadata": {
+      "author": "Olivia Tremblay",
+      "title": "Confidential – Olivia Tremblay",
+      "keywords": "Olivia Tremblay, olivia.tremblay@example.ca",
+      "comments": "Created for Olivia Tremblay"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_08": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Olivia Tremblay",
+      "PHONE_NUMBER": "+1-604-555-0162",
+      "EMAIL_ADDRESS": "olivia.tremblay@example.ca",
+      "LOCATION": "P.O. Box 2210, Station A, Toronto, ON M5W 1E6, Canada",
+      "US_SSN": "262-41-8830"
+    },
+    "planted_metadata": {
+      "author": "Olivia Tremblay",
+      "title": "Confidential – Olivia Tremblay",
+      "creator": "HR System – Olivia Tremblay",
+      "keywords": "Olivia Tremblay, olivia.tremblay@example.ca"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_09": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Nathan Gagne-Roy",
+      "PHONE_NUMBER": "(416) 555-0145 x4021",
+      "EMAIL_ADDRESS": "nathan.gagne@example.ca",
+      "LOCATION": "55 King Street West, Unit 808, Toronto, ON M5X 1A9, Canada",
+      "US_SSN": "199-26-5538"
+    },
+    "planted_metadata": {
+      "author": "Nathan Gagne-Roy",
+      "title": "Confidential – Nathan Gagne-Roy",
+      "keywords": "Nathan Gagne-Roy, nathan.gagne@example.ca",
+      "comments": "Created for Nathan Gagne-Roy"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_09": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Nathan Gagne-Roy",
+      "PHONE_NUMBER": "(416) 555-0145 x4021",
+      "EMAIL_ADDRESS": "nathan.gagne@example.ca",
+      "LOCATION": "55 King Street West, Unit 808, Toronto, ON M5X 1A9, Canada",
+      "US_SSN": "199-26-5538"
+    },
+    "planted_metadata": {
+      "author": "Nathan Gagne-Roy",
+      "title": "Confidential – Nathan Gagne-Roy",
+      "creator": "HR System – Nathan Gagne-Roy",
+      "keywords": "Nathan Gagne-Roy, nathan.gagne@example.ca"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_10": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "عبد الله الشريف",
+      "PHONE_NUMBER": "0789990137",
+      "EMAIL_ADDRESS": "abdullah.sharif@example.jo",
+      "LOCATION": "شارع الاستقلال، الزرقاء",
+      "US_SSN": "348-61-2274"
+    },
+    "planted_metadata": {
+      "author": "عبد الله الشريف",
+      "title": "Confidential – عبد الله الشريف",
+      "keywords": "عبد الله الشريف, abdullah.sharif@example.jo",
+      "comments": "Created for عبد الله الشريف"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_10": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "عبد الله الشريف",
+      "PHONE_NUMBER": "0789990137",
+      "EMAIL_ADDRESS": "abdullah.sharif@example.jo",
+      "LOCATION": "شارع الاستقلال، الزرقاء",
+      "US_SSN": "348-61-2274"
+    },
+    "planted_metadata": {
+      "author": "عبد الله الشريف",
+      "title": "Confidential – عبد الله الشريف",
+      "creator": "HR System – عبد الله الشريف",
+      "keywords": "عبد الله الشريف, abdullah.sharif@example.jo"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_11": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "منى فؤاد",
+      "PHONE_NUMBER": "+20 109 555 0130",
+      "EMAIL_ADDRESS": "mona.fouad@example.eg",
+      "LOCATION": "ميدان رمسيس، القاهرة",
+      "US_SSN": "417-29-6683"
+    },
+    "planted_metadata": {
+      "author": "منى فؤاد",
+      "title": "Confidential – منى فؤاد",
+      "keywords": "منى فؤاد, mona.fouad@example.eg",
+      "comments": "Created for منى فؤاد"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_11": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "منى فؤاد",
+      "PHONE_NUMBER": "+20 109 555 0130",
+      "EMAIL_ADDRESS": "mona.fouad@example.eg",
+      "LOCATION": "ميدان رمسيس، القاهرة",
+      "US_SSN": "417-29-6683"
+    },
+    "planted_metadata": {
+      "author": "منى فؤاد",
+      "title": "Confidential – منى فؤاد",
+      "creator": "HR System – منى فؤاد",
+      "keywords": "منى فؤاد, mona.fouad@example.eg"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_12": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Sofía Ramírez",
+      "PHONE_NUMBER": "+52 55 8712 0164",
+      "EMAIL_ADDRESS": "sofia.ramirez@example.mx",
+      "LOCATION": "Avenida Reforma 222, Piso 4, Ciudad de México 06600, Mexico",
+      "US_SSN": "214-37-9951"
+    },
+    "planted_metadata": {
+      "author": "Sofía Ramírez",
+      "title": "Confidential – Sofía Ramírez",
+      "keywords": "Sofía Ramírez, sofia.ramirez@example.mx",
+      "comments": "Created for Sofía Ramírez"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_12": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Sofía Ramírez",
+      "PHONE_NUMBER": "+52 55 8712 0164",
+      "EMAIL_ADDRESS": "sofia.ramirez@example.mx",
+      "LOCATION": "Avenida Reforma 222, Piso 4, Ciudad de México 06600, Mexico",
+      "US_SSN": "214-37-9951"
+    },
+    "planted_metadata": {
+      "author": "Sofía Ramírez",
+      "title": "Confidential – Sofía Ramírez",
+      "creator": "HR System – Sofía Ramírez",
+      "keywords": "Sofía Ramírez, sofia.ramirez@example.mx"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_13": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Giulia Esposito",
+      "PHONE_NUMBER": "+39 06 7455 0184",
+      "EMAIL_ADDRESS": "giulia.esposito@example.it",
+      "LOCATION": "Via del Corso 101, Interno 3, Roma 00184, Italy",
+      "US_SSN": "253-74-6612"
+    },
+    "planted_metadata": {
+      "author": "Giulia Esposito",
+      "title": "Confidential – Giulia Esposito",
+      "keywords": "Giulia Esposito, giulia.esposito@example.it",
+      "comments": "Created for Giulia Esposito"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_13": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Giulia Esposito",
+      "PHONE_NUMBER": "+39 06 7455 0184",
+      "EMAIL_ADDRESS": "giulia.esposito@example.it",
+      "LOCATION": "Via del Corso 101, Interno 3, Roma 00184, Italy",
+      "US_SSN": "253-74-6612"
+    },
+    "planted_metadata": {
+      "author": "Giulia Esposito",
+      "title": "Confidential – Giulia Esposito",
+      "creator": "HR System – Giulia Esposito",
+      "keywords": "Giulia Esposito, giulia.esposito@example.it"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_14": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Chidi Okeke-Nwosu",
+      "PHONE_NUMBER": "+234 802 555 0147",
+      "EMAIL_ADDRESS": "chidi.okeke@example.ng",
+      "LOCATION": "15 Awolowo Road, Ikoyi, Lagos 101233, Nigeria",
+      "US_SSN": "291-58-3340"
+    },
+    "planted_metadata": {
+      "author": "Chidi Okeke-Nwosu",
+      "title": "Confidential – Chidi Okeke-Nwosu",
+      "keywords": "Chidi Okeke-Nwosu, chidi.okeke@example.ng",
+      "comments": "Created for Chidi Okeke-Nwosu"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_14": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Chidi Okeke-Nwosu",
+      "PHONE_NUMBER": "+234 802 555 0147",
+      "EMAIL_ADDRESS": "chidi.okeke@example.ng",
+      "LOCATION": "15 Awolowo Road, Ikoyi, Lagos 101233, Nigeria",
+      "US_SSN": "291-58-3340"
+    },
+    "planted_metadata": {
+      "author": "Chidi Okeke-Nwosu",
+      "title": "Confidential – Chidi Okeke-Nwosu",
+      "creator": "HR System – Chidi Okeke-Nwosu",
+      "keywords": "Chidi Okeke-Nwosu, chidi.okeke@example.ng"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_15": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Minjun Park",
+      "PHONE_NUMBER": "+82 2-555-0169",
+      "EMAIL_ADDRESS": "minjun.park@example.kr",
+      "LOCATION": "14 Teheran-ro, Gangnam-gu, Seoul 06236, South Korea",
+      "US_SSN": "307-42-8816"
+    },
+    "planted_metadata": {
+      "author": "Minjun Park",
+      "title": "Confidential – Minjun Park",
+      "keywords": "Minjun Park, minjun.park@example.kr",
+      "comments": "Created for Minjun Park"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_15": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Minjun Park",
+      "PHONE_NUMBER": "+82 2-555-0169",
+      "EMAIL_ADDRESS": "minjun.park@example.kr",
+      "LOCATION": "14 Teheran-ro, Gangnam-gu, Seoul 06236, South Korea",
+      "US_SSN": "307-42-8816"
+    },
+    "planted_metadata": {
+      "author": "Minjun Park",
+      "title": "Confidential – Minjun Park",
+      "creator": "HR System – Minjun Park",
+      "keywords": "Minjun Park, minjun.park@example.kr"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_16": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Daan van der Berg",
+      "PHONE_NUMBER": "+31 20 555 0152",
+      "EMAIL_ADDRESS": "daan.vanderberg@example.nl",
+      "LOCATION": "Keizersgracht 123, 1015 CJ Amsterdam, Netherlands",
+      "US_SSN": "268-53-9024"
+    },
+    "planted_metadata": {
+      "author": "Daan van der Berg",
+      "title": "Confidential – Daan van der Berg",
+      "keywords": "Daan van der Berg, daan.vanderberg@example.nl",
+      "comments": "Created for Daan van der Berg"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_16": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Daan van der Berg",
+      "PHONE_NUMBER": "+31 20 555 0152",
+      "EMAIL_ADDRESS": "daan.vanderberg@example.nl",
+      "LOCATION": "Keizersgracht 123, 1015 CJ Amsterdam, Netherlands",
+      "US_SSN": "268-53-9024"
+    },
+    "planted_metadata": {
+      "author": "Daan van der Berg",
+      "title": "Confidential – Daan van der Berg",
+      "creator": "HR System – Daan van der Berg",
+      "keywords": "Daan van der Berg, daan.vanderberg@example.nl"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_17": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Astrid Johansson",
+      "PHONE_NUMBER": "+46 8 555 0138",
+      "EMAIL_ADDRESS": "astrid.johansson@example.se",
+      "LOCATION": "Drottninggatan 50, Lagenhet 1102, 111 21 Stockholm, Sweden",
+      "US_SSN": "231-49-7705"
+    },
+    "planted_metadata": {
+      "author": "Astrid Johansson",
+      "title": "Confidential – Astrid Johansson",
+      "keywords": "Astrid Johansson, astrid.johansson@example.se",
+      "comments": "Created for Astrid Johansson"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_17": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Astrid Johansson",
+      "PHONE_NUMBER": "+46 8 555 0138",
+      "EMAIL_ADDRESS": "astrid.johansson@example.se",
+      "LOCATION": "Drottninggatan 50, Lagenhet 1102, 111 21 Stockholm, Sweden",
+      "US_SSN": "231-49-7705"
+    },
+    "planted_metadata": {
+      "author": "Astrid Johansson",
+      "title": "Confidential – Astrid Johansson",
+      "creator": "HR System – Astrid Johansson",
+      "keywords": "Astrid Johansson, astrid.johansson@example.se"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_18": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Lucia Fernandez Rossi",
+      "PHONE_NUMBER": "+54 11 4555-0126",
+      "EMAIL_ADDRESS": "lucia.fernandez@example.ar",
+      "LOCATION": "Avenida Corrientes 1450, Piso 8 Depto B, Buenos Aires C1043AAZ, Argentina",
+      "US_SSN": "205-61-8847"
+    },
+    "planted_metadata": {
+      "author": "Lucia Fernandez Rossi",
+      "title": "Confidential – Lucia Fernandez Rossi",
+      "keywords": "Lucia Fernandez Rossi, lucia.fernandez@example.ar",
+      "comments": "Created for Lucia Fernandez Rossi"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_18": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Lucia Fernandez Rossi",
+      "PHONE_NUMBER": "+54 11 4555-0126",
+      "EMAIL_ADDRESS": "lucia.fernandez@example.ar",
+      "LOCATION": "Avenida Corrientes 1450, Piso 8 Depto B, Buenos Aires C1043AAZ, Argentina",
+      "US_SSN": "205-61-8847"
+    },
+    "planted_metadata": {
+      "author": "Lucia Fernandez Rossi",
+      "title": "Confidential – Lucia Fernandez Rossi",
+      "creator": "HR System – Lucia Fernandez Rossi",
+      "keywords": "Lucia Fernandez Rossi, lucia.fernandez@example.ar"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_19": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "ريم السالم",
+      "PHONE_NUMBER": "+971 50 555 0119",
+      "EMAIL_ADDRESS": "reem.salem@example.ae",
+      "LOCATION": "شارع الكورنيش، أبوظبي",
+      "US_SSN": "329-64-7752"
+    },
+    "planted_metadata": {
+      "author": "ريم السالم",
+      "title": "Confidential – ريم السالم",
+      "keywords": "ريم السالم, reem.salem@example.ae",
+      "comments": "Created for ريم السالم"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_19": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "ريم السالم",
+      "PHONE_NUMBER": "+971 50 555 0119",
+      "EMAIL_ADDRESS": "reem.salem@example.ae",
+      "LOCATION": "شارع الكورنيش، أبوظبي",
+      "US_SSN": "329-64-7752"
+    },
+    "planted_metadata": {
+      "author": "ريم السالم",
+      "title": "Confidential – ريم السالم",
+      "creator": "HR System – ريم السالم",
+      "keywords": "ريم السالم, reem.salem@example.ae"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  }
+}

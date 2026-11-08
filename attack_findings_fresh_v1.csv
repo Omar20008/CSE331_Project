@@ -1,0 +1,41 @@
+doc,type,true_identity,reidentified,anonymity_set_k,population_N,attacker_guess,leaking_surfaces,channels_sufficient_alone,recovered_fragments
+docx_00,docx,ياسمين عبد الرحمن,YES,1,20,ياسمين عبد الرحمن,body;comments;header,hidden/aux surfaces;visible body,التحرير;الرحمن;شارع;ياسمين
+docx_01,docx,Tarek El-Masry,YES,1,20,Tarek El-Masry,body;header,hidden/aux surfaces;visible body,11765;apartment;masry;nasr;tarek
+docx_02,docx,Elif Yilmaz-Demir,YES,1,20,Elif Yilmaz-Demir,body;comments;header,hidden/aux surfaces;visible body,34433;demir;elif;yilmaz
+docx_03,docx,Mehmet Kaya,YES,1,20,Mehmet Kaya,body,visible body,bagdat;caddesi
+docx_04,docx,João Carvalho-Souza,YES,1,20,João Carvalho-Souza,body,visible body,1500;apto
+docx_05,docx,Beatriz Santos Lima,YES,1,20,Beatriz Santos Lima,body;comments,hidden/aux surfaces;visible body,1702;22021;atlantica;avenida;lima
+docx_06,docx,Haruto Sato,YES,1,20,Haruto Sato,body;header,hidden/aux surfaces;visible body,0023;1203;haruto;nishi;sato;shinjuku
+docx_07,docx,Yuki Tanaka,YES,1,20,Yuki Tanaka,body,visible body,0041;chuo
+docx_08,docx,Olivia Tremblay,YES,1,20,Olivia Tremblay,body;header,hidden/aux surfaces;visible body,2210;olivia;station;tremblay
+docx_09,docx,Nathan Gagne-Roy,YES,1,20,Nathan Gagne-Roy,header,hidden/aux surfaces,gagne;nathan
+docx_10,docx,عبد الله الشريف,YES,1,20,عبد الله الشريف,body,visible body,الاستقلال;شارع
+docx_11,docx,منى فؤاد,YES,1,20,منى فؤاد,body;header,hidden/aux surfaces,القاهرة;فؤاد
+docx_12,docx,Sofía Ramírez,YES,1,20,Sofía Ramírez,body;comments;header,hidden/aux surfaces;visible body,06600;avenida;ciudad;méxico;piso;ramírez;reforma;sofía
+docx_13,docx,Giulia Esposito,YES,1,20,Giulia Esposito,body,visible body,corso;interno
+docx_14,docx,Chidi Okeke-Nwosu,YES,1,20,Chidi Okeke-Nwosu,body;comments;header,hidden/aux surfaces;visible body,101233;awolowo;chidi;nwosu;okeke
+docx_15,docx,Minjun Park,YES,1,20,Minjun Park,body;header,hidden/aux surfaces;visible body,06236;minjun;park;teheran
+docx_16,docx,Daan van der Berg,YES,1,20,Daan van der Berg,body;header,hidden/aux surfaces;visible body,1015;daan;keizersgracht
+docx_17,docx,Astrid Johansson,YES,1,20,Astrid Johansson,body,visible body,1102;drottninggatan
+docx_18,docx,Lucia Fernandez Rossi,YES,1,20,Lucia Fernandez Rossi,body,visible body,1043;1450;avenida;c1043aaz;corrientes;depto;piso
+docx_19,docx,ريم السالم,YES,1,20,ريم السالم,body;comments;header,hidden/aux surfaces;visible body,السالم;الكورنيش;شارع
+pdf_00,pdf,ياسمين عبد الرحمن,no,20,20,,,,
+pdf_01,pdf,Tarek El-Masry,YES,1,20,Tarek El-Masry,body,visible body,11765;apartment;nasr
+pdf_02,pdf,Elif Yilmaz-Demir,YES,1,20,Elif Yilmaz-Demir,body,visible body,34433;caddesi;istiklal
+pdf_03,pdf,Mehmet Kaya,no,20,20,,,,
+pdf_04,pdf,João Carvalho-Souza,YES,1,20,João Carvalho-Souza,body,visible body,apto
+pdf_05,pdf,Beatriz Santos Lima,YES,1,20,Beatriz Santos Lima,body,visible body,1702;22021
+pdf_06,pdf,Haruto Sato,YES,1,20,Haruto Sato,body,visible body,0023;1203;nishi;shinjuku
+pdf_07,pdf,Yuki Tanaka,YES,1,20,Yuki Tanaka,body,visible body,0041;chuo
+pdf_08,pdf,Olivia Tremblay,YES,1,20,Olivia Tremblay,body,visible body,station
+pdf_09,pdf,Nathan Gagne-Roy,no,20,20,,,,
+pdf_10,pdf,عبد الله الشريف,no,20,20,,,,
+pdf_11,pdf,منى فؤاد,no,20,20,,,,
+pdf_12,pdf,Sofía Ramírez,YES,1,20,Sofía Ramírez,body,visible body,06600;avenida;ciudad;méxico;piso;reforma
+pdf_13,pdf,Giulia Esposito,YES,1,20,Giulia Esposito,body,visible body,corso;interno
+pdf_14,pdf,Chidi Okeke-Nwosu,YES,1,20,Chidi Okeke-Nwosu,body,visible body,101233;awolowo
+pdf_15,pdf,Minjun Park,YES,1,20,Minjun Park,body,visible body,06236;teheran
+pdf_16,pdf,Daan van der Berg,YES,1,20,Daan van der Berg,body,visible body,1015;keizersgracht
+pdf_17,pdf,Astrid Johansson,YES,1,20,Astrid Johansson,body,visible body,1102;drottninggatan
+pdf_18,pdf,Lucia Fernandez Rossi,YES,1,20,Lucia Fernandez Rossi,body,visible body,1043;1450;avenida;c1043aaz;corrientes;depto;piso
+pdf_19,pdf,ريم السالم,no,20,20,,,,

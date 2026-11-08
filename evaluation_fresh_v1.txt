@@ -1,0 +1,22 @@
+Approach: v1
+----------------------------------------------------------------------
+Entity          Testable  Full leak  Partial   Recall
+PERSON                40         11        2    72.5%
+PHONE_NUMBER          40          0        0   100.0%
+EMAIL_ADDRESS         40          0        0   100.0%
+LOCATION              40          0       33   100.0%
+US_SSN                40          0        0   100.0%
+----------------------------------------------------------------------
+Documents evaluated                 : 40
+Text: residual full leaks           : 11  (docs affected: 11/40)
+Text: residual partial leaks        : 35
+Leak locations (full+partial)       : {'body': 36, 'header': 12, 'comments': 6}
+Metadata values planted             : 160
+Metadata: full / partial leaks      : 0 / 0  (docs affected: 0/40)
+False redactions (decoys removed)   : 40/40
+Utility (non-sensitive words kept)  : 93.7%
+Placeholders inserted               : 193
+NOT TESTABLE planted values         : 0  (excluded from recall)
+
+Not testable:
+

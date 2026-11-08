@@ -1,0 +1,41 @@
+doc,type,true_identity,reidentified,anonymity_set_k,population_N,attacker_guess,leaking_surfaces,channels_sufficient_alone,recovered_fragments
+docx_00,docx,Omar Al-Khatib,YES,1,20,Omar Al-Khatib,body;comments;footer;header;hidden_text;metadata,hidden/aux surfaces;metadata;visible body,11181;1234;4580;amman;building;khatib;omar;wasfi
+docx_01,docx,Siobhan O'Brien-Walsh,YES,1,20,Siobhan O'Brien-Walsh,body;comments;footer;header;hidden_text;metadata,hidden/aux surfaces;metadata;visible body,0958;7731;7946;brien;cardiff;cf10;mill;obrien;siobhan;walsh
+docx_02,docx,Aisha Khan,YES,1,20,Aisha Khan,body;comments;footer;header;hidden_text;metadata,hidden/aux surfaces;metadata;visible body,0132;4417;62704;aisha;khan;springfield
+docx_03,docx,Michael Chen,YES,1,20,Michael Chen,body;comments;footer;header;hidden_text;metadata,hidden/aux surfaces;metadata;visible body,4406;5309;92101;chen;diego;michael;michael_chen
+docx_04,docx,Maria Garcia,YES,1,20,Maria Garcia,body;comments;footer;header;hidden_text;metadata,hidden/aux surfaces;metadata;visible body,0147;10006;9012;garcia;maria;york
+docx_05,docx,محمد الخطيب,YES,1,20,محمد الخطيب,body;comments;footer;header;hidden_text;metadata,hidden/aux surfaces;metadata;visible body,0795551234;2256;khateeb;mohammad;الجامعة;الخطيب;شارع;عمان;محمد
+docx_06,docx,Priya Raman,YES,1,20,Priya Raman,body;comments;footer;header;hidden_text;metadata,hidden/aux surfaces;metadata;visible body,1200;19107;5540;8890;philadelphia;priya;raman
+docx_07,docx,Liam Nguyen,YES,1,20,Liam Nguyen,body;comments;footer;header;hidden_text;metadata,hidden/aux surfaces;metadata;visible body,0199;4471;6073;78765;austin;liam;nguyen
+docx_08,docx,José Ángel Martínez,YES,1,20,José Ángel Martínez,body;comments;footer;header;hidden_text;metadata,hidden/aux surfaces;metadata;visible body,0123;28013;3345;jose;josé;madrid;martinez;martínez;ángel
+docx_09,docx,Wei Zhang,YES,1,20,Wei Zhang,body;comments;footer;header;hidden_text;metadata,hidden/aux surfaces;metadata;visible body,2938;4567;98101;seattle;zhang
+docx_10,docx,فاطمة الزعبي,YES,1,20,فاطمة الزعبي,body;comments;footer;header;hidden_text;metadata,hidden/aux surfaces;metadata;visible body,0146;7788;fatima;zoubi;إربد;الزعبي;الملكة;رانيا;شارع;فاطمة
+docx_11,docx,Mateo Hernández,YES,1,20,Mateo Hernández,body;comments;footer;header;metadata,hidden/aux surfaces;metadata;visible body,41004;9910;hernandez;hernández;mateo;sevilla
+docx_12,docx,Mei Lin,YES,1,20,Mei Lin,body;comments;hidden_text,hidden/aux surfaces;visible body,0123;200021;5555;7420;china;huangpu;nanjing;shanghai
+docx_13,docx,Arjun Patel,YES,1,20,Arjun Patel,body;comments;footer;header;hidden_text;metadata,hidden/aux surfaces;metadata;visible body,0112;5555;560001;8835;arjun;bengaluru;india;patel
+docx_14,docx,Hannah Schmidt,YES,1,20,Hannah Schmidt,body;comments;footer;header;hidden_text;metadata,hidden/aux surfaces;metadata;visible body,0199;10117;3471;5550;berlin;germany;hannah;linden;schmidt;unter
+docx_15,docx,Khaled Mansour,YES,1,20,Khaled Mansour,body;comments;footer;header;hidden_text;metadata,hidden/aux surfaces;metadata;visible body,0164;11953;9025;amman;khaled;mansour;mecca
+docx_16,docx,Emily Watson,YES,1,20,Emily Watson,body;comments;footer;header;hidden_text;metadata,hidden/aux surfaces;metadata;visible body,0198;5540;emily;king;manchester;watson
+docx_17,docx,Carlos Rivera,YES,1,20,Carlos Rivera,body;comments;footer;header;hidden_text;metadata,hidden/aux surfaces;metadata;visible body,0176;33139;7788;carlos;drive;miami;ocean;rivera
+docx_18,docx,Sara Haddad,YES,1,20,Sara Haddad,body;comments;footer;header;hidden_text;metadata,hidden/aux surfaces;metadata;visible body,0796667788;11181;6610;amman;haddad;rainbow;sara
+docx_19,docx,نورا المصري,YES,1,20,نورا المصري,body;comments;footer;header;hidden_text;metadata,hidden/aux surfaces;metadata;visible body,0781234567;8890;masri;noura;المصري;شارع;نورا
+pdf_00,pdf,Omar Al-Khatib,YES,1,20,Omar Al-Khatib,body,visible body,11181;1234;4580;amman;building;khatib;omar;wasfi
+pdf_01,pdf,Siobhan O'Brien-Walsh,YES,1,20,Siobhan O'Brien-Walsh,body,visible body,0958;7731;7946;brien;cardiff;cf10;mill;obrien;siobhan;walsh
+pdf_02,pdf,Aisha Khan,YES,1,20,Aisha Khan,body,visible body,0132;4417;62704;aisha;khan;springfield
+pdf_03,pdf,Michael Chen,YES,1,20,Michael Chen,body,visible body,4406;5309;92101;chen;diego;michael;michael_chen
+pdf_04,pdf,Maria Garcia,YES,1,20,Maria Garcia,body,visible body,0147;10006;9012;garcia;maria;york
+pdf_05,pdf,محمد الخطيب,YES,1,20,محمد الخطيب,body,visible body,0795551234;2256;khateeb;mohammad;الجامعة;الخطيب;شارع;عمان;محمد
+pdf_06,pdf,Priya Raman,YES,1,20,Priya Raman,body,visible body,1200;19107;5540;8890;philadelphia;priya;raman
+pdf_07,pdf,Liam Nguyen,YES,1,20,Liam Nguyen,body,visible body,0199;4471;6073;78765;austin;liam;nguyen
+pdf_08,pdf,José Ángel Martínez,YES,1,20,José Ángel Martínez,body,visible body,0123;28013;3345;jose;josé;madrid;martinez;martínez;ángel
+pdf_09,pdf,Wei Zhang,YES,1,20,Wei Zhang,body,visible body,2938;4567;98101;seattle;zhang
+pdf_10,pdf,فاطمة الزعبي,YES,1,20,فاطمة الزعبي,body,visible body,0146;7788;fatima;zoubi;إربد;الزعبي;الملكة;رانيا;شارع;فاطمة
+pdf_11,pdf,Mateo Hernández,YES,1,20,Mateo Hernández,body,visible body,41004;9910;hernandez;hernández;mateo;sevilla
+pdf_12,pdf,Mei Lin,YES,1,20,Mei Lin,body,visible body,0123;200021;5555;7420;china;huangpu;nanjing;shanghai
+pdf_13,pdf,Arjun Patel,YES,1,20,Arjun Patel,body,visible body,0112;5555;560001;8835;arjun;bengaluru;india;patel
+pdf_14,pdf,Hannah Schmidt,YES,1,20,Hannah Schmidt,body,visible body,0199;10117;3471;5550;berlin;germany;hannah;linden;schmidt;unter
+pdf_15,pdf,Khaled Mansour,YES,1,20,Khaled Mansour,body,visible body,0164;11953;9025;amman;khaled;mansour;mecca
+pdf_16,pdf,Emily Watson,YES,1,20,Emily Watson,body,visible body,0198;5540;emily;king;manchester;watson
+pdf_17,pdf,Carlos Rivera,YES,1,20,Carlos Rivera,body,visible body,0176;33139;7788;carlos;drive;miami;ocean;rivera
+pdf_18,pdf,Sara Haddad,YES,1,20,Sara Haddad,body,visible body,0796667788;11181;6610;amman;haddad;rainbow;sara
+pdf_19,pdf,نورا المصري,YES,1,20,نورا المصري,body,visible body,0781234567;8890;masri;noura;المصري;شارع;نورا

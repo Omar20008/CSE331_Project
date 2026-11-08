@@ -1,0 +1,762 @@
+{
+  "docx_00": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Omar Al-Khatib",
+      "PHONE_NUMBER": "+962 79 555 1234",
+      "EMAIL_ADDRESS": "omar.khatib@example.jo",
+      "LOCATION": "Building 15, Wasfi Al-Tal Street, Amman 11181, Jordan",
+      "US_SSN": "623-19-4580"
+    },
+    "planted_metadata": {
+      "author": "Omar Al-Khatib",
+      "title": "Confidential – Omar Al-Khatib",
+      "keywords": "Omar Al-Khatib, omar.khatib@example.jo",
+      "comments": "Created for Omar Al-Khatib"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_00": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Omar Al-Khatib",
+      "PHONE_NUMBER": "+962 79 555 1234",
+      "EMAIL_ADDRESS": "omar.khatib@example.jo",
+      "LOCATION": "Building 15, Wasfi Al-Tal Street, Amman 11181, Jordan",
+      "US_SSN": "623-19-4580"
+    },
+    "planted_metadata": {
+      "author": "Omar Al-Khatib",
+      "title": "Confidential – Omar Al-Khatib",
+      "creator": "HR System – Omar Al-Khatib",
+      "keywords": "Omar Al-Khatib, omar.khatib@example.jo"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_01": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Siobhan O'Brien-Walsh",
+      "PHONE_NUMBER": "+44 20 7946 0958",
+      "EMAIL_ADDRESS": "siobhan.obrien-walsh@example.co.uk",
+      "LOCATION": "14 Mill Lane, Cardiff CF10 3AT, UK",
+      "US_SSN": "412-55-7731"
+    },
+    "planted_metadata": {
+      "author": "Siobhan O'Brien-Walsh",
+      "title": "Confidential – Siobhan O'Brien-Walsh",
+      "keywords": "Siobhan O'Brien-Walsh, siobhan.obrien-walsh@example.co.uk",
+      "comments": "Created for Siobhan O'Brien-Walsh"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_01": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Siobhan O'Brien-Walsh",
+      "PHONE_NUMBER": "+44 20 7946 0958",
+      "EMAIL_ADDRESS": "siobhan.obrien-walsh@example.co.uk",
+      "LOCATION": "14 Mill Lane, Cardiff CF10 3AT, UK",
+      "US_SSN": "412-55-7731"
+    },
+    "planted_metadata": {
+      "author": "Siobhan O'Brien-Walsh",
+      "title": "Confidential – Siobhan O'Brien-Walsh",
+      "creator": "HR System – Siobhan O'Brien-Walsh",
+      "keywords": "Siobhan O'Brien-Walsh, siobhan.obrien-walsh@example.co.uk"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_02": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Aisha Khan",
+      "PHONE_NUMBER": "+1 (415) 555-0132",
+      "EMAIL_ADDRESS": "aisha.khan+hr@example.org",
+      "LOCATION": "42 Elm Street, Apt 5B, Springfield, IL 62704",
+      "US_SSN": "538-62-4417"
+    },
+    "planted_metadata": {
+      "author": "Aisha Khan",
+      "title": "Confidential – Aisha Khan",
+      "keywords": "Aisha Khan, aisha.khan+hr@example.org",
+      "comments": "Created for Aisha Khan"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_02": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Aisha Khan",
+      "PHONE_NUMBER": "+1 (415) 555-0132",
+      "EMAIL_ADDRESS": "aisha.khan+hr@example.org",
+      "LOCATION": "42 Elm Street, Apt 5B, Springfield, IL 62704",
+      "US_SSN": "538-62-4417"
+    },
+    "planted_metadata": {
+      "author": "Aisha Khan",
+      "title": "Confidential – Aisha Khan",
+      "creator": "HR System – Aisha Khan",
+      "keywords": "Aisha Khan, aisha.khan+hr@example.org"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_03": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Michael Chen",
+      "PHONE_NUMBER": "555 867 5309",
+      "EMAIL_ADDRESS": "michael_chen@mail.example.com",
+      "LOCATION": "700 Harbor Blvd, Unit 12, San Diego, CA 92101",
+      "US_SSN": "528-91-4406"
+    },
+    "planted_metadata": {
+      "author": "Michael Chen",
+      "title": "Confidential – Michael Chen",
+      "keywords": "Michael Chen, michael_chen@mail.example.com",
+      "comments": "Created for Michael Chen"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_03": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Michael Chen",
+      "PHONE_NUMBER": "555 867 5309",
+      "EMAIL_ADDRESS": "michael_chen@mail.example.com",
+      "LOCATION": "700 Harbor Blvd, Unit 12, San Diego, CA 92101",
+      "US_SSN": "528-91-4406"
+    },
+    "planted_metadata": {
+      "author": "Michael Chen",
+      "title": "Confidential – Michael Chen",
+      "creator": "HR System – Michael Chen",
+      "keywords": "Michael Chen, michael_chen@mail.example.com"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_04": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Maria Garcia",
+      "PHONE_NUMBER": "(212) 555-0147",
+      "EMAIL_ADDRESS": "maria.garcia@example.com",
+      "LOCATION": "88 Broadway, New York, NY 10006",
+      "US_SSN": "301-44-9012"
+    },
+    "planted_metadata": {
+      "author": "Maria Garcia",
+      "title": "Confidential – Maria Garcia",
+      "keywords": "Maria Garcia, maria.garcia@example.com",
+      "comments": "Created for Maria Garcia"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_04": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Maria Garcia",
+      "PHONE_NUMBER": "(212) 555-0147",
+      "EMAIL_ADDRESS": "maria.garcia@example.com",
+      "LOCATION": "88 Broadway, New York, NY 10006",
+      "US_SSN": "301-44-9012"
+    },
+    "planted_metadata": {
+      "author": "Maria Garcia",
+      "title": "Confidential – Maria Garcia",
+      "creator": "HR System – Maria Garcia",
+      "keywords": "Maria Garcia, maria.garcia@example.com"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_05": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "محمد الخطيب",
+      "PHONE_NUMBER": "0795551234",
+      "EMAIL_ADDRESS": "mohammad.khateeb@example.com",
+      "LOCATION": "شارع الجامعة، عمان",
+      "US_SSN": "317-80-2256"
+    },
+    "planted_metadata": {
+      "author": "محمد الخطيب",
+      "title": "Confidential – محمد الخطيب",
+      "keywords": "محمد الخطيب, mohammad.khateeb@example.com",
+      "comments": "Created for محمد الخطيب"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_05": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "محمد الخطيب",
+      "PHONE_NUMBER": "0795551234",
+      "EMAIL_ADDRESS": "mohammad.khateeb@example.com",
+      "LOCATION": "شارع الجامعة، عمان",
+      "US_SSN": "317-80-2256"
+    },
+    "planted_metadata": {
+      "author": "محمد الخطيب",
+      "title": "Confidential – محمد الخطيب",
+      "creator": "HR System – محمد الخطيب",
+      "keywords": "محمد الخطيب, mohammad.khateeb@example.com"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_06": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Priya Raman",
+      "PHONE_NUMBER": "555.201.8890",
+      "EMAIL_ADDRESS": "priya.raman@example.net",
+      "LOCATION": "1200 Market St, Philadelphia, PA 19107",
+      "US_SSN": "287-31-5540"
+    },
+    "planted_metadata": {
+      "author": "Priya Raman",
+      "title": "Confidential – Priya Raman",
+      "keywords": "Priya Raman, priya.raman@example.net",
+      "comments": "Created for Priya Raman"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_06": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Priya Raman",
+      "PHONE_NUMBER": "555.201.8890",
+      "EMAIL_ADDRESS": "priya.raman@example.net",
+      "LOCATION": "1200 Market St, Philadelphia, PA 19107",
+      "US_SSN": "287-31-5540"
+    },
+    "planted_metadata": {
+      "author": "Priya Raman",
+      "title": "Confidential – Priya Raman",
+      "creator": "HR System – Priya Raman",
+      "keywords": "Priya Raman, priya.raman@example.net"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_07": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Liam Nguyen",
+      "PHONE_NUMBER": "1-800-555-0199",
+      "EMAIL_ADDRESS": "liam@sub.domain.example.com",
+      "LOCATION": "P.O. Box 4471, Austin, TX 78765",
+      "US_SSN": "140-22-6073"
+    },
+    "planted_metadata": {
+      "author": "Liam Nguyen",
+      "title": "Confidential – Liam Nguyen",
+      "keywords": "Liam Nguyen, liam@sub.domain.example.com",
+      "comments": "Created for Liam Nguyen"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_07": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Liam Nguyen",
+      "PHONE_NUMBER": "1-800-555-0199",
+      "EMAIL_ADDRESS": "liam@sub.domain.example.com",
+      "LOCATION": "P.O. Box 4471, Austin, TX 78765",
+      "US_SSN": "140-22-6073"
+    },
+    "planted_metadata": {
+      "author": "Liam Nguyen",
+      "title": "Confidential – Liam Nguyen",
+      "creator": "HR System – Liam Nguyen",
+      "keywords": "Liam Nguyen, liam@sub.domain.example.com"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_08": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "José Ángel Martínez",
+      "PHONE_NUMBER": "555-0123",
+      "EMAIL_ADDRESS": "jose.martinez@example.es",
+      "LOCATION": "Calle Mayor 7, Madrid 28013, Spain",
+      "US_SSN": "562-19-3345"
+    },
+    "planted_metadata": {
+      "author": "José Ángel Martínez",
+      "title": "Confidential – José Ángel Martínez",
+      "keywords": "José Ángel Martínez, jose.martinez@example.es",
+      "comments": "Created for José Ángel Martínez"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_08": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "José Ángel Martínez",
+      "PHONE_NUMBER": "555-0123",
+      "EMAIL_ADDRESS": "jose.martinez@example.es",
+      "LOCATION": "Calle Mayor 7, Madrid 28013, Spain",
+      "US_SSN": "562-19-3345"
+    },
+    "planted_metadata": {
+      "author": "José Ángel Martínez",
+      "title": "Confidential – José Ángel Martínez",
+      "creator": "HR System – José Ángel Martínez",
+      "keywords": "José Ángel Martínez, jose.martinez@example.es"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_09": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Wei Zhang",
+      "PHONE_NUMBER": "+1.555.123.4567",
+      "EMAIL_ADDRESS": "wei.zhang@example.com",
+      "LOCATION": "300 Oak Ave Apt 4, Seattle, WA 98101",
+      "US_SSN": "077-14-2938"
+    },
+    "planted_metadata": {
+      "author": "Wei Zhang",
+      "title": "Confidential – Wei Zhang",
+      "keywords": "Wei Zhang, wei.zhang@example.com",
+      "comments": "Created for Wei Zhang"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_09": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Wei Zhang",
+      "PHONE_NUMBER": "+1.555.123.4567",
+      "EMAIL_ADDRESS": "wei.zhang@example.com",
+      "LOCATION": "300 Oak Ave Apt 4, Seattle, WA 98101",
+      "US_SSN": "077-14-2938"
+    },
+    "planted_metadata": {
+      "author": "Wei Zhang",
+      "title": "Confidential – Wei Zhang",
+      "creator": "HR System – Wei Zhang",
+      "keywords": "Wei Zhang, wei.zhang@example.com"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_10": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "فاطمة الزعبي",
+      "PHONE_NUMBER": "+962 78 555 0146",
+      "EMAIL_ADDRESS": "fatima.zoubi@example.jo",
+      "LOCATION": "شارع الملكة رانيا، إربد",
+      "US_SSN": "609-23-7788"
+    },
+    "planted_metadata": {
+      "author": "فاطمة الزعبي",
+      "title": "Confidential – فاطمة الزعبي",
+      "keywords": "فاطمة الزعبي, fatima.zoubi@example.jo",
+      "comments": "Created for فاطمة الزعبي"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_10": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "فاطمة الزعبي",
+      "PHONE_NUMBER": "+962 78 555 0146",
+      "EMAIL_ADDRESS": "fatima.zoubi@example.jo",
+      "LOCATION": "شارع الملكة رانيا، إربد",
+      "US_SSN": "609-23-7788"
+    },
+    "planted_metadata": {
+      "author": "فاطمة الزعبي",
+      "title": "Confidential – فاطمة الزعبي",
+      "creator": "HR System – فاطمة الزعبي",
+      "keywords": "فاطمة الزعبي, fatima.zoubi@example.jo"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_11": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Mateo Hernández",
+      "PHONE_NUMBER": "+34 612 55 01 88",
+      "EMAIL_ADDRESS": "mateo.hernandez@example.es",
+      "LOCATION": "Calle del Sol 23, Sevilla 41004, Spain",
+      "US_SSN": "254-73-9910"
+    },
+    "planted_metadata": {
+      "author": "Mateo Hernández",
+      "title": "Confidential – Mateo Hernández",
+      "keywords": "Mateo Hernández, mateo.hernandez@example.es",
+      "comments": "Created for Mateo Hernández"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_11": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Mateo Hernández",
+      "PHONE_NUMBER": "+34 612 55 01 88",
+      "EMAIL_ADDRESS": "mateo.hernandez@example.es",
+      "LOCATION": "Calle del Sol 23, Sevilla 41004, Spain",
+      "US_SSN": "254-73-9910"
+    },
+    "planted_metadata": {
+      "author": "Mateo Hernández",
+      "title": "Confidential – Mateo Hernández",
+      "creator": "HR System – Mateo Hernández",
+      "keywords": "Mateo Hernández, mateo.hernandez@example.es"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_12": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Mei Lin",
+      "PHONE_NUMBER": "+86 10 5555 0123",
+      "EMAIL_ADDRESS": "mei.lin@example.com",
+      "LOCATION": "88 Nanjing Road, Huangpu, Shanghai 200021, China",
+      "US_SSN": "231-55-7420"
+    },
+    "planted_metadata": {
+      "author": "Mei Lin",
+      "title": "Confidential – Mei Lin",
+      "keywords": "Mei Lin, mei.lin@example.com",
+      "comments": "Created for Mei Lin"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_12": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Mei Lin",
+      "PHONE_NUMBER": "+86 10 5555 0123",
+      "EMAIL_ADDRESS": "mei.lin@example.com",
+      "LOCATION": "88 Nanjing Road, Huangpu, Shanghai 200021, China",
+      "US_SSN": "231-55-7420"
+    },
+    "planted_metadata": {
+      "author": "Mei Lin",
+      "title": "Confidential – Mei Lin",
+      "creator": "HR System – Mei Lin",
+      "keywords": "Mei Lin, mei.lin@example.com"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_13": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Arjun Patel",
+      "PHONE_NUMBER": "+91 22 5555 0112",
+      "EMAIL_ADDRESS": "arjun.patel@example.in",
+      "LOCATION": "12 MG Road, Bengaluru 560001, India",
+      "US_SSN": "276-14-8835"
+    },
+    "planted_metadata": {
+      "author": "Arjun Patel",
+      "title": "Confidential – Arjun Patel",
+      "keywords": "Arjun Patel, arjun.patel@example.in",
+      "comments": "Created for Arjun Patel"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_13": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Arjun Patel",
+      "PHONE_NUMBER": "+91 22 5555 0112",
+      "EMAIL_ADDRESS": "arjun.patel@example.in",
+      "LOCATION": "12 MG Road, Bengaluru 560001, India",
+      "US_SSN": "276-14-8835"
+    },
+    "planted_metadata": {
+      "author": "Arjun Patel",
+      "title": "Confidential – Arjun Patel",
+      "creator": "HR System – Arjun Patel",
+      "keywords": "Arjun Patel, arjun.patel@example.in"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_14": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Hannah Schmidt",
+      "PHONE_NUMBER": "+49 30 5550 0199",
+      "EMAIL_ADDRESS": "hannah.schmidt@example.de",
+      "LOCATION": "Unter den Linden 5, 10117 Berlin, Germany",
+      "US_SSN": "205-66-3471"
+    },
+    "planted_metadata": {
+      "author": "Hannah Schmidt",
+      "title": "Confidential – Hannah Schmidt",
+      "keywords": "Hannah Schmidt, hannah.schmidt@example.de",
+      "comments": "Created for Hannah Schmidt"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_14": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Hannah Schmidt",
+      "PHONE_NUMBER": "+49 30 5550 0199",
+      "EMAIL_ADDRESS": "hannah.schmidt@example.de",
+      "LOCATION": "Unter den Linden 5, 10117 Berlin, Germany",
+      "US_SSN": "205-66-3471"
+    },
+    "planted_metadata": {
+      "author": "Hannah Schmidt",
+      "title": "Confidential – Hannah Schmidt",
+      "creator": "HR System – Hannah Schmidt",
+      "keywords": "Hannah Schmidt, hannah.schmidt@example.de"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_15": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Khaled Mansour",
+      "PHONE_NUMBER": "+962 79 555 0164",
+      "EMAIL_ADDRESS": "khaled.mansour@example.jo",
+      "LOCATION": "Mecca Street 90, Amman 11953, Jordan",
+      "US_SSN": "312-48-9025"
+    },
+    "planted_metadata": {
+      "author": "Khaled Mansour",
+      "title": "Confidential – Khaled Mansour",
+      "keywords": "Khaled Mansour, khaled.mansour@example.jo",
+      "comments": "Created for Khaled Mansour"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_15": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Khaled Mansour",
+      "PHONE_NUMBER": "+962 79 555 0164",
+      "EMAIL_ADDRESS": "khaled.mansour@example.jo",
+      "LOCATION": "Mecca Street 90, Amman 11953, Jordan",
+      "US_SSN": "312-48-9025"
+    },
+    "planted_metadata": {
+      "author": "Khaled Mansour",
+      "title": "Confidential – Khaled Mansour",
+      "creator": "HR System – Khaled Mansour",
+      "keywords": "Khaled Mansour, khaled.mansour@example.jo"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_16": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Emily Watson",
+      "PHONE_NUMBER": "+44 161 496 0198",
+      "EMAIL_ADDRESS": "emily.watson@example.co.uk",
+      "LOCATION": "22 King Street, Manchester M2 4LQ, UK",
+      "US_SSN": "188-29-5540"
+    },
+    "planted_metadata": {
+      "author": "Emily Watson",
+      "title": "Confidential – Emily Watson",
+      "keywords": "Emily Watson, emily.watson@example.co.uk",
+      "comments": "Created for Emily Watson"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_16": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Emily Watson",
+      "PHONE_NUMBER": "+44 161 496 0198",
+      "EMAIL_ADDRESS": "emily.watson@example.co.uk",
+      "LOCATION": "22 King Street, Manchester M2 4LQ, UK",
+      "US_SSN": "188-29-5540"
+    },
+    "planted_metadata": {
+      "author": "Emily Watson",
+      "title": "Confidential – Emily Watson",
+      "creator": "HR System – Emily Watson",
+      "keywords": "Emily Watson, emily.watson@example.co.uk"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_17": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Carlos Rivera",
+      "PHONE_NUMBER": "+1 (305) 555-0176",
+      "EMAIL_ADDRESS": "carlos.rivera@example.com",
+      "LOCATION": "500 Ocean Drive, Miami, FL 33139",
+      "US_SSN": "263-51-7788"
+    },
+    "planted_metadata": {
+      "author": "Carlos Rivera",
+      "title": "Confidential – Carlos Rivera",
+      "keywords": "Carlos Rivera, carlos.rivera@example.com",
+      "comments": "Created for Carlos Rivera"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_17": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Carlos Rivera",
+      "PHONE_NUMBER": "+1 (305) 555-0176",
+      "EMAIL_ADDRESS": "carlos.rivera@example.com",
+      "LOCATION": "500 Ocean Drive, Miami, FL 33139",
+      "US_SSN": "263-51-7788"
+    },
+    "planted_metadata": {
+      "author": "Carlos Rivera",
+      "title": "Confidential – Carlos Rivera",
+      "creator": "HR System – Carlos Rivera",
+      "keywords": "Carlos Rivera, carlos.rivera@example.com"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_18": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "Sara Haddad",
+      "PHONE_NUMBER": "0796667788",
+      "EMAIL_ADDRESS": "sara.haddad@example.jo",
+      "LOCATION": "Rainbow Street 15, Amman 11181, Jordan",
+      "US_SSN": "299-37-6610"
+    },
+    "planted_metadata": {
+      "author": "Sara Haddad",
+      "title": "Confidential – Sara Haddad",
+      "keywords": "Sara Haddad, sara.haddad@example.jo",
+      "comments": "Created for Sara Haddad"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_18": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "Sara Haddad",
+      "PHONE_NUMBER": "0796667788",
+      "EMAIL_ADDRESS": "sara.haddad@example.jo",
+      "LOCATION": "Rainbow Street 15, Amman 11181, Jordan",
+      "US_SSN": "299-37-6610"
+    },
+    "planted_metadata": {
+      "author": "Sara Haddad",
+      "title": "Confidential – Sara Haddad",
+      "creator": "HR System – Sara Haddad",
+      "keywords": "Sara Haddad, sara.haddad@example.jo"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "docx_19": {
+    "type": "docx",
+    "planted_text": {
+      "PERSON": "نورا المصري",
+      "PHONE_NUMBER": "0781234567",
+      "EMAIL_ADDRESS": "noura.masri@example.jo",
+      "LOCATION": "شارع مكة، عمّان",
+      "US_SSN": "341-52-8890"
+    },
+    "planted_metadata": {
+      "author": "نورا المصري",
+      "title": "Confidential – نورا المصري",
+      "keywords": "نورا المصري, noura.masri@example.jo",
+      "comments": "Created for نورا المصري"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  },
+  "pdf_19": {
+    "type": "pdf",
+    "planted_text": {
+      "PERSON": "نورا المصري",
+      "PHONE_NUMBER": "0781234567",
+      "EMAIL_ADDRESS": "noura.masri@example.jo",
+      "LOCATION": "شارع مكة، عمّان",
+      "US_SSN": "341-52-8890"
+    },
+    "planted_metadata": {
+      "author": "نورا المصري",
+      "title": "Confidential – نورا المصري",
+      "creator": "HR System – نورا المصري",
+      "keywords": "نورا المصري, noura.masri@example.jo"
+    },
+    "decoys": [
+      "hr@company.com"
+    ]
+  }
+}

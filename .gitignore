@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---------------------------------------------------------------------------
+# Generated binary document corpora. These are REGENERABLE with one command
+# (python generate_real_docs.py / generate_fresh_docs.py + run_all_*.py), so we
+# do not version the 440 binary .docx/.pdf files. We DO keep the human-readable
+# evidence (evaluation_*.txt, *.csv, detection_quality*.txt, attack_report_*.txt)
+# and the ground_truth_*.json files, which live directly in documents_*/.
+# ---------------------------------------------------------------------------
+# original synthetic corpora (ground_truth_*.json alongside them is NOT ignored)
+documents_real/docx/
+documents_real/pdf/
+documents_fresh/docx/
+documents_fresh/pdf/
+# metadata-only baseline output
+redacted_real/
+# redacted outputs, detectors v1..v4 (real set)
+redacted_real_v*/
+# redacted outputs, detectors v1..v4 (fresh hold-out set)
+redacted_fresh_v*/

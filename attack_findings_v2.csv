@@ -1,0 +1,41 @@
+doc,type,true_identity,reidentified,anonymity_set_k,population_N,attacker_guess,leaking_surfaces,channels_sufficient_alone,recovered_fragments
+docx_00,docx,Omar Al-Khatib,YES,1,20,Omar Al-Khatib,body,visible body,11181;building
+docx_01,docx,Siobhan O'Brien-Walsh,YES,1,20,Siobhan O'Brien-Walsh,body,visible body,cf10
+docx_02,docx,Aisha Khan,YES,1,20,Aisha Khan,body;comments,hidden/aux surfaces;visible body,62704;aisha;khan
+docx_03,docx,Michael Chen,YES,1,20,Michael Chen,body,visible body,92101
+docx_04,docx,Maria Garcia,YES,1,20,Maria Garcia,body,visible body,10006
+docx_05,docx,محمد الخطيب,YES,1,20,محمد الخطيب,body;comments;header,hidden/aux surfaces;visible body,الجامعة;الخطيب;شارع;محمد
+docx_06,docx,Priya Raman,YES,1,20,Priya Raman,body;comments;header,hidden/aux surfaces;visible body,1200;19107;priya;raman
+docx_07,docx,Liam Nguyen,YES,1,20,Liam Nguyen,body,visible body,78765
+docx_08,docx,José Ángel Martínez,YES,1,20,José Ángel Martínez,body;hidden_text,visible body,0123;28013
+docx_09,docx,Wei Zhang,YES,1,20,Wei Zhang,body;hidden_text,visible body,4567;98101
+docx_10,docx,فاطمة الزعبي,YES,1,20,فاطمة الزعبي,body;comments;header,hidden/aux surfaces;visible body,الزعبي;الملكة;رانيا;شارع;فاطمة
+docx_11,docx,Mateo Hernández,YES,1,20,Mateo Hernández,body;header,hidden/aux surfaces;visible body,41004;hernández;mateo;sevilla
+docx_12,docx,Mei Lin,YES,1,20,Mei Lin,body,visible body,200021;nanjing
+docx_13,docx,Arjun Patel,YES,1,20,Arjun Patel,body,visible body,560001;bengaluru
+docx_14,docx,Hannah Schmidt,YES,1,20,Hannah Schmidt,body,visible body,linden;unter
+docx_15,docx,Khaled Mansour,YES,1,20,Khaled Mansour,body,visible body,11953;mecca
+docx_16,docx,Emily Watson,YES,1,20,Emily Watson,body,visible body,king;manchester
+docx_17,docx,Carlos Rivera,YES,1,20,Carlos Rivera,body,visible body,33139;drive;ocean
+docx_18,docx,Sara Haddad,YES,1,20,Sara Haddad,body,visible body,11181;rainbow
+docx_19,docx,نورا المصري,YES,1,20,نورا المصري,body;comments;header,hidden/aux surfaces;visible body,المصري;شارع;نورا
+pdf_00,pdf,Omar Al-Khatib,YES,1,20,Omar Al-Khatib,body,visible body,11181;building
+pdf_01,pdf,Siobhan O'Brien-Walsh,YES,1,20,Siobhan O'Brien-Walsh,body,visible body,cf10
+pdf_02,pdf,Aisha Khan,YES,1,20,Aisha Khan,body,visible body,62704
+pdf_03,pdf,Michael Chen,YES,1,20,Michael Chen,body,visible body,92101
+pdf_04,pdf,Maria Garcia,YES,1,20,Maria Garcia,body,visible body,10006
+pdf_05,pdf,محمد الخطيب,no,20,20,,,,
+pdf_06,pdf,Priya Raman,YES,1,20,Priya Raman,body,visible body,1200;19107
+pdf_07,pdf,Liam Nguyen,YES,1,20,Liam Nguyen,body,visible body,78765
+pdf_08,pdf,José Ángel Martínez,YES,1,20,José Ángel Martínez,body,visible body,0123;28013
+pdf_09,pdf,Wei Zhang,YES,1,20,Wei Zhang,body,visible body,4567;98101
+pdf_10,pdf,فاطمة الزعبي,no,20,20,,,,
+pdf_11,pdf,Mateo Hernández,YES,1,20,Mateo Hernández,body,visible body,41004;sevilla
+pdf_12,pdf,Mei Lin,YES,1,20,Mei Lin,body,visible body,200021;nanjing
+pdf_13,pdf,Arjun Patel,YES,1,20,Arjun Patel,body,visible body,560001;bengaluru
+pdf_14,pdf,Hannah Schmidt,YES,1,20,Hannah Schmidt,body,visible body,linden;unter
+pdf_15,pdf,Khaled Mansour,YES,1,20,Khaled Mansour,body,visible body,11953;mecca
+pdf_16,pdf,Emily Watson,YES,1,20,Emily Watson,body,visible body,king;manchester
+pdf_17,pdf,Carlos Rivera,YES,1,20,Carlos Rivera,body,visible body,33139;drive;ocean
+pdf_18,pdf,Sara Haddad,YES,1,20,Sara Haddad,body,visible body,11181;rainbow
+pdf_19,pdf,نورا المصري,no,20,20,,,,

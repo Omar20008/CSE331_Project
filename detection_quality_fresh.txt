@@ -1,0 +1,63 @@
+======================================================================
+DETECTION QUALITY   detector: v1
+======================================================================
+Entity           Present   Found  Missed   Recall
+PERSON                40      35       5    87.5%
+PHONE_NUMBER          40      40       0   100.0%
+EMAIL_ADDRESS         40      40       0   100.0%
+LOCATION              40      40       0   100.0%
+US_SSN                40      40       0   100.0%
+----------------------------------------------------------------------
+Recall  (all entities, micro)       : 97.5%  (195/200)
+Precision (detector spans on PII)   : 90.8%  (462/509)
+False positives - decoy redacted    : 40
+False positives - other             : 7
+Planted values not extractable      : 0  (excluded from recall)
+
+======================================================================
+DETECTION QUALITY   detector: v2
+======================================================================
+Entity           Present   Found  Missed   Recall
+PERSON                40      33       7    82.5%
+PHONE_NUMBER          40      40       0   100.0%
+EMAIL_ADDRESS         40      40       0   100.0%
+LOCATION              40      40       0   100.0%
+US_SSN                40      40       0   100.0%
+----------------------------------------------------------------------
+Recall  (all entities, micro)       : 96.5%  (193/200)
+Precision (detector spans on PII)   : 90.5%  (446/493)
+False positives - decoy redacted    : 40
+False positives - other             : 7
+Planted values not extractable      : 0  (excluded from recall)
+
+======================================================================
+DETECTION QUALITY   detector: v3
+======================================================================
+Entity           Present   Found  Missed   Recall
+PERSON                40      33       7    82.5%
+PHONE_NUMBER          40      20      20    50.0%
+EMAIL_ADDRESS         40      40       0   100.0%
+LOCATION              40      40       0   100.0%
+US_SSN                40      40       0   100.0%
+----------------------------------------------------------------------
+Recall  (all entities, micro)       : 86.5%  (173/200)
+Precision (detector spans on PII)   : 98.2%  (386/393)
+False positives - decoy redacted    : 0
+False positives - other             : 7
+Planted values not extractable      : 0  (excluded from recall)
+
+======================================================================
+DETECTION QUALITY   detector: v4
+======================================================================
+Entity           Present   Found  Missed   Recall
+PERSON                40      38       2    95.0%
+PHONE_NUMBER          40      40       0   100.0%
+EMAIL_ADDRESS         40      40       0   100.0%
+LOCATION              40      40       0   100.0%
+US_SSN                40      40       0   100.0%
+----------------------------------------------------------------------
+Recall  (all entities, micro)       : 99.0%  (198/200)
+Precision (detector spans on PII)   : 98.4%  (499/507)
+False positives - decoy redacted    : 0
+False positives - other             : 8
+Planted values not extractable      : 0  (excluded from recall)

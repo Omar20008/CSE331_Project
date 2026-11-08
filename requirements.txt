@@ -1,0 +1,27 @@
+# CSE331 - Project 09: Document Redaction & Metadata Privacy
+# Python 3.10+ (developed and tested on CPython 3.14)
+#
+# Install:
+#   python -m venv .venv
+#   .venv\Scripts\activate            (Windows)   |   source .venv/bin/activate   (Linux/macOS)
+#   pip install -r requirements.txt
+#   python -m spacy download en_core_web_lg       # NER model used by v2/v3/v4 (not on PyPI)
+
+presidio-analyzer==2.2.366
+presidio-anonymizer==2.2.366
+spacy==3.8.18
+python-docx==1.2.0
+pypdf==6.21.2
+reportlab==5.1.0
+
+# Arabic shaping for PDF generation: right-to-left presentation forms + bidi reordering.
+# Used by generate_real_docs.py so Arabic names/addresses actually render (and can be
+# extracted) in the synthetic PDFs instead of being dropped by a Latin-only font.
+# A Unicode TTF with Arabic glyphs is ALSO required at run time; generate_real_docs.py
+# auto-detects fonts/Amiri-Regular.ttf, fonts/NotoNaskhArabic-Regular.ttf, or a system
+# font (e.g. Arial/Segoe UI) and falls back gracefully with a warning if none is found.
+arabic-reshaper==3.1.0
+python-bidi==0.6.12
+
+# NLP model (install with the spacy command above, pinned for reproducibility):
+#   en_core_web_lg==3.8.0

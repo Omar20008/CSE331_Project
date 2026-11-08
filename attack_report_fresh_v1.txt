@@ -1,0 +1,19 @@
+Adversarial re-identification attack   target: v1
+Population: 20 distinct individuals (attacker's assumed directory)
+----------------------------------------------------------------------
+Documents attacked                      : 40
+UNIQUELY RE-IDENTIFIED (k=1)            : 34/40   (85.0% re-identification rate)
+Narrowed but not unique (2<=k<20)       : 0/40
+Fully anonymous (k=20, nothing linkable) : 6/40
+Anonymity-set size k  (higher = safer)  : min=1  mean=3.9  max=20
+False accusations (unique guess wrong)  : 0  (0 expected: a unique hit is always correct in a closed population)
+----------------------------------------------------------------------
+Re-identification achievable by ONE channel alone:
+  metadata              : 0/40
+  hidden/aux surfaces   : 13/40
+  visible body          : 32/40
+----------------------------------------------------------------------
+Reading: on the raw files the metadata and hidden/aux channels re-identify the
+person WITHOUT the visible page -- a box over the text is not redaction. A low
+re-identification rate on a redacted set is the real privacy win; any residual
+k=1 is a surviving quasi-identifier that linkage recovers even with 0 full leaks.
