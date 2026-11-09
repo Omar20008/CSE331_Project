@@ -23,9 +23,17 @@ documents_real/docx/
 documents_real/pdf/
 documents_fresh/docx/
 documents_fresh/pdf/
-# metadata-only baseline output
-redacted_real/
-# redacted outputs, detectors v1..v4 (real set)
-redacted_real_v*/
-# redacted outputs, detectors v1..v4 (fresh hold-out set)
-redacted_fresh_v*/
+# redacted outputs: metadata-only baseline + detectors v1..v4, real and fresh sets
+redacted_*/
+holdout_redacted_*/
+
+# ---------------------------------------------------------------------------
+# Regenerated evidence at the repo ROOT. run_all_real.py / run_all_fresh.py
+# rewrite these on every run; the committed copies live in results/. The
+# leading "/" anchors each pattern to the root, so the results/ copies stay tracked.
+# ---------------------------------------------------------------------------
+/evaluation_*.txt
+/failed_cases_*.csv
+/attack_report_*.txt
+/attack_findings_*.csv
+/detection_quality*.txt
