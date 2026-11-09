@@ -303,7 +303,7 @@ def test_t7a_document_with_no_pii_is_unchanged(redactor, evaluator, tmp_path):
 
 
 # --------------------------------------------------------------------------- T7b
-def test_t7b_empty_inputs_do_not_crash(redactor, evaluator, tmp_path):
+def test_t7b_empty_inputs_do_not_crash(redactor, tmp_path):
     """T7 (failure): empty DOCX, empty PDF, and empty string do not raise."""
     # empty string through the text redactor
     assert redactor.redact_text("") == ""
