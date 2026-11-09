@@ -2,7 +2,7 @@
 
 **Project 09 — Document Redaction & Metadata Privacy.** This document describes
 `attack_real_docs.py`, an adversary that takes *only the released files* and tries to put a **name**
-to each one. It is the executable counterpart to `THREAT_MODEL.md` §3 ("re‑identification by linkage
+to each one. It is the executable counterpart to `threat_model.md` §3 ("re‑identification by linkage
 on surviving quasi‑identifiers") and reports a privacy outcome the leak‑count table cannot express.
 
 ## 1. Why a second, harder question
@@ -75,7 +75,7 @@ two residents of Amman `11181` — which correctly yields an anonymity set of `k
 
 ## 4. What this adds to the project
 
-1. **Executed threat model.** `THREAT_MODEL.md` §3's linkage adversary is now *code with evidence*,
+1. **Executed threat model.** `threat_model.md` §3's linkage adversary is now *code with evidence*,
    not a paragraph.
 2. **A privacy metric, not a detector metric.** Anonymity‑set size / re‑identification rate measures
    the **outcome** (can the person be named?) rather than string survival.
