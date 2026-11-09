@@ -4,6 +4,44 @@ All notable changes to this project. Dates are ISO‑8601. "Original version" = 
 prototype (10 synthetic individuals, English‑plus‑one‑Arabic, detectors v1–v4, residual‑disclosure
 evaluation). This changelog summarizes what was added on top of it.
 
+## [2.2] — 2026‑11‑09 — Technical deliverables (docs, tests, manual review)
+
+### Added
+- **Automated test suite** `tests/test_redaction.py` (+ `tests/conftest.py`): 10 named tests
+  (18 cases) that build their own synthetic DOCX/PDF fixtures and drive the **real v4 pipeline**
+  (`redact_real_docs` + `evaluate_real_docs` + `pipelines`). Covers text removal, allow‑list,
+  DOCX/PDF metadata + comment‑author clearing, hidden/white‑text surfaces, copy‑paste/extraction
+  equivalence, boundary phone/address formats, no‑false‑redaction, empty‑input robustness, an
+  Arabic/English‑NER limitation (`xfail`, strict), and a before/after evaluator check. **Result:
+  17 passed, 1 xfailed** (`docs/test_results.md`).
+- **New deliverable docs:** `docs/privacy_utility_residual_risk.md` (real + fresh comparison tables,
+  privacy–utility discussion, v3→v4 cycle, residual risk), `docs/test_plan.md`, `docs/test_results.md`,
+  `docs/technical_guide.md`, `docs/environment.md`.
+- **Batch manual‑review helper** `fill_manual_review_auto.py`: non‑interactive complement to
+  `fill_manual_review.py`; writes an evidence‑based factual `manual_review_note` for every empty row
+  in all `failed_cases_*.csv`. Run: **1599 rows filled**, 19 already human‑reviewed (real v4, kept),
+  **0 flagged** `NEEDS HUMAN REVIEW`.
+
+### Changed
+- **Privacy‑by‑design docs rewritten to the technical‑deliverable spec and renamed to the requested
+  lowercase names** (history preserved via `git mv`): `DATA_DICTIONARY.md → data_dictionary.md`,
+  `ARCHITECTURE.md → architecture_dataflow.md`, `THREAT_MODEL.md → threat_model.md`,
+  `EVIDENCE_MAP.md → evidence_map.md`. In‑scope cross‑references updated (README, `results/README.md`,
+  `RED_TEAM_REIDENTIFICATION.md`). *(Two backtick‑prose mentions remain in the team‑owned, out‑of‑scope
+  `LEGAL_ETHICS.md`; flagged for the team — they are not links.)*
+- **`requirements.txt`** pins `pytest==9.2.0` and documents that Faker is intentionally **not** a
+  dependency (data is fixed/deterministic; no `import faker` anywhere).
+- **README** gains a "Technical deliverables" section (each deliverable → file, how to run tests,
+  where evidence lives) and an updated documentation index.
+
+### Notes
+- No production pipeline code changed. Every number in the new docs traces to a committed
+  `results/` file or to the `pytest`/command output from this run. No milestone **M1** document is
+  present, so the requirement/risk IDs in `evidence_map.md` are derived from README/`RISK_REGISTER.md`
+  and flagged for M1 alignment; the legal‑reference column is `TBD (team: Jordan PDPL mapping)`.
+  `mmdc` (Mermaid CLI) is not installed, so no PNG export of the data‑flow is committed (GitHub
+  renders the Mermaid inline).
+
 ## [2.1] — 2026‑11‑09 — Repository cleanup & `results/` layout
 
 ### Changed

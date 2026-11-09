@@ -37,4 +37,4 @@ Each file name encodes the **dataset** and the **approach**.
 - `detection_quality.txt` — detector precision / recall per version
 
 See the top-level [`../README.md`](../README.md) for the full results tables and
-[`../docs/EVIDENCE_MAP.md`](../docs/EVIDENCE_MAP.md) for the requirement → control → evidence chain.
+[`../docs/evidence_map.md`](../docs/evidence_map.md) for the requirement → control → evidence chain.

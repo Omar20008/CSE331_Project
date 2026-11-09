@@ -36,7 +36,7 @@ one is deliberately different on five axes:
    It surfaces what leak counts hide — v4 shows only **3 full leaks** yet **linkage still
    re‑identifies 16/40** via surviving ZIP/postcode quasi‑identifiers — and proves *which channel*
    (metadata alone re‑identifies **38/40** of the raw files) defeats the control. This turns
-   `THREAT_MODEL.md` into executed evidence.
+   `threat_model.md` into executed evidence.
 
 ---
 
@@ -75,17 +75,17 @@ CSE331_Project/
 │  ├─ detection/                 ← detection_quality.txt
 │  └─ README.md                  ← what each subfolder and approach tag means
 │
+├─ fill_manual_review_auto.py    ← batch-fill manual_review_note from row evidence (non-interactive)
+├─ tests/                        ← pytest suite (test_redaction.py + conftest.py)
 └─ docs/                         ← privacy-by-design & compliance documentation
-   ├─ ARCHITECTURE.md
-   ├─ DATA_DICTIONARY.md
-   ├─ THREAT_MODEL.md
-   ├─ RISK_REGISTER.md
-   ├─ EVIDENCE_MAP.md
-   ├─ LEGAL_ETHICS.md
-   ├─ LIMITATIONS_AND_MANUAL_REVIEW.md
-   ├─ RED_TEAM_REIDENTIFICATION.md
-   ├─ FRESH_HOLDOUT_RESULTS.md
-   └─ AI_USE_DECLARATION.md
+   ├─ data_dictionary.md             ├─ technical_guide.md
+   ├─ architecture_dataflow.md       ├─ environment.md
+   ├─ threat_model.md                ├─ test_plan.md
+   ├─ evidence_map.md                ├─ test_results.md
+   ├─ privacy_utility_residual_risk.md
+   ├─ RISK_REGISTER.md               ├─ LIMITATIONS_AND_MANUAL_REVIEW.md
+   ├─ RED_TEAM_REIDENTIFICATION.md   ├─ FRESH_HOLDOUT_RESULTS.md
+   ├─ LEGAL_ETHICS.md                └─ AI_USE_DECLARATION.md
 ```
 
 > Re-running the pipeline recreates `documents_*/docx|pdf/`, `redacted_*/`, and the root-level
@@ -191,7 +191,7 @@ metadata values.)* The committed evidence behind every table below is in
 
 ### C. Re‑identification outcome — can an attacker *name* the released file? (`attack_report_*.txt`)
 
-`attack_real_docs.py` executes the `THREAT_MODEL.md` adversary: it reads only the released file,
+`attack_real_docs.py` executes the `threat_model.md` adversary: it reads only the released file,
 links surviving fragments against a **20‑person** candidate directory, and reports the
 **anonymity‑set size k** (`k = 1` ⇒ uniquely re‑identified). This is a privacy *outcome*, distinct
 from both the detector metric (A) and the string‑survival metric (B).
@@ -245,7 +245,9 @@ Statistical NER cannot guarantee 100 %, so manual review is a step, not an after
 1. `python evaluate_real_docs.py v4` writes every residual case to `failed_cases_real_v4.csv`
    (doc, kind, location, entity, value, an automatic note, and an empty `manual_review_note`).
 2. `python fill_manual_review.py` walks each case interactively and records a human root‑cause /
-   decision in `manual_review_note`.
+   decision in `manual_review_note`; `python fill_manual_review_auto.py` is a non‑interactive batch
+   complement that fills an evidence‑based factual note for every empty row and reports the counts
+   (filled vs. already reviewed vs. flagged).
 3. The analysis is written up in
    [`docs/LIMITATIONS_AND_MANUAL_REVIEW.md`](docs/LIMITATIONS_AND_MANUAL_REVIEW.md), which reviews all
    **3 full + 16 partial** v4 residuals and recommends the next control (ZIP/postcode generalization,
@@ -253,20 +255,56 @@ Statistical NER cannot guarantee 100 %, so manual review is a step, not an after
 
 ---
 
+## Technical deliverables
+
+The technical deliverables for this milestone and where they live:
+
+| # | Deliverable | File(s) |
+|---|---|---|
+| 1 | Data dictionary (entities, metadata, hidden surfaces) | [`docs/data_dictionary.md`](docs/data_dictionary.md) |
+| 2 | Architecture & data‑flow (Mermaid + trust boundaries + alternatives) | [`docs/architecture_dataflow.md`](docs/architecture_dataflow.md) |
+| 3 | Threat model (assets, attackers, no‑anonymity statement) | [`docs/threat_model.md`](docs/threat_model.md) |
+| 4 | Test suite + plan + results | [`tests/test_redaction.py`](tests/test_redaction.py), [`docs/test_plan.md`](docs/test_plan.md), [`docs/test_results.md`](docs/test_results.md) |
+| 5 | Evidence map (Requirement → Risk → Control → Test → Evidence) | [`docs/evidence_map.md`](docs/evidence_map.md) |
+| 6 | Privacy / utility / residual risk (real + fresh) | [`docs/privacy_utility_residual_risk.md`](docs/privacy_utility_residual_risk.md) |
+| 7 | Manual review of misses (per‑row notes) | [`fill_manual_review_auto.py`](fill_manual_review_auto.py), [`results/*/failed_cases_*.csv`](results/) |
+| 8 | Technical guide + environment + pinned deps | [`docs/technical_guide.md`](docs/technical_guide.md), [`docs/environment.md`](docs/environment.md), [`requirements.txt`](requirements.txt) |
+
+**Run the tests:**
+
+```bash
+pip install -r requirements.txt            # includes pytest
+python -m spacy download en_core_web_lg
+python -m pytest tests/ -v                  # expect: 17 passed, 1 xfailed  (~10 s)
+```
+
+The suite builds its own synthetic DOCX/PDF fixtures and drives the **real v4 pipeline** (see
+[`docs/test_plan.md`](docs/test_plan.md)); the verbatim run is in
+[`docs/test_results.md`](docs/test_results.md).
+
+**Where evidence lives:** the committed, reviewed snapshot is [`results/`](results/) —
+`real/` (residual disclosure), `fresh/` (generalisation hold‑out), `attack/` (re‑identification),
+`detection/` (detector precision/recall). Re‑runs write git‑ignored copies to the repo root. The
+full comparison tables are in [`docs/privacy_utility_residual_risk.md`](docs/privacy_utility_residual_risk.md).
+
 ## Documentation
 
 | Document | Covers |
 |---|---|
-| [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) | Mermaid data‑flow (generate → detect → redact → evaluate → attack) + trust boundaries |
-| [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md) | Fields, identification role (direct/quasi/sensitive), sensitivity, where each hides |
-| [`docs/THREAT_MODEL.md`](docs/THREAT_MODEL.md) | Actors, trust boundaries, data‑flow diagram, attacker/observer knowledge |
+| [`docs/data_dictionary.md`](docs/data_dictionary.md) | Every entity/metadata/hidden surface: identification role, sensitivity, detector/control, known limitation |
+| [`docs/architecture_dataflow.md`](docs/architecture_dataflow.md) | Mermaid data‑flow + trust boundaries, component table, alternatives compared (v1–v4 + overlay) |
+| [`docs/threat_model.md`](docs/threat_model.md) | Assets, attacker types A1–A4, assumptions, out‑of‑scope, no‑anonymity statement, what each approach still leaks |
+| [`docs/evidence_map.md`](docs/evidence_map.md) | Requirement → Risk → Control → Test → Evidence (+ legal‑reference TBD, M1‑alignment flag) |
+| [`docs/privacy_utility_residual_risk.md`](docs/privacy_utility_residual_risk.md) | Real + fresh comparison tables, privacy–utility discussion, v3→v4 cycle, residual risk |
+| [`docs/test_plan.md`](docs/test_plan.md) · [`docs/test_results.md`](docs/test_results.md) | Test‑case table; verbatim `pytest -v` output (17 passed, 1 xfail) + fix history |
+| [`docs/technical_guide.md`](docs/technical_guide.md) · [`docs/environment.md`](docs/environment.md) | Setup/run/extend/troubleshoot; OS + pinned library versions |
 | [`docs/RISK_REGISTER.md`](docs/RISK_REGISTER.md) | Ranked disclosure risks → control → test → residual |
-| [`docs/EVIDENCE_MAP.md`](docs/EVIDENCE_MAP.md) | Requirement → risk → control → test → evidence file (the evidence chain) |
-| [`docs/LEGAL_ETHICS.md`](docs/LEGAL_ETHICS.md) | Jordan PDPL No. 24 of 2023 principles, ethics, synthetic‑data statement |
-| [`docs/LIMITATIONS_AND_MANUAL_REVIEW.md`](docs/LIMITATIONS_AND_MANUAL_REVIEW.md) | Manual review of every residual miss, TLS/metadata discussion |
-| [`docs/RED_TEAM_REIDENTIFICATION.md`](docs/RED_TEAM_REIDENTIFICATION.md) | The re‑identification adversary: attacker model, anonymity‑set metric, channel attribution, results |
-| [`docs/AI_USE_DECLARATION.md`](docs/AI_USE_DECLARATION.md) | Declared AI assistance (course rule) |
-| [`CHANGELOG.md`](CHANGELOG.md) | What was added on top of the original prototype |
+| [`docs/LIMITATIONS_AND_MANUAL_REVIEW.md`](docs/LIMITATIONS_AND_MANUAL_REVIEW.md) | Manual review of every v4 residual miss, TLS/metadata discussion |
+| [`docs/RED_TEAM_REIDENTIFICATION.md`](docs/RED_TEAM_REIDENTIFICATION.md) | The re‑identification adversary: attacker model, anonymity‑set metric, channel attribution |
+| [`docs/FRESH_HOLDOUT_RESULTS.md`](docs/FRESH_HOLDOUT_RESULTS.md) | Generalisation of the v1→v4 detectors on the unseen hold‑out set |
+| [`docs/LEGAL_ETHICS.md`](docs/LEGAL_ETHICS.md) | Jordan PDPL No. 24 of 2023 principles, ethics, synthetic‑data statement (team) |
+| [`docs/AI_USE_DECLARATION.md`](docs/AI_USE_DECLARATION.md) | Declared AI assistance (course rule; team) |
+| [`CHANGELOG.md`](CHANGELOG.md) | What changed vs. the original prototype |
 
 ---
 

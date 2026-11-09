@@ -1,401 +1,401 @@
 doc,kind,location,entity_or_field,value,auto_note,manual_review_note
-docx_00,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Omar Al-Khatib,,
-docx_00,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+962 79 555 1234,,
-docx_00,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,omar.khatib@example.jo,,
-docx_00,TEXT-FULL,body,LOCATION,"Building 15, Wasfi Al-Tal Street, Amman 11181, Jordan",,
-docx_00,TEXT-FULL,"body,comments",US_SSN,623-19-4580,,
-docx_00,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Omar Al-Khatib,,
-docx_00,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Omar Al-Khatib,,
-docx_00,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Omar Al-Khatib, omar.khatib@example.jo",,
-docx_00,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Omar Al-Khatib,,
-docx_00,META-FULL,(other field),EMAIL_ADDRESS,omar.khatib@example.jo,,
-docx_01,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Siobhan O'Brien-Walsh,,
-docx_01,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+44 20 7946 0958,,
-docx_01,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,siobhan.obrien-walsh@example.co.uk,,
-docx_01,TEXT-FULL,body,LOCATION,"14 Mill Lane, Cardiff CF10 3AT, UK",,
-docx_01,TEXT-FULL,"body,comments",US_SSN,412-55-7731,,
-docx_01,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Siobhan O'Brien-Walsh,,
-docx_01,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Siobhan O'Brien-Walsh,,
-docx_01,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Siobhan O'Brien-Walsh, siobhan.obrien-walsh@example.co.uk",,
-docx_01,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Siobhan O'Brien-Walsh,,
-docx_01,META-FULL,(other field),EMAIL_ADDRESS,siobhan.obrien-walsh@example.co.uk,,
-docx_02,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Aisha Khan,,
-docx_02,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+1 (415) 555-0132,,
-docx_02,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,aisha.khan+hr@example.org,,
-docx_02,TEXT-FULL,body,LOCATION,"42 Elm Street, Apt 5B, Springfield, IL 62704",,
-docx_02,TEXT-FULL,"body,comments",US_SSN,538-62-4417,,
-docx_02,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Aisha Khan,,
-docx_02,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Aisha Khan,,
-docx_02,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Aisha Khan, aisha.khan+hr@example.org",,
-docx_02,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Aisha Khan,,
-docx_02,META-FULL,(other field),EMAIL_ADDRESS,aisha.khan+hr@example.org,,
-docx_03,TEXT-FULL,"body,header:header1.xml,comments",PERSON,Michael Chen,,
-docx_03,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,555 867 5309,,
-docx_03,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,michael_chen@mail.example.com,,
-docx_03,TEXT-FULL,body,LOCATION,"700 Harbor Blvd, Unit 12, San Diego, CA 92101",,
-docx_03,TEXT-FULL,"body,comments",US_SSN,528-91-4406,,
-docx_03,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Michael Chen,,
-docx_03,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Michael Chen,,
-docx_03,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Michael Chen, michael_chen@mail.example.com",,
-docx_03,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Michael Chen,,
-docx_03,META-FULL,(other field),EMAIL_ADDRESS,michael_chen@mail.example.com,,
-docx_04,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Maria Garcia,,
-docx_04,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,(212) 555-0147,,
-docx_04,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,maria.garcia@example.com,,
-docx_04,TEXT-FULL,body,LOCATION,"88 Broadway, New York, NY 10006",,
-docx_04,TEXT-FULL,"body,comments",US_SSN,301-44-9012,,
-docx_04,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Maria Garcia,,
-docx_04,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Maria Garcia,,
-docx_04,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Maria Garcia, maria.garcia@example.com",,
-docx_04,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Maria Garcia,,
-docx_04,META-FULL,(other field),EMAIL_ADDRESS,maria.garcia@example.com,,
-docx_05,TEXT-FULL,"body,header:header1.xml,comments",PERSON,محمد الخطيب,,
-docx_05,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,0795551234,,
-docx_05,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,mohammad.khateeb@example.com,,
-docx_05,TEXT-FULL,body,LOCATION,شارع الجامعة، عمان,,
-docx_05,TEXT-FULL,"body,comments",US_SSN,317-80-2256,,
-docx_05,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,محمد الخطيب,,
-docx_05,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – محمد الخطيب,,
-docx_05,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"محمد الخطيب, mohammad.khateeb@example.com",,
-docx_05,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for محمد الخطيب,,
-docx_05,META-FULL,(other field),EMAIL_ADDRESS,mohammad.khateeb@example.com,,
-docx_06,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Priya Raman,,
-docx_06,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,555.201.8890,,
-docx_06,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,priya.raman@example.net,,
-docx_06,TEXT-FULL,body,LOCATION,"1200 Market St, Philadelphia, PA 19107",,
-docx_06,TEXT-FULL,"body,comments",US_SSN,287-31-5540,,
-docx_06,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Priya Raman,,
-docx_06,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Priya Raman,,
-docx_06,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Priya Raman, priya.raman@example.net",,
-docx_06,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Priya Raman,,
-docx_06,META-FULL,(other field),EMAIL_ADDRESS,priya.raman@example.net,,
-docx_07,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Liam Nguyen,,
-docx_07,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,1-800-555-0199,,
-docx_07,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,liam@sub.domain.example.com,,
-docx_07,TEXT-FULL,body,LOCATION,"P.O. Box 4471, Austin, TX 78765",,
-docx_07,TEXT-FULL,"body,comments",US_SSN,140-22-6073,,
-docx_07,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Liam Nguyen,,
-docx_07,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Liam Nguyen,,
-docx_07,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Liam Nguyen, liam@sub.domain.example.com",,
-docx_07,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Liam Nguyen,,
-docx_07,META-FULL,(other field),EMAIL_ADDRESS,liam@sub.domain.example.com,,
-docx_08,TEXT-FULL,"body,header:header1.xml,comments",PERSON,José Ángel Martínez,,
-docx_08,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,555-0123,,
-docx_08,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,jose.martinez@example.es,,
-docx_08,TEXT-FULL,body,LOCATION,"Calle Mayor 7, Madrid 28013, Spain",,
-docx_08,TEXT-FULL,"body,comments",US_SSN,562-19-3345,,
-docx_08,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,José Ángel Martínez,,
-docx_08,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – José Ángel Martínez,,
-docx_08,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"José Ángel Martínez, jose.martinez@example.es",,
-docx_08,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for José Ángel Martínez,,
-docx_08,META-FULL,(other field),EMAIL_ADDRESS,jose.martinez@example.es,,
-docx_09,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Wei Zhang,,
-docx_09,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+1.555.123.4567,,
-docx_09,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,wei.zhang@example.com,,
-docx_09,TEXT-FULL,body,LOCATION,"300 Oak Ave Apt 4, Seattle, WA 98101",,
-docx_09,TEXT-FULL,"body,comments",US_SSN,077-14-2938,,
-docx_09,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Wei Zhang,,
-docx_09,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Wei Zhang,,
-docx_09,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Wei Zhang, wei.zhang@example.com",,
-docx_09,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Wei Zhang,,
-docx_09,META-FULL,(other field),EMAIL_ADDRESS,wei.zhang@example.com,,
-docx_10,TEXT-FULL,"body,header:header1.xml,comments",PERSON,فاطمة الزعبي,,
-docx_10,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+962 78 555 0146,,
-docx_10,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,fatima.zoubi@example.jo,,
-docx_10,TEXT-FULL,body,LOCATION,شارع الملكة رانيا، إربد,,
-docx_10,TEXT-FULL,"body,comments",US_SSN,609-23-7788,,
-docx_10,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,فاطمة الزعبي,,
-docx_10,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – فاطمة الزعبي,,
-docx_10,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"فاطمة الزعبي, fatima.zoubi@example.jo",,
-docx_10,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for فاطمة الزعبي,,
-docx_10,META-FULL,(other field),EMAIL_ADDRESS,fatima.zoubi@example.jo,,
-docx_11,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Mateo Hernández,,
-docx_11,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+34 612 55 01 88,,
-docx_11,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,mateo.hernandez@example.es,,
-docx_11,TEXT-FULL,body,LOCATION,"Calle del Sol 23, Sevilla 41004, Spain",,
-docx_11,TEXT-FULL,"body,comments",US_SSN,254-73-9910,,
-docx_11,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Mateo Hernández,,
-docx_11,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Mateo Hernández,,
-docx_11,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Mateo Hernández, mateo.hernandez@example.es",,
-docx_11,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Mateo Hernández,,
-docx_11,META-FULL,(other field),EMAIL_ADDRESS,mateo.hernandez@example.es,,
-docx_12,TEXT-FULL,"body,header:header1.xml,comments",PERSON,Mei Lin,,
-docx_12,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+86 10 5555 0123,,
-docx_12,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,mei.lin@example.com,,
-docx_12,TEXT-FULL,body,LOCATION,"88 Nanjing Road, Huangpu, Shanghai 200021, China",,
-docx_12,TEXT-FULL,"body,comments",US_SSN,231-55-7420,,
-docx_12,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Mei Lin,,
-docx_12,META-FULL,"core.xml,core.title",title,Confidential – Mei Lin,,
-docx_12,META-FULL,"core.xml,core.keywords",keywords,"Mei Lin, mei.lin@example.com",,
-docx_12,META-FULL,"core.xml,core.comments",comments,Created for Mei Lin,,
-docx_12,META-FULL,(other field),EMAIL_ADDRESS,mei.lin@example.com,,
-docx_13,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Arjun Patel,,
-docx_13,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+91 22 5555 0112,,
-docx_13,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,arjun.patel@example.in,,
-docx_13,TEXT-FULL,body,LOCATION,"12 MG Road, Bengaluru 560001, India",,
-docx_13,TEXT-FULL,"body,comments",US_SSN,276-14-8835,,
-docx_13,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Arjun Patel,,
-docx_13,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Arjun Patel,,
-docx_13,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Arjun Patel, arjun.patel@example.in",,
-docx_13,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Arjun Patel,,
-docx_13,META-FULL,(other field),EMAIL_ADDRESS,arjun.patel@example.in,,
-docx_14,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Hannah Schmidt,,
-docx_14,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+49 30 5550 0199,,
-docx_14,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,hannah.schmidt@example.de,,
-docx_14,TEXT-FULL,body,LOCATION,"Unter den Linden 5, 10117 Berlin, Germany",,
-docx_14,TEXT-FULL,"body,comments",US_SSN,205-66-3471,,
-docx_14,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Hannah Schmidt,,
-docx_14,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Hannah Schmidt,,
-docx_14,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Hannah Schmidt, hannah.schmidt@example.de",,
-docx_14,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Hannah Schmidt,,
-docx_14,META-FULL,(other field),EMAIL_ADDRESS,hannah.schmidt@example.de,,
-docx_15,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Khaled Mansour,,
-docx_15,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+962 79 555 0164,,
-docx_15,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,khaled.mansour@example.jo,,
-docx_15,TEXT-FULL,body,LOCATION,"Mecca Street 90, Amman 11953, Jordan",,
-docx_15,TEXT-FULL,"body,comments",US_SSN,312-48-9025,,
-docx_15,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Khaled Mansour,,
-docx_15,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Khaled Mansour,,
-docx_15,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Khaled Mansour, khaled.mansour@example.jo",,
-docx_15,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Khaled Mansour,,
-docx_15,META-FULL,(other field),EMAIL_ADDRESS,khaled.mansour@example.jo,,
-docx_16,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Emily Watson,,
-docx_16,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+44 161 496 0198,,
-docx_16,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,emily.watson@example.co.uk,,
-docx_16,TEXT-FULL,body,LOCATION,"22 King Street, Manchester M2 4LQ, UK",,
-docx_16,TEXT-FULL,"body,comments",US_SSN,188-29-5540,,
-docx_16,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Emily Watson,,
-docx_16,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Emily Watson,,
-docx_16,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Emily Watson, emily.watson@example.co.uk",,
-docx_16,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Emily Watson,,
-docx_16,META-FULL,(other field),EMAIL_ADDRESS,emily.watson@example.co.uk,,
-docx_17,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Carlos Rivera,,
-docx_17,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+1 (305) 555-0176,,
-docx_17,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,carlos.rivera@example.com,,
-docx_17,TEXT-FULL,body,LOCATION,"500 Ocean Drive, Miami, FL 33139",,
-docx_17,TEXT-FULL,"body,comments",US_SSN,263-51-7788,,
-docx_17,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Carlos Rivera,,
-docx_17,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Carlos Rivera,,
-docx_17,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Carlos Rivera, carlos.rivera@example.com",,
-docx_17,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Carlos Rivera,,
-docx_17,META-FULL,(other field),EMAIL_ADDRESS,carlos.rivera@example.com,,
-docx_18,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Sara Haddad,,
-docx_18,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,0796667788,,
-docx_18,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,sara.haddad@example.jo,,
-docx_18,TEXT-FULL,body,LOCATION,"Rainbow Street 15, Amman 11181, Jordan",,
-docx_18,TEXT-FULL,"body,comments",US_SSN,299-37-6610,,
-docx_18,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Sara Haddad,,
-docx_18,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Sara Haddad,,
-docx_18,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Sara Haddad, sara.haddad@example.jo",,
-docx_18,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Sara Haddad,,
-docx_18,META-FULL,(other field),EMAIL_ADDRESS,sara.haddad@example.jo,,
-docx_19,TEXT-FULL,"body,header:header1.xml,comments",PERSON,نورا المصري,,
-docx_19,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,0781234567,,
-docx_19,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,noura.masri@example.jo,,
-docx_19,TEXT-FULL,body,LOCATION,شارع مكة، عمّان,,
-docx_19,TEXT-FULL,"body,comments",US_SSN,341-52-8890,,
-docx_19,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,نورا المصري,,
-docx_19,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – نورا المصري,,
-docx_19,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"نورا المصري, noura.masri@example.jo",,
-docx_19,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for نورا المصري,,
-docx_19,META-FULL,(other field),EMAIL_ADDRESS,noura.masri@example.jo,,
-pdf_00,TEXT-FULL,body,PERSON,Omar Al-Khatib,,
-pdf_00,TEXT-FULL,body,PHONE_NUMBER,+962 79 555 1234,,
-pdf_00,TEXT-FULL,body,EMAIL_ADDRESS,omar.khatib@example.jo,,
-pdf_00,TEXT-FULL,body,LOCATION,"Building 15, Wasfi Al-Tal Street, Amman 11181, Jordan",,
-pdf_00,TEXT-FULL,body,US_SSN,623-19-4580,,
-pdf_00,META-FULL,"Author,Title,Creator,Keywords",author,Omar Al-Khatib,,
-pdf_00,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Omar Al-Khatib,,
-pdf_00,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Omar Al-Khatib,,
-pdf_00,META-FULL,"Author,Title,Creator,Keywords",keywords,"Omar Al-Khatib, omar.khatib@example.jo",,
-pdf_00,META-FULL,(other field),EMAIL_ADDRESS,omar.khatib@example.jo,,
-pdf_01,TEXT-FULL,body,PERSON,Siobhan O'Brien-Walsh,,
-pdf_01,TEXT-FULL,body,PHONE_NUMBER,+44 20 7946 0958,,
-pdf_01,TEXT-FULL,body,EMAIL_ADDRESS,siobhan.obrien-walsh@example.co.uk,,
-pdf_01,TEXT-FULL,body,LOCATION,"14 Mill Lane, Cardiff CF10 3AT, UK",,
-pdf_01,TEXT-FULL,body,US_SSN,412-55-7731,,
-pdf_01,META-FULL,"Author,Title,Creator,Keywords",author,Siobhan O'Brien-Walsh,,
-pdf_01,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Siobhan O'Brien-Walsh,,
-pdf_01,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Siobhan O'Brien-Walsh,,
-pdf_01,META-FULL,"Author,Title,Creator,Keywords",keywords,"Siobhan O'Brien-Walsh, siobhan.obrien-walsh@example.co.uk",,
-pdf_01,META-FULL,(other field),EMAIL_ADDRESS,siobhan.obrien-walsh@example.co.uk,,
-pdf_02,TEXT-FULL,body,PERSON,Aisha Khan,,
-pdf_02,TEXT-FULL,body,PHONE_NUMBER,+1 (415) 555-0132,,
-pdf_02,TEXT-FULL,body,EMAIL_ADDRESS,aisha.khan+hr@example.org,,
-pdf_02,TEXT-FULL,body,LOCATION,"42 Elm Street, Apt 5B, Springfield, IL 62704",,
-pdf_02,TEXT-FULL,body,US_SSN,538-62-4417,,
-pdf_02,META-FULL,"Author,Title,Creator,Keywords",author,Aisha Khan,,
-pdf_02,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Aisha Khan,,
-pdf_02,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Aisha Khan,,
-pdf_02,META-FULL,"Author,Title,Creator,Keywords",keywords,"Aisha Khan, aisha.khan+hr@example.org",,
-pdf_02,META-FULL,(other field),EMAIL_ADDRESS,aisha.khan+hr@example.org,,
-pdf_03,TEXT-FULL,body,PERSON,Michael Chen,,
-pdf_03,TEXT-FULL,body,PHONE_NUMBER,555 867 5309,,
-pdf_03,TEXT-FULL,body,EMAIL_ADDRESS,michael_chen@mail.example.com,,
-pdf_03,TEXT-FULL,body,LOCATION,"700 Harbor Blvd, Unit 12, San Diego, CA 92101",,
-pdf_03,TEXT-FULL,body,US_SSN,528-91-4406,,
-pdf_03,META-FULL,"Author,Title,Creator,Keywords",author,Michael Chen,,
-pdf_03,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Michael Chen,,
-pdf_03,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Michael Chen,,
-pdf_03,META-FULL,"Author,Title,Creator,Keywords",keywords,"Michael Chen, michael_chen@mail.example.com",,
-pdf_03,META-FULL,(other field),EMAIL_ADDRESS,michael_chen@mail.example.com,,
-pdf_04,TEXT-FULL,body,PERSON,Maria Garcia,,
-pdf_04,TEXT-FULL,body,PHONE_NUMBER,(212) 555-0147,,
-pdf_04,TEXT-FULL,body,EMAIL_ADDRESS,maria.garcia@example.com,,
-pdf_04,TEXT-FULL,body,LOCATION,"88 Broadway, New York, NY 10006",,
-pdf_04,TEXT-FULL,body,US_SSN,301-44-9012,,
-pdf_04,META-FULL,"Author,Title,Creator,Keywords",author,Maria Garcia,,
-pdf_04,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Maria Garcia,,
-pdf_04,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Maria Garcia,,
-pdf_04,META-FULL,"Author,Title,Creator,Keywords",keywords,"Maria Garcia, maria.garcia@example.com",,
-pdf_04,META-FULL,(other field),EMAIL_ADDRESS,maria.garcia@example.com,,
-pdf_05,TEXT-FULL,body,PERSON,محمد الخطيب,,
-pdf_05,TEXT-FULL,body,PHONE_NUMBER,0795551234,,
-pdf_05,TEXT-FULL,body,EMAIL_ADDRESS,mohammad.khateeb@example.com,,
-pdf_05,TEXT-FULL,body,LOCATION,شارع الجامعة، عمان,,
-pdf_05,TEXT-FULL,body,US_SSN,317-80-2256,,
-pdf_05,META-FULL,"Author,Title,Creator,Keywords",author,محمد الخطيب,,
-pdf_05,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – محمد الخطيب,,
-pdf_05,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – محمد الخطيب,,
-pdf_05,META-FULL,"Author,Title,Creator,Keywords",keywords,"محمد الخطيب, mohammad.khateeb@example.com",,
-pdf_05,META-FULL,(other field),EMAIL_ADDRESS,mohammad.khateeb@example.com,,
-pdf_06,TEXT-FULL,body,PERSON,Priya Raman,,
-pdf_06,TEXT-FULL,body,PHONE_NUMBER,555.201.8890,,
-pdf_06,TEXT-FULL,body,EMAIL_ADDRESS,priya.raman@example.net,,
-pdf_06,TEXT-FULL,body,LOCATION,"1200 Market St, Philadelphia, PA 19107",,
-pdf_06,TEXT-FULL,body,US_SSN,287-31-5540,,
-pdf_06,META-FULL,"Author,Title,Creator,Keywords",author,Priya Raman,,
-pdf_06,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Priya Raman,,
-pdf_06,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Priya Raman,,
-pdf_06,META-FULL,"Author,Title,Creator,Keywords",keywords,"Priya Raman, priya.raman@example.net",,
-pdf_06,META-FULL,(other field),EMAIL_ADDRESS,priya.raman@example.net,,
-pdf_07,TEXT-FULL,body,PERSON,Liam Nguyen,,
-pdf_07,TEXT-FULL,body,PHONE_NUMBER,1-800-555-0199,,
-pdf_07,TEXT-FULL,body,EMAIL_ADDRESS,liam@sub.domain.example.com,,
-pdf_07,TEXT-FULL,body,LOCATION,"P.O. Box 4471, Austin, TX 78765",,
-pdf_07,TEXT-FULL,body,US_SSN,140-22-6073,,
-pdf_07,META-FULL,"Author,Title,Creator,Keywords",author,Liam Nguyen,,
-pdf_07,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Liam Nguyen,,
-pdf_07,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Liam Nguyen,,
-pdf_07,META-FULL,"Author,Title,Creator,Keywords",keywords,"Liam Nguyen, liam@sub.domain.example.com",,
-pdf_07,META-FULL,(other field),EMAIL_ADDRESS,liam@sub.domain.example.com,,
-pdf_08,TEXT-FULL,body,PERSON,José Ángel Martínez,,
-pdf_08,TEXT-FULL,body,PHONE_NUMBER,555-0123,,
-pdf_08,TEXT-FULL,body,EMAIL_ADDRESS,jose.martinez@example.es,,
-pdf_08,TEXT-FULL,body,LOCATION,"Calle Mayor 7, Madrid 28013, Spain",,
-pdf_08,TEXT-FULL,body,US_SSN,562-19-3345,,
-pdf_08,META-FULL,"Author,Title,Creator,Keywords",author,José Ángel Martínez,,
-pdf_08,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – José Ángel Martínez,,
-pdf_08,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – José Ángel Martínez,,
-pdf_08,META-FULL,"Author,Title,Creator,Keywords",keywords,"José Ángel Martínez, jose.martinez@example.es",,
-pdf_08,META-FULL,(other field),EMAIL_ADDRESS,jose.martinez@example.es,,
-pdf_09,TEXT-FULL,body,PERSON,Wei Zhang,,
-pdf_09,TEXT-FULL,body,PHONE_NUMBER,+1.555.123.4567,,
-pdf_09,TEXT-FULL,body,EMAIL_ADDRESS,wei.zhang@example.com,,
-pdf_09,TEXT-FULL,body,LOCATION,"300 Oak Ave Apt 4, Seattle, WA 98101",,
-pdf_09,TEXT-FULL,body,US_SSN,077-14-2938,,
-pdf_09,META-FULL,"Author,Title,Creator,Keywords",author,Wei Zhang,,
-pdf_09,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Wei Zhang,,
-pdf_09,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Wei Zhang,,
-pdf_09,META-FULL,"Author,Title,Creator,Keywords",keywords,"Wei Zhang, wei.zhang@example.com",,
-pdf_09,META-FULL,(other field),EMAIL_ADDRESS,wei.zhang@example.com,,
-pdf_10,TEXT-FULL,body,PERSON,فاطمة الزعبي,,
-pdf_10,TEXT-FULL,body,PHONE_NUMBER,+962 78 555 0146,,
-pdf_10,TEXT-FULL,body,EMAIL_ADDRESS,fatima.zoubi@example.jo,,
-pdf_10,TEXT-FULL,body,LOCATION,شارع الملكة رانيا، إربد,,
-pdf_10,TEXT-FULL,body,US_SSN,609-23-7788,,
-pdf_10,META-FULL,"Author,Title,Creator,Keywords",author,فاطمة الزعبي,,
-pdf_10,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – فاطمة الزعبي,,
-pdf_10,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – فاطمة الزعبي,,
-pdf_10,META-FULL,"Author,Title,Creator,Keywords",keywords,"فاطمة الزعبي, fatima.zoubi@example.jo",,
-pdf_10,META-FULL,(other field),EMAIL_ADDRESS,fatima.zoubi@example.jo,,
-pdf_11,TEXT-FULL,body,PERSON,Mateo Hernández,,
-pdf_11,TEXT-FULL,body,PHONE_NUMBER,+34 612 55 01 88,,
-pdf_11,TEXT-FULL,body,EMAIL_ADDRESS,mateo.hernandez@example.es,,
-pdf_11,TEXT-FULL,body,LOCATION,"Calle del Sol 23, Sevilla 41004, Spain",,
-pdf_11,TEXT-FULL,body,US_SSN,254-73-9910,,
-pdf_11,META-FULL,"Author,Title,Creator,Keywords",author,Mateo Hernández,,
-pdf_11,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Mateo Hernández,,
-pdf_11,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Mateo Hernández,,
-pdf_11,META-FULL,"Author,Title,Creator,Keywords",keywords,"Mateo Hernández, mateo.hernandez@example.es",,
-pdf_11,META-FULL,(other field),EMAIL_ADDRESS,mateo.hernandez@example.es,,
-pdf_12,TEXT-FULL,body,PERSON,Mei Lin,,
-pdf_12,TEXT-FULL,body,PHONE_NUMBER,+86 10 5555 0123,,
-pdf_12,TEXT-FULL,body,EMAIL_ADDRESS,mei.lin@example.com,,
-pdf_12,TEXT-FULL,body,LOCATION,"88 Nanjing Road, Huangpu, Shanghai 200021, China",,
-pdf_12,TEXT-FULL,body,US_SSN,231-55-7420,,
-pdf_12,META-FULL,"Author,Title,Creator,Keywords",author,Mei Lin,,
-pdf_12,META-FULL,Title,title,Confidential – Mei Lin,,
-pdf_12,META-FULL,Creator,creator,HR System – Mei Lin,,
-pdf_12,META-FULL,Keywords,keywords,"Mei Lin, mei.lin@example.com",,
-pdf_12,META-FULL,(other field),EMAIL_ADDRESS,mei.lin@example.com,,
-pdf_13,TEXT-FULL,body,PERSON,Arjun Patel,,
-pdf_13,TEXT-FULL,body,PHONE_NUMBER,+91 22 5555 0112,,
-pdf_13,TEXT-FULL,body,EMAIL_ADDRESS,arjun.patel@example.in,,
-pdf_13,TEXT-FULL,body,LOCATION,"12 MG Road, Bengaluru 560001, India",,
-pdf_13,TEXT-FULL,body,US_SSN,276-14-8835,,
-pdf_13,META-FULL,"Author,Title,Creator,Keywords",author,Arjun Patel,,
-pdf_13,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Arjun Patel,,
-pdf_13,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Arjun Patel,,
-pdf_13,META-FULL,"Author,Title,Creator,Keywords",keywords,"Arjun Patel, arjun.patel@example.in",,
-pdf_13,META-FULL,(other field),EMAIL_ADDRESS,arjun.patel@example.in,,
-pdf_14,TEXT-FULL,body,PERSON,Hannah Schmidt,,
-pdf_14,TEXT-FULL,body,PHONE_NUMBER,+49 30 5550 0199,,
-pdf_14,TEXT-FULL,body,EMAIL_ADDRESS,hannah.schmidt@example.de,,
-pdf_14,TEXT-FULL,body,LOCATION,"Unter den Linden 5, 10117 Berlin, Germany",,
-pdf_14,TEXT-FULL,body,US_SSN,205-66-3471,,
-pdf_14,META-FULL,"Author,Title,Creator,Keywords",author,Hannah Schmidt,,
-pdf_14,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Hannah Schmidt,,
-pdf_14,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Hannah Schmidt,,
-pdf_14,META-FULL,"Author,Title,Creator,Keywords",keywords,"Hannah Schmidt, hannah.schmidt@example.de",,
-pdf_14,META-FULL,(other field),EMAIL_ADDRESS,hannah.schmidt@example.de,,
-pdf_15,TEXT-FULL,body,PERSON,Khaled Mansour,,
-pdf_15,TEXT-FULL,body,PHONE_NUMBER,+962 79 555 0164,,
-pdf_15,TEXT-FULL,body,EMAIL_ADDRESS,khaled.mansour@example.jo,,
-pdf_15,TEXT-FULL,body,LOCATION,"Mecca Street 90, Amman 11953, Jordan",,
-pdf_15,TEXT-FULL,body,US_SSN,312-48-9025,,
-pdf_15,META-FULL,"Author,Title,Creator,Keywords",author,Khaled Mansour,,
-pdf_15,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Khaled Mansour,,
-pdf_15,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Khaled Mansour,,
-pdf_15,META-FULL,"Author,Title,Creator,Keywords",keywords,"Khaled Mansour, khaled.mansour@example.jo",,
-pdf_15,META-FULL,(other field),EMAIL_ADDRESS,khaled.mansour@example.jo,,
-pdf_16,TEXT-FULL,body,PERSON,Emily Watson,,
-pdf_16,TEXT-FULL,body,PHONE_NUMBER,+44 161 496 0198,,
-pdf_16,TEXT-FULL,body,EMAIL_ADDRESS,emily.watson@example.co.uk,,
-pdf_16,TEXT-FULL,body,LOCATION,"22 King Street, Manchester M2 4LQ, UK",,
-pdf_16,TEXT-FULL,body,US_SSN,188-29-5540,,
-pdf_16,META-FULL,"Author,Title,Creator,Keywords",author,Emily Watson,,
-pdf_16,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Emily Watson,,
-pdf_16,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Emily Watson,,
-pdf_16,META-FULL,"Author,Title,Creator,Keywords",keywords,"Emily Watson, emily.watson@example.co.uk",,
-pdf_16,META-FULL,(other field),EMAIL_ADDRESS,emily.watson@example.co.uk,,
-pdf_17,TEXT-FULL,body,PERSON,Carlos Rivera,,
-pdf_17,TEXT-FULL,body,PHONE_NUMBER,+1 (305) 555-0176,,
-pdf_17,TEXT-FULL,body,EMAIL_ADDRESS,carlos.rivera@example.com,,
-pdf_17,TEXT-FULL,body,LOCATION,"500 Ocean Drive, Miami, FL 33139",,
-pdf_17,TEXT-FULL,body,US_SSN,263-51-7788,,
-pdf_17,META-FULL,"Author,Title,Creator,Keywords",author,Carlos Rivera,,
-pdf_17,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Carlos Rivera,,
-pdf_17,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Carlos Rivera,,
-pdf_17,META-FULL,"Author,Title,Creator,Keywords",keywords,"Carlos Rivera, carlos.rivera@example.com",,
-pdf_17,META-FULL,(other field),EMAIL_ADDRESS,carlos.rivera@example.com,,
-pdf_18,TEXT-FULL,body,PERSON,Sara Haddad,,
-pdf_18,TEXT-FULL,body,PHONE_NUMBER,0796667788,,
-pdf_18,TEXT-FULL,body,EMAIL_ADDRESS,sara.haddad@example.jo,,
-pdf_18,TEXT-FULL,body,LOCATION,"Rainbow Street 15, Amman 11181, Jordan",,
-pdf_18,TEXT-FULL,body,US_SSN,299-37-6610,,
-pdf_18,META-FULL,"Author,Title,Creator,Keywords",author,Sara Haddad,,
-pdf_18,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Sara Haddad,,
-pdf_18,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Sara Haddad,,
-pdf_18,META-FULL,"Author,Title,Creator,Keywords",keywords,"Sara Haddad, sara.haddad@example.jo",,
-pdf_18,META-FULL,(other field),EMAIL_ADDRESS,sara.haddad@example.jo,,
-pdf_19,TEXT-FULL,body,PERSON,نورا المصري,,
-pdf_19,TEXT-FULL,body,PHONE_NUMBER,0781234567,,
-pdf_19,TEXT-FULL,body,EMAIL_ADDRESS,noura.masri@example.jo,,
-pdf_19,TEXT-FULL,body,LOCATION,شارع مكة، عمّان,,
-pdf_19,TEXT-FULL,body,US_SSN,341-52-8890,,
-pdf_19,META-FULL,"Author,Title,Creator,Keywords",author,نورا المصري,,
-pdf_19,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – نورا المصري,,
-pdf_19,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – نورا المصري,,
-pdf_19,META-FULL,"Author,Title,Creator,Keywords",keywords,"نورا المصري, noura.masri@example.jo",,
-pdf_19,META-FULL,(other field),EMAIL_ADDRESS,noura.masri@example.jo,,
+docx_00,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Omar Al-Khatib,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,footer:footer1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_00,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+962 79 555 1234,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_00,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,omar.khatib@example.jo,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_00,TEXT-FULL,body,LOCATION,"Building 15, Wasfi Al-Tal Street, Amman 11181, Jordan",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_00,TEXT-FULL,"body,comments",US_SSN,623-19-4580,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_00,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Omar Al-Khatib,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_00,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Omar Al-Khatib,,"Metadata full leak: title present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_00,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Omar Al-Khatib, omar.khatib@example.jo",,"Metadata full leak: keywords present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_00,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Omar Al-Khatib,,"Metadata full leak: comments present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_00,META-FULL,(other field),EMAIL_ADDRESS,omar.khatib@example.jo,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_01,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Siobhan O'Brien-Walsh,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,footer:footer1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_01,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+44 20 7946 0958,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_01,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,siobhan.obrien-walsh@example.co.uk,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_01,TEXT-FULL,body,LOCATION,"14 Mill Lane, Cardiff CF10 3AT, UK",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_01,TEXT-FULL,"body,comments",US_SSN,412-55-7731,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_01,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Siobhan O'Brien-Walsh,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_01,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Siobhan O'Brien-Walsh,,"Metadata full leak: title present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_01,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Siobhan O'Brien-Walsh, siobhan.obrien-walsh@example.co.uk",,"Metadata full leak: keywords present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_01,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Siobhan O'Brien-Walsh,,"Metadata full leak: comments present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_01,META-FULL,(other field),EMAIL_ADDRESS,siobhan.obrien-walsh@example.co.uk,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_02,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Aisha Khan,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,footer:footer1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_02,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+1 (415) 555-0132,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_02,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,aisha.khan+hr@example.org,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_02,TEXT-FULL,body,LOCATION,"42 Elm Street, Apt 5B, Springfield, IL 62704",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_02,TEXT-FULL,"body,comments",US_SSN,538-62-4417,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_02,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Aisha Khan,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_02,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Aisha Khan,,"Metadata full leak: title present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_02,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Aisha Khan, aisha.khan+hr@example.org",,"Metadata full leak: keywords present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_02,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Aisha Khan,,"Metadata full leak: comments present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_02,META-FULL,(other field),EMAIL_ADDRESS,aisha.khan+hr@example.org,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_03,TEXT-FULL,"body,header:header1.xml,comments",PERSON,Michael Chen,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_03,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,555 867 5309,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_03,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,michael_chen@mail.example.com,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_03,TEXT-FULL,body,LOCATION,"700 Harbor Blvd, Unit 12, San Diego, CA 92101",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_03,TEXT-FULL,"body,comments",US_SSN,528-91-4406,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_03,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Michael Chen,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_03,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Michael Chen,,"Metadata full leak: title present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_03,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Michael Chen, michael_chen@mail.example.com",,"Metadata full leak: keywords present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_03,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Michael Chen,,"Metadata full leak: comments present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_03,META-FULL,(other field),EMAIL_ADDRESS,michael_chen@mail.example.com,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_04,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Maria Garcia,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,footer:footer1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_04,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,(212) 555-0147,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_04,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,maria.garcia@example.com,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_04,TEXT-FULL,body,LOCATION,"88 Broadway, New York, NY 10006",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_04,TEXT-FULL,"body,comments",US_SSN,301-44-9012,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_04,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Maria Garcia,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_04,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Maria Garcia,,"Metadata full leak: title present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_04,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Maria Garcia, maria.garcia@example.com",,"Metadata full leak: keywords present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_04,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Maria Garcia,,"Metadata full leak: comments present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_04,META-FULL,(other field),EMAIL_ADDRESS,maria.garcia@example.com,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_05,TEXT-FULL,"body,header:header1.xml,comments",PERSON,محمد الخطيب,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_05,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,0795551234,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_05,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,mohammad.khateeb@example.com,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_05,TEXT-FULL,body,LOCATION,شارع الجامعة، عمان,,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_05,TEXT-FULL,"body,comments",US_SSN,317-80-2256,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_05,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,محمد الخطيب,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_05,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – محمد الخطيب,,"Metadata full leak: title present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_05,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"محمد الخطيب, mohammad.khateeb@example.com",,"Metadata full leak: keywords present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_05,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for محمد الخطيب,,"Metadata full leak: comments present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_05,META-FULL,(other field),EMAIL_ADDRESS,mohammad.khateeb@example.com,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_06,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Priya Raman,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,footer:footer1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_06,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,555.201.8890,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_06,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,priya.raman@example.net,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_06,TEXT-FULL,body,LOCATION,"1200 Market St, Philadelphia, PA 19107",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_06,TEXT-FULL,"body,comments",US_SSN,287-31-5540,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_06,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Priya Raman,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_06,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Priya Raman,,"Metadata full leak: title present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_06,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Priya Raman, priya.raman@example.net",,"Metadata full leak: keywords present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_06,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Priya Raman,,"Metadata full leak: comments present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_06,META-FULL,(other field),EMAIL_ADDRESS,priya.raman@example.net,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_07,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Liam Nguyen,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,footer:footer1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_07,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,1-800-555-0199,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_07,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,liam@sub.domain.example.com,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_07,TEXT-FULL,body,LOCATION,"P.O. Box 4471, Austin, TX 78765",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_07,TEXT-FULL,"body,comments",US_SSN,140-22-6073,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_07,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Liam Nguyen,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_07,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Liam Nguyen,,"Metadata full leak: title present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_07,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Liam Nguyen, liam@sub.domain.example.com",,"Metadata full leak: keywords present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_07,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Liam Nguyen,,"Metadata full leak: comments present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_07,META-FULL,(other field),EMAIL_ADDRESS,liam@sub.domain.example.com,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_08,TEXT-FULL,"body,header:header1.xml,comments",PERSON,José Ángel Martínez,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_08,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,555-0123,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_08,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,jose.martinez@example.es,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_08,TEXT-FULL,body,LOCATION,"Calle Mayor 7, Madrid 28013, Spain",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_08,TEXT-FULL,"body,comments",US_SSN,562-19-3345,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_08,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,José Ángel Martínez,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_08,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – José Ángel Martínez,,"Metadata full leak: title present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_08,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"José Ángel Martínez, jose.martinez@example.es",,"Metadata full leak: keywords present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_08,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for José Ángel Martínez,,"Metadata full leak: comments present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_08,META-FULL,(other field),EMAIL_ADDRESS,jose.martinez@example.es,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_09,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Wei Zhang,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,footer:footer1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_09,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+1.555.123.4567,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_09,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,wei.zhang@example.com,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_09,TEXT-FULL,body,LOCATION,"300 Oak Ave Apt 4, Seattle, WA 98101",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_09,TEXT-FULL,"body,comments",US_SSN,077-14-2938,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_09,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Wei Zhang,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_09,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Wei Zhang,,"Metadata full leak: title present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_09,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Wei Zhang, wei.zhang@example.com",,"Metadata full leak: keywords present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_09,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Wei Zhang,,"Metadata full leak: comments present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_09,META-FULL,(other field),EMAIL_ADDRESS,wei.zhang@example.com,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_10,TEXT-FULL,"body,header:header1.xml,comments",PERSON,فاطمة الزعبي,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_10,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+962 78 555 0146,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_10,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,fatima.zoubi@example.jo,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_10,TEXT-FULL,body,LOCATION,شارع الملكة رانيا، إربد,,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_10,TEXT-FULL,"body,comments",US_SSN,609-23-7788,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_10,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,فاطمة الزعبي,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_10,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – فاطمة الزعبي,,"Metadata full leak: title present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_10,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"فاطمة الزعبي, fatima.zoubi@example.jo",,"Metadata full leak: keywords present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_10,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for فاطمة الزعبي,,"Metadata full leak: comments present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_10,META-FULL,(other field),EMAIL_ADDRESS,fatima.zoubi@example.jo,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_11,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Mateo Hernández,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,footer:footer1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_11,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+34 612 55 01 88,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_11,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,mateo.hernandez@example.es,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_11,TEXT-FULL,body,LOCATION,"Calle del Sol 23, Sevilla 41004, Spain",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_11,TEXT-FULL,"body,comments",US_SSN,254-73-9910,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_11,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Mateo Hernández,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_11,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Mateo Hernández,,"Metadata full leak: title present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_11,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Mateo Hernández, mateo.hernandez@example.es",,"Metadata full leak: keywords present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_11,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Mateo Hernández,,"Metadata full leak: comments present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_11,META-FULL,(other field),EMAIL_ADDRESS,mateo.hernandez@example.es,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_12,TEXT-FULL,"body,header:header1.xml,comments",PERSON,Mei Lin,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_12,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+86 10 5555 0123,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_12,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,mei.lin@example.com,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_12,TEXT-FULL,body,LOCATION,"88 Nanjing Road, Huangpu, Shanghai 200021, China",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_12,TEXT-FULL,"body,comments",US_SSN,231-55-7420,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_12,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Mei Lin,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_12,META-FULL,"core.xml,core.title",title,Confidential – Mei Lin,,"Metadata full leak: title present in field(s) core.xml,core.title. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_12,META-FULL,"core.xml,core.keywords",keywords,"Mei Lin, mei.lin@example.com",,"Metadata full leak: keywords present in field(s) core.xml,core.keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_12,META-FULL,"core.xml,core.comments",comments,Created for Mei Lin,,"Metadata full leak: comments present in field(s) core.xml,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_12,META-FULL,(other field),EMAIL_ADDRESS,mei.lin@example.com,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_13,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Arjun Patel,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,footer:footer1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_13,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+91 22 5555 0112,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_13,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,arjun.patel@example.in,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_13,TEXT-FULL,body,LOCATION,"12 MG Road, Bengaluru 560001, India",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_13,TEXT-FULL,"body,comments",US_SSN,276-14-8835,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_13,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Arjun Patel,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_13,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Arjun Patel,,"Metadata full leak: title present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_13,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Arjun Patel, arjun.patel@example.in",,"Metadata full leak: keywords present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_13,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Arjun Patel,,"Metadata full leak: comments present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_13,META-FULL,(other field),EMAIL_ADDRESS,arjun.patel@example.in,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_14,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Hannah Schmidt,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,footer:footer1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_14,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+49 30 5550 0199,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_14,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,hannah.schmidt@example.de,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_14,TEXT-FULL,body,LOCATION,"Unter den Linden 5, 10117 Berlin, Germany",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_14,TEXT-FULL,"body,comments",US_SSN,205-66-3471,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_14,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Hannah Schmidt,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_14,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Hannah Schmidt,,"Metadata full leak: title present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_14,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Hannah Schmidt, hannah.schmidt@example.de",,"Metadata full leak: keywords present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_14,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Hannah Schmidt,,"Metadata full leak: comments present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_14,META-FULL,(other field),EMAIL_ADDRESS,hannah.schmidt@example.de,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_15,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Khaled Mansour,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,footer:footer1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_15,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+962 79 555 0164,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_15,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,khaled.mansour@example.jo,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_15,TEXT-FULL,body,LOCATION,"Mecca Street 90, Amman 11953, Jordan",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_15,TEXT-FULL,"body,comments",US_SSN,312-48-9025,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_15,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Khaled Mansour,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_15,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Khaled Mansour,,"Metadata full leak: title present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_15,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Khaled Mansour, khaled.mansour@example.jo",,"Metadata full leak: keywords present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_15,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Khaled Mansour,,"Metadata full leak: comments present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_15,META-FULL,(other field),EMAIL_ADDRESS,khaled.mansour@example.jo,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_16,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Emily Watson,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,footer:footer1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_16,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+44 161 496 0198,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_16,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,emily.watson@example.co.uk,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_16,TEXT-FULL,body,LOCATION,"22 King Street, Manchester M2 4LQ, UK",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_16,TEXT-FULL,"body,comments",US_SSN,188-29-5540,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_16,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Emily Watson,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_16,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Emily Watson,,"Metadata full leak: title present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_16,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Emily Watson, emily.watson@example.co.uk",,"Metadata full leak: keywords present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_16,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Emily Watson,,"Metadata full leak: comments present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_16,META-FULL,(other field),EMAIL_ADDRESS,emily.watson@example.co.uk,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_17,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Carlos Rivera,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,footer:footer1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_17,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+1 (305) 555-0176,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_17,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,carlos.rivera@example.com,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_17,TEXT-FULL,body,LOCATION,"500 Ocean Drive, Miami, FL 33139",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_17,TEXT-FULL,"body,comments",US_SSN,263-51-7788,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_17,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Carlos Rivera,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_17,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Carlos Rivera,,"Metadata full leak: title present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_17,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Carlos Rivera, carlos.rivera@example.com",,"Metadata full leak: keywords present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_17,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Carlos Rivera,,"Metadata full leak: comments present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_17,META-FULL,(other field),EMAIL_ADDRESS,carlos.rivera@example.com,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_18,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Sara Haddad,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,footer:footer1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_18,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,0796667788,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_18,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,sara.haddad@example.jo,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_18,TEXT-FULL,body,LOCATION,"Rainbow Street 15, Amman 11181, Jordan",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_18,TEXT-FULL,"body,comments",US_SSN,299-37-6610,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_18,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,Sara Haddad,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_18,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – Sara Haddad,,"Metadata full leak: title present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_18,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"Sara Haddad, sara.haddad@example.jo",,"Metadata full leak: keywords present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_18,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for Sara Haddad,,"Metadata full leak: comments present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_18,META-FULL,(other field),EMAIL_ADDRESS,sara.haddad@example.jo,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_19,TEXT-FULL,"body,header:header1.xml,comments",PERSON,نورا المصري,,"Baseline (no redaction): PERSON present as planted in body,header:header1.xml,comments. Expected leak — establishes the before-protection condition."
+docx_19,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,0781234567,,"Baseline (no redaction): PHONE_NUMBER present as planted in body,hidden_text. Expected leak — establishes the before-protection condition."
+docx_19,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,noura.masri@example.jo,,"Baseline (no redaction): EMAIL_ADDRESS present as planted in body,footer:footer1.xml. Expected leak — establishes the before-protection condition."
+docx_19,TEXT-FULL,body,LOCATION,شارع مكة، عمّان,,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+docx_19,TEXT-FULL,"body,comments",US_SSN,341-52-8890,,"Baseline (no redaction): US_SSN present as planted in body,comments. Expected leak — establishes the before-protection condition."
+docx_19,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",author,نورا المصري,,"Metadata full leak: author present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_19,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",title,Confidential – نورا المصري,,"Metadata full leak: title present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_19,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",keywords,"نورا المصري, noura.masri@example.jo",,"Metadata full leak: keywords present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_19,META-FULL,"comment_authors,core.xml,core.author,core.title,core.keywords,core.comments",comments,Created for نورا المصري,,"Metadata full leak: comments present in field(s) comment_authors,core.xml,core.author,core.title,core.keywords,core.comments. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+docx_19,META-FULL,(other field),EMAIL_ADDRESS,noura.masri@example.jo,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_00,TEXT-FULL,body,PERSON,Omar Al-Khatib,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_00,TEXT-FULL,body,PHONE_NUMBER,+962 79 555 1234,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_00,TEXT-FULL,body,EMAIL_ADDRESS,omar.khatib@example.jo,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_00,TEXT-FULL,body,LOCATION,"Building 15, Wasfi Al-Tal Street, Amman 11181, Jordan",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_00,TEXT-FULL,body,US_SSN,623-19-4580,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_00,META-FULL,"Author,Title,Creator,Keywords",author,Omar Al-Khatib,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_00,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Omar Al-Khatib,,"Metadata full leak: title present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_00,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Omar Al-Khatib,,"Metadata full leak: creator present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_00,META-FULL,"Author,Title,Creator,Keywords",keywords,"Omar Al-Khatib, omar.khatib@example.jo",,"Metadata full leak: keywords present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_00,META-FULL,(other field),EMAIL_ADDRESS,omar.khatib@example.jo,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_01,TEXT-FULL,body,PERSON,Siobhan O'Brien-Walsh,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_01,TEXT-FULL,body,PHONE_NUMBER,+44 20 7946 0958,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_01,TEXT-FULL,body,EMAIL_ADDRESS,siobhan.obrien-walsh@example.co.uk,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_01,TEXT-FULL,body,LOCATION,"14 Mill Lane, Cardiff CF10 3AT, UK",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_01,TEXT-FULL,body,US_SSN,412-55-7731,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_01,META-FULL,"Author,Title,Creator,Keywords",author,Siobhan O'Brien-Walsh,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_01,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Siobhan O'Brien-Walsh,,"Metadata full leak: title present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_01,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Siobhan O'Brien-Walsh,,"Metadata full leak: creator present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_01,META-FULL,"Author,Title,Creator,Keywords",keywords,"Siobhan O'Brien-Walsh, siobhan.obrien-walsh@example.co.uk",,"Metadata full leak: keywords present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_01,META-FULL,(other field),EMAIL_ADDRESS,siobhan.obrien-walsh@example.co.uk,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_02,TEXT-FULL,body,PERSON,Aisha Khan,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_02,TEXT-FULL,body,PHONE_NUMBER,+1 (415) 555-0132,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_02,TEXT-FULL,body,EMAIL_ADDRESS,aisha.khan+hr@example.org,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_02,TEXT-FULL,body,LOCATION,"42 Elm Street, Apt 5B, Springfield, IL 62704",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_02,TEXT-FULL,body,US_SSN,538-62-4417,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_02,META-FULL,"Author,Title,Creator,Keywords",author,Aisha Khan,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_02,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Aisha Khan,,"Metadata full leak: title present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_02,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Aisha Khan,,"Metadata full leak: creator present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_02,META-FULL,"Author,Title,Creator,Keywords",keywords,"Aisha Khan, aisha.khan+hr@example.org",,"Metadata full leak: keywords present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_02,META-FULL,(other field),EMAIL_ADDRESS,aisha.khan+hr@example.org,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_03,TEXT-FULL,body,PERSON,Michael Chen,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_03,TEXT-FULL,body,PHONE_NUMBER,555 867 5309,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_03,TEXT-FULL,body,EMAIL_ADDRESS,michael_chen@mail.example.com,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_03,TEXT-FULL,body,LOCATION,"700 Harbor Blvd, Unit 12, San Diego, CA 92101",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_03,TEXT-FULL,body,US_SSN,528-91-4406,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_03,META-FULL,"Author,Title,Creator,Keywords",author,Michael Chen,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_03,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Michael Chen,,"Metadata full leak: title present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_03,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Michael Chen,,"Metadata full leak: creator present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_03,META-FULL,"Author,Title,Creator,Keywords",keywords,"Michael Chen, michael_chen@mail.example.com",,"Metadata full leak: keywords present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_03,META-FULL,(other field),EMAIL_ADDRESS,michael_chen@mail.example.com,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_04,TEXT-FULL,body,PERSON,Maria Garcia,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_04,TEXT-FULL,body,PHONE_NUMBER,(212) 555-0147,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_04,TEXT-FULL,body,EMAIL_ADDRESS,maria.garcia@example.com,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_04,TEXT-FULL,body,LOCATION,"88 Broadway, New York, NY 10006",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_04,TEXT-FULL,body,US_SSN,301-44-9012,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_04,META-FULL,"Author,Title,Creator,Keywords",author,Maria Garcia,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_04,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Maria Garcia,,"Metadata full leak: title present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_04,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Maria Garcia,,"Metadata full leak: creator present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_04,META-FULL,"Author,Title,Creator,Keywords",keywords,"Maria Garcia, maria.garcia@example.com",,"Metadata full leak: keywords present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_04,META-FULL,(other field),EMAIL_ADDRESS,maria.garcia@example.com,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_05,TEXT-FULL,body,PERSON,محمد الخطيب,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_05,TEXT-FULL,body,PHONE_NUMBER,0795551234,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_05,TEXT-FULL,body,EMAIL_ADDRESS,mohammad.khateeb@example.com,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_05,TEXT-FULL,body,LOCATION,شارع الجامعة، عمان,,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_05,TEXT-FULL,body,US_SSN,317-80-2256,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_05,META-FULL,"Author,Title,Creator,Keywords",author,محمد الخطيب,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_05,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – محمد الخطيب,,"Metadata full leak: title present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_05,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – محمد الخطيب,,"Metadata full leak: creator present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_05,META-FULL,"Author,Title,Creator,Keywords",keywords,"محمد الخطيب, mohammad.khateeb@example.com",,"Metadata full leak: keywords present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_05,META-FULL,(other field),EMAIL_ADDRESS,mohammad.khateeb@example.com,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_06,TEXT-FULL,body,PERSON,Priya Raman,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_06,TEXT-FULL,body,PHONE_NUMBER,555.201.8890,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_06,TEXT-FULL,body,EMAIL_ADDRESS,priya.raman@example.net,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_06,TEXT-FULL,body,LOCATION,"1200 Market St, Philadelphia, PA 19107",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_06,TEXT-FULL,body,US_SSN,287-31-5540,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_06,META-FULL,"Author,Title,Creator,Keywords",author,Priya Raman,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_06,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Priya Raman,,"Metadata full leak: title present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_06,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Priya Raman,,"Metadata full leak: creator present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_06,META-FULL,"Author,Title,Creator,Keywords",keywords,"Priya Raman, priya.raman@example.net",,"Metadata full leak: keywords present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_06,META-FULL,(other field),EMAIL_ADDRESS,priya.raman@example.net,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_07,TEXT-FULL,body,PERSON,Liam Nguyen,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_07,TEXT-FULL,body,PHONE_NUMBER,1-800-555-0199,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_07,TEXT-FULL,body,EMAIL_ADDRESS,liam@sub.domain.example.com,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_07,TEXT-FULL,body,LOCATION,"P.O. Box 4471, Austin, TX 78765",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_07,TEXT-FULL,body,US_SSN,140-22-6073,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_07,META-FULL,"Author,Title,Creator,Keywords",author,Liam Nguyen,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_07,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Liam Nguyen,,"Metadata full leak: title present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_07,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Liam Nguyen,,"Metadata full leak: creator present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_07,META-FULL,"Author,Title,Creator,Keywords",keywords,"Liam Nguyen, liam@sub.domain.example.com",,"Metadata full leak: keywords present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_07,META-FULL,(other field),EMAIL_ADDRESS,liam@sub.domain.example.com,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_08,TEXT-FULL,body,PERSON,José Ángel Martínez,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_08,TEXT-FULL,body,PHONE_NUMBER,555-0123,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_08,TEXT-FULL,body,EMAIL_ADDRESS,jose.martinez@example.es,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_08,TEXT-FULL,body,LOCATION,"Calle Mayor 7, Madrid 28013, Spain",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_08,TEXT-FULL,body,US_SSN,562-19-3345,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_08,META-FULL,"Author,Title,Creator,Keywords",author,José Ángel Martínez,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_08,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – José Ángel Martínez,,"Metadata full leak: title present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_08,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – José Ángel Martínez,,"Metadata full leak: creator present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_08,META-FULL,"Author,Title,Creator,Keywords",keywords,"José Ángel Martínez, jose.martinez@example.es",,"Metadata full leak: keywords present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_08,META-FULL,(other field),EMAIL_ADDRESS,jose.martinez@example.es,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_09,TEXT-FULL,body,PERSON,Wei Zhang,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_09,TEXT-FULL,body,PHONE_NUMBER,+1.555.123.4567,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_09,TEXT-FULL,body,EMAIL_ADDRESS,wei.zhang@example.com,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_09,TEXT-FULL,body,LOCATION,"300 Oak Ave Apt 4, Seattle, WA 98101",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_09,TEXT-FULL,body,US_SSN,077-14-2938,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_09,META-FULL,"Author,Title,Creator,Keywords",author,Wei Zhang,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_09,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Wei Zhang,,"Metadata full leak: title present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_09,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Wei Zhang,,"Metadata full leak: creator present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_09,META-FULL,"Author,Title,Creator,Keywords",keywords,"Wei Zhang, wei.zhang@example.com",,"Metadata full leak: keywords present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_09,META-FULL,(other field),EMAIL_ADDRESS,wei.zhang@example.com,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_10,TEXT-FULL,body,PERSON,فاطمة الزعبي,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_10,TEXT-FULL,body,PHONE_NUMBER,+962 78 555 0146,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_10,TEXT-FULL,body,EMAIL_ADDRESS,fatima.zoubi@example.jo,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_10,TEXT-FULL,body,LOCATION,شارع الملكة رانيا، إربد,,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_10,TEXT-FULL,body,US_SSN,609-23-7788,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_10,META-FULL,"Author,Title,Creator,Keywords",author,فاطمة الزعبي,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_10,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – فاطمة الزعبي,,"Metadata full leak: title present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_10,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – فاطمة الزعبي,,"Metadata full leak: creator present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_10,META-FULL,"Author,Title,Creator,Keywords",keywords,"فاطمة الزعبي, fatima.zoubi@example.jo",,"Metadata full leak: keywords present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_10,META-FULL,(other field),EMAIL_ADDRESS,fatima.zoubi@example.jo,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_11,TEXT-FULL,body,PERSON,Mateo Hernández,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_11,TEXT-FULL,body,PHONE_NUMBER,+34 612 55 01 88,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_11,TEXT-FULL,body,EMAIL_ADDRESS,mateo.hernandez@example.es,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_11,TEXT-FULL,body,LOCATION,"Calle del Sol 23, Sevilla 41004, Spain",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_11,TEXT-FULL,body,US_SSN,254-73-9910,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_11,META-FULL,"Author,Title,Creator,Keywords",author,Mateo Hernández,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_11,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Mateo Hernández,,"Metadata full leak: title present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_11,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Mateo Hernández,,"Metadata full leak: creator present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_11,META-FULL,"Author,Title,Creator,Keywords",keywords,"Mateo Hernández, mateo.hernandez@example.es",,"Metadata full leak: keywords present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_11,META-FULL,(other field),EMAIL_ADDRESS,mateo.hernandez@example.es,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_12,TEXT-FULL,body,PERSON,Mei Lin,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_12,TEXT-FULL,body,PHONE_NUMBER,+86 10 5555 0123,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_12,TEXT-FULL,body,EMAIL_ADDRESS,mei.lin@example.com,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_12,TEXT-FULL,body,LOCATION,"88 Nanjing Road, Huangpu, Shanghai 200021, China",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_12,TEXT-FULL,body,US_SSN,231-55-7420,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_12,META-FULL,"Author,Title,Creator,Keywords",author,Mei Lin,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_12,META-FULL,Title,title,Confidential – Mei Lin,,Metadata full leak: title present in field(s) Title. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_12,META-FULL,Creator,creator,HR System – Mei Lin,,Metadata full leak: creator present in field(s) Creator. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_12,META-FULL,Keywords,keywords,"Mei Lin, mei.lin@example.com",,Metadata full leak: keywords present in field(s) Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_12,META-FULL,(other field),EMAIL_ADDRESS,mei.lin@example.com,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_13,TEXT-FULL,body,PERSON,Arjun Patel,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_13,TEXT-FULL,body,PHONE_NUMBER,+91 22 5555 0112,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_13,TEXT-FULL,body,EMAIL_ADDRESS,arjun.patel@example.in,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_13,TEXT-FULL,body,LOCATION,"12 MG Road, Bengaluru 560001, India",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_13,TEXT-FULL,body,US_SSN,276-14-8835,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_13,META-FULL,"Author,Title,Creator,Keywords",author,Arjun Patel,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_13,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Arjun Patel,,"Metadata full leak: title present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_13,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Arjun Patel,,"Metadata full leak: creator present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_13,META-FULL,"Author,Title,Creator,Keywords",keywords,"Arjun Patel, arjun.patel@example.in",,"Metadata full leak: keywords present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_13,META-FULL,(other field),EMAIL_ADDRESS,arjun.patel@example.in,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_14,TEXT-FULL,body,PERSON,Hannah Schmidt,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_14,TEXT-FULL,body,PHONE_NUMBER,+49 30 5550 0199,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_14,TEXT-FULL,body,EMAIL_ADDRESS,hannah.schmidt@example.de,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_14,TEXT-FULL,body,LOCATION,"Unter den Linden 5, 10117 Berlin, Germany",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_14,TEXT-FULL,body,US_SSN,205-66-3471,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_14,META-FULL,"Author,Title,Creator,Keywords",author,Hannah Schmidt,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_14,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Hannah Schmidt,,"Metadata full leak: title present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_14,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Hannah Schmidt,,"Metadata full leak: creator present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_14,META-FULL,"Author,Title,Creator,Keywords",keywords,"Hannah Schmidt, hannah.schmidt@example.de",,"Metadata full leak: keywords present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_14,META-FULL,(other field),EMAIL_ADDRESS,hannah.schmidt@example.de,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_15,TEXT-FULL,body,PERSON,Khaled Mansour,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_15,TEXT-FULL,body,PHONE_NUMBER,+962 79 555 0164,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_15,TEXT-FULL,body,EMAIL_ADDRESS,khaled.mansour@example.jo,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_15,TEXT-FULL,body,LOCATION,"Mecca Street 90, Amman 11953, Jordan",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_15,TEXT-FULL,body,US_SSN,312-48-9025,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_15,META-FULL,"Author,Title,Creator,Keywords",author,Khaled Mansour,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_15,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Khaled Mansour,,"Metadata full leak: title present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_15,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Khaled Mansour,,"Metadata full leak: creator present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_15,META-FULL,"Author,Title,Creator,Keywords",keywords,"Khaled Mansour, khaled.mansour@example.jo",,"Metadata full leak: keywords present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_15,META-FULL,(other field),EMAIL_ADDRESS,khaled.mansour@example.jo,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_16,TEXT-FULL,body,PERSON,Emily Watson,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_16,TEXT-FULL,body,PHONE_NUMBER,+44 161 496 0198,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_16,TEXT-FULL,body,EMAIL_ADDRESS,emily.watson@example.co.uk,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_16,TEXT-FULL,body,LOCATION,"22 King Street, Manchester M2 4LQ, UK",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_16,TEXT-FULL,body,US_SSN,188-29-5540,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_16,META-FULL,"Author,Title,Creator,Keywords",author,Emily Watson,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_16,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Emily Watson,,"Metadata full leak: title present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_16,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Emily Watson,,"Metadata full leak: creator present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_16,META-FULL,"Author,Title,Creator,Keywords",keywords,"Emily Watson, emily.watson@example.co.uk",,"Metadata full leak: keywords present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_16,META-FULL,(other field),EMAIL_ADDRESS,emily.watson@example.co.uk,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_17,TEXT-FULL,body,PERSON,Carlos Rivera,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_17,TEXT-FULL,body,PHONE_NUMBER,+1 (305) 555-0176,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_17,TEXT-FULL,body,EMAIL_ADDRESS,carlos.rivera@example.com,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_17,TEXT-FULL,body,LOCATION,"500 Ocean Drive, Miami, FL 33139",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_17,TEXT-FULL,body,US_SSN,263-51-7788,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_17,META-FULL,"Author,Title,Creator,Keywords",author,Carlos Rivera,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_17,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Carlos Rivera,,"Metadata full leak: title present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_17,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Carlos Rivera,,"Metadata full leak: creator present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_17,META-FULL,"Author,Title,Creator,Keywords",keywords,"Carlos Rivera, carlos.rivera@example.com",,"Metadata full leak: keywords present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_17,META-FULL,(other field),EMAIL_ADDRESS,carlos.rivera@example.com,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_18,TEXT-FULL,body,PERSON,Sara Haddad,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_18,TEXT-FULL,body,PHONE_NUMBER,0796667788,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_18,TEXT-FULL,body,EMAIL_ADDRESS,sara.haddad@example.jo,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_18,TEXT-FULL,body,LOCATION,"Rainbow Street 15, Amman 11181, Jordan",,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_18,TEXT-FULL,body,US_SSN,299-37-6610,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_18,META-FULL,"Author,Title,Creator,Keywords",author,Sara Haddad,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_18,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – Sara Haddad,,"Metadata full leak: title present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_18,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – Sara Haddad,,"Metadata full leak: creator present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_18,META-FULL,"Author,Title,Creator,Keywords",keywords,"Sara Haddad, sara.haddad@example.jo",,"Metadata full leak: keywords present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_18,META-FULL,(other field),EMAIL_ADDRESS,sara.haddad@example.jo,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_19,TEXT-FULL,body,PERSON,نورا المصري,,Baseline (no redaction): PERSON present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_19,TEXT-FULL,body,PHONE_NUMBER,0781234567,,Baseline (no redaction): PHONE_NUMBER present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_19,TEXT-FULL,body,EMAIL_ADDRESS,noura.masri@example.jo,,Baseline (no redaction): EMAIL_ADDRESS present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_19,TEXT-FULL,body,LOCATION,شارع مكة، عمّان,,Baseline (no redaction): LOCATION present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_19,TEXT-FULL,body,US_SSN,341-52-8890,,Baseline (no redaction): US_SSN present as planted in body. Expected leak — establishes the before-protection condition.
+pdf_19,META-FULL,"Author,Title,Creator,Keywords",author,نورا المصري,,"Metadata full leak: author present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_19,META-FULL,"Author,Title,Creator,Keywords",title,Confidential – نورا المصري,,"Metadata full leak: title present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_19,META-FULL,"Author,Title,Creator,Keywords",creator,HR System – نورا المصري,,"Metadata full leak: creator present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_19,META-FULL,"Author,Title,Creator,Keywords",keywords,"نورا المصري, noura.masri@example.jo",,"Metadata full leak: keywords present in field(s) Author,Title,Creator,Keywords. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author)."
+pdf_19,META-FULL,(other field),EMAIL_ADDRESS,noura.masri@example.jo,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).

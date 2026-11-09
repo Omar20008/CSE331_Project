@@ -1,292 +1,292 @@
 doc,kind,location,entity_or_field,value,auto_note,manual_review_note
-docx_00,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Omar Al-Khatib,,
-docx_00,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+962 79 555 1234,,
-docx_00,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,omar.khatib@example.jo,,
-docx_00,TEXT-FULL,body,LOCATION,"Building 15, Wasfi Al-Tal Street, Amman 11181, Jordan",,
-docx_00,TEXT-FULL,"body,comments",US_SSN,623-19-4580,,
-docx_00,META-FULL,comment_authors,author,Omar Al-Khatib,,
-docx_00,META-PARTIAL,comment_authors,title,Confidential – Omar Al-Khatib,"remaining tokens: khatib, omar",
-docx_00,META-PARTIAL,comment_authors,keywords,"Omar Al-Khatib, omar.khatib@example.jo","remaining tokens: khatib, omar",
-docx_00,META-PARTIAL,comment_authors,comments,Created for Omar Al-Khatib,"remaining tokens: khatib, omar",
-docx_00,META-FULL,(other field),EMAIL_ADDRESS,omar.khatib@example.jo,,
-docx_01,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Siobhan O'Brien-Walsh,,
-docx_01,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+44 20 7946 0958,,
-docx_01,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,siobhan.obrien-walsh@example.co.uk,,
-docx_01,TEXT-FULL,body,LOCATION,"14 Mill Lane, Cardiff CF10 3AT, UK",,
-docx_01,TEXT-FULL,"body,comments",US_SSN,412-55-7731,,
-docx_01,META-FULL,comment_authors,author,Siobhan O'Brien-Walsh,,
-docx_01,META-PARTIAL,comment_authors,title,Confidential – Siobhan O'Brien-Walsh,"remaining tokens: brien, siobhan, walsh",
-docx_01,META-PARTIAL,comment_authors,keywords,"Siobhan O'Brien-Walsh, siobhan.obrien-walsh@example.co.uk","remaining tokens: brien, siobhan, walsh",
-docx_01,META-PARTIAL,comment_authors,comments,Created for Siobhan O'Brien-Walsh,"remaining tokens: brien, siobhan, walsh",
-docx_01,META-FULL,(other field),EMAIL_ADDRESS,siobhan.obrien-walsh@example.co.uk,,
-docx_02,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Aisha Khan,,
-docx_02,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+1 (415) 555-0132,,
-docx_02,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,aisha.khan+hr@example.org,,
-docx_02,TEXT-FULL,body,LOCATION,"42 Elm Street, Apt 5B, Springfield, IL 62704",,
-docx_02,TEXT-FULL,"body,comments",US_SSN,538-62-4417,,
-docx_02,META-FULL,comment_authors,author,Aisha Khan,,
-docx_02,META-PARTIAL,comment_authors,title,Confidential – Aisha Khan,"remaining tokens: aisha, khan",
-docx_02,META-PARTIAL,comment_authors,keywords,"Aisha Khan, aisha.khan+hr@example.org","remaining tokens: aisha, khan",
-docx_02,META-PARTIAL,comment_authors,comments,Created for Aisha Khan,"remaining tokens: aisha, khan",
-docx_02,META-FULL,(other field),EMAIL_ADDRESS,aisha.khan+hr@example.org,,
-docx_03,TEXT-FULL,"body,header:header1.xml,comments",PERSON,Michael Chen,,
-docx_03,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,555 867 5309,,
-docx_03,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,michael_chen@mail.example.com,,
-docx_03,TEXT-FULL,body,LOCATION,"700 Harbor Blvd, Unit 12, San Diego, CA 92101",,
-docx_03,TEXT-FULL,"body,comments",US_SSN,528-91-4406,,
-docx_03,META-FULL,comment_authors,author,Michael Chen,,
-docx_03,META-PARTIAL,comment_authors,title,Confidential – Michael Chen,"remaining tokens: chen, michael",
-docx_03,META-PARTIAL,comment_authors,keywords,"Michael Chen, michael_chen@mail.example.com","remaining tokens: chen, michael",
-docx_03,META-PARTIAL,comment_authors,comments,Created for Michael Chen,"remaining tokens: chen, michael",
-docx_04,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Maria Garcia,,
-docx_04,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,(212) 555-0147,,
-docx_04,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,maria.garcia@example.com,,
-docx_04,TEXT-FULL,body,LOCATION,"88 Broadway, New York, NY 10006",,
-docx_04,TEXT-FULL,"body,comments",US_SSN,301-44-9012,,
-docx_04,META-FULL,comment_authors,author,Maria Garcia,,
-docx_04,META-PARTIAL,comment_authors,title,Confidential – Maria Garcia,"remaining tokens: garcia, maria",
-docx_04,META-PARTIAL,comment_authors,keywords,"Maria Garcia, maria.garcia@example.com","remaining tokens: garcia, maria",
-docx_04,META-PARTIAL,comment_authors,comments,Created for Maria Garcia,"remaining tokens: garcia, maria",
-docx_04,META-FULL,(other field),EMAIL_ADDRESS,maria.garcia@example.com,,
-docx_05,TEXT-FULL,"body,header:header1.xml,comments",PERSON,محمد الخطيب,,
-docx_05,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,0795551234,,
-docx_05,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,mohammad.khateeb@example.com,,
-docx_05,TEXT-FULL,body,LOCATION,شارع الجامعة، عمان,,
-docx_05,TEXT-FULL,"body,comments",US_SSN,317-80-2256,,
-docx_05,META-FULL,comment_authors,author,محمد الخطيب,,
-docx_05,META-PARTIAL,comment_authors,title,Confidential – محمد الخطيب,"remaining tokens: الخطيب, محمد",
-docx_05,META-PARTIAL,comment_authors,keywords,"محمد الخطيب, mohammad.khateeb@example.com","remaining tokens: الخطيب, محمد",
-docx_05,META-PARTIAL,comment_authors,comments,Created for محمد الخطيب,"remaining tokens: الخطيب, محمد",
-docx_06,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Priya Raman,,
-docx_06,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,555.201.8890,,
-docx_06,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,priya.raman@example.net,,
-docx_06,TEXT-FULL,body,LOCATION,"1200 Market St, Philadelphia, PA 19107",,
-docx_06,TEXT-FULL,"body,comments",US_SSN,287-31-5540,,
-docx_06,META-FULL,comment_authors,author,Priya Raman,,
-docx_06,META-PARTIAL,comment_authors,title,Confidential – Priya Raman,"remaining tokens: priya, raman",
-docx_06,META-PARTIAL,comment_authors,keywords,"Priya Raman, priya.raman@example.net","remaining tokens: priya, raman",
-docx_06,META-PARTIAL,comment_authors,comments,Created for Priya Raman,"remaining tokens: priya, raman",
-docx_06,META-FULL,(other field),EMAIL_ADDRESS,priya.raman@example.net,,
-docx_07,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Liam Nguyen,,
-docx_07,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,1-800-555-0199,,
-docx_07,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,liam@sub.domain.example.com,,
-docx_07,TEXT-FULL,body,LOCATION,"P.O. Box 4471, Austin, TX 78765",,
-docx_07,TEXT-FULL,"body,comments",US_SSN,140-22-6073,,
-docx_07,META-FULL,comment_authors,author,Liam Nguyen,,
-docx_07,META-PARTIAL,comment_authors,title,Confidential – Liam Nguyen,"remaining tokens: liam, nguyen",
-docx_07,META-PARTIAL,comment_authors,keywords,"Liam Nguyen, liam@sub.domain.example.com","remaining tokens: liam, nguyen",
-docx_07,META-PARTIAL,comment_authors,comments,Created for Liam Nguyen,"remaining tokens: liam, nguyen",
-docx_07,META-FULL,(other field),EMAIL_ADDRESS,liam@sub.domain.example.com,,
-docx_08,TEXT-FULL,"body,header:header1.xml,comments",PERSON,José Ángel Martínez,,
-docx_08,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,555-0123,,
-docx_08,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,jose.martinez@example.es,,
-docx_08,TEXT-FULL,body,LOCATION,"Calle Mayor 7, Madrid 28013, Spain",,
-docx_08,TEXT-FULL,"body,comments",US_SSN,562-19-3345,,
-docx_08,META-FULL,comment_authors,author,José Ángel Martínez,,
-docx_08,META-PARTIAL,comment_authors,title,Confidential – José Ángel Martínez,"remaining tokens: josé, martínez, ángel",
-docx_08,META-PARTIAL,comment_authors,keywords,"José Ángel Martínez, jose.martinez@example.es","remaining tokens: josé, martínez, ángel",
-docx_08,META-PARTIAL,comment_authors,comments,Created for José Ángel Martínez,"remaining tokens: josé, martínez, ángel",
-docx_09,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Wei Zhang,,
-docx_09,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+1.555.123.4567,,
-docx_09,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,wei.zhang@example.com,,
-docx_09,TEXT-FULL,body,LOCATION,"300 Oak Ave Apt 4, Seattle, WA 98101",,
-docx_09,TEXT-FULL,"body,comments",US_SSN,077-14-2938,,
-docx_09,META-FULL,comment_authors,author,Wei Zhang,,
-docx_09,META-PARTIAL,comment_authors,title,Confidential – Wei Zhang,remaining tokens: zhang,
-docx_09,META-PARTIAL,comment_authors,keywords,"Wei Zhang, wei.zhang@example.com",remaining tokens: zhang,
-docx_09,META-PARTIAL,comment_authors,comments,Created for Wei Zhang,remaining tokens: zhang,
-docx_09,META-FULL,(other field),EMAIL_ADDRESS,wei.zhang@example.com,,
-docx_10,TEXT-FULL,"body,header:header1.xml,comments",PERSON,فاطمة الزعبي,,
-docx_10,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+962 78 555 0146,,
-docx_10,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,fatima.zoubi@example.jo,,
-docx_10,TEXT-FULL,body,LOCATION,شارع الملكة رانيا، إربد,,
-docx_10,TEXT-FULL,"body,comments",US_SSN,609-23-7788,,
-docx_10,META-FULL,comment_authors,author,فاطمة الزعبي,,
-docx_10,META-PARTIAL,comment_authors,title,Confidential – فاطمة الزعبي,"remaining tokens: الزعبي, فاطمة",
-docx_10,META-PARTIAL,comment_authors,keywords,"فاطمة الزعبي, fatima.zoubi@example.jo","remaining tokens: الزعبي, فاطمة",
-docx_10,META-PARTIAL,comment_authors,comments,Created for فاطمة الزعبي,"remaining tokens: الزعبي, فاطمة",
-docx_11,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Mateo Hernández,,
-docx_11,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+34 612 55 01 88,,
-docx_11,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,mateo.hernandez@example.es,,
-docx_11,TEXT-FULL,body,LOCATION,"Calle del Sol 23, Sevilla 41004, Spain",,
-docx_11,TEXT-FULL,"body,comments",US_SSN,254-73-9910,,
-docx_11,META-FULL,comment_authors,author,Mateo Hernández,,
-docx_11,META-PARTIAL,comment_authors,title,Confidential – Mateo Hernández,"remaining tokens: hernández, mateo",
-docx_11,META-PARTIAL,comment_authors,keywords,"Mateo Hernández, mateo.hernandez@example.es","remaining tokens: hernández, mateo",
-docx_11,META-PARTIAL,comment_authors,comments,Created for Mateo Hernández,"remaining tokens: hernández, mateo",
-docx_11,META-FULL,(other field),EMAIL_ADDRESS,mateo.hernandez@example.es,,
-docx_12,TEXT-FULL,"body,header:header1.xml,comments",PERSON,Mei Lin,,
-docx_12,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+86 10 5555 0123,,
-docx_12,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,mei.lin@example.com,,
-docx_12,TEXT-FULL,body,LOCATION,"88 Nanjing Road, Huangpu, Shanghai 200021, China",,
-docx_12,TEXT-FULL,"body,comments",US_SSN,231-55-7420,,
-docx_12,META-FULL,comment_authors,author,Mei Lin,,
-docx_13,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Arjun Patel,,
-docx_13,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+91 22 5555 0112,,
-docx_13,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,arjun.patel@example.in,,
-docx_13,TEXT-FULL,body,LOCATION,"12 MG Road, Bengaluru 560001, India",,
-docx_13,TEXT-FULL,"body,comments",US_SSN,276-14-8835,,
-docx_13,META-FULL,comment_authors,author,Arjun Patel,,
-docx_13,META-PARTIAL,comment_authors,title,Confidential – Arjun Patel,"remaining tokens: arjun, patel",
-docx_13,META-PARTIAL,comment_authors,keywords,"Arjun Patel, arjun.patel@example.in","remaining tokens: arjun, patel",
-docx_13,META-PARTIAL,comment_authors,comments,Created for Arjun Patel,"remaining tokens: arjun, patel",
-docx_13,META-FULL,(other field),EMAIL_ADDRESS,arjun.patel@example.in,,
-docx_14,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Hannah Schmidt,,
-docx_14,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+49 30 5550 0199,,
-docx_14,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,hannah.schmidt@example.de,,
-docx_14,TEXT-FULL,body,LOCATION,"Unter den Linden 5, 10117 Berlin, Germany",,
-docx_14,TEXT-FULL,"body,comments",US_SSN,205-66-3471,,
-docx_14,META-FULL,comment_authors,author,Hannah Schmidt,,
-docx_14,META-PARTIAL,comment_authors,title,Confidential – Hannah Schmidt,"remaining tokens: hannah, schmidt",
-docx_14,META-PARTIAL,comment_authors,keywords,"Hannah Schmidt, hannah.schmidt@example.de","remaining tokens: hannah, schmidt",
-docx_14,META-PARTIAL,comment_authors,comments,Created for Hannah Schmidt,"remaining tokens: hannah, schmidt",
-docx_14,META-FULL,(other field),EMAIL_ADDRESS,hannah.schmidt@example.de,,
-docx_15,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Khaled Mansour,,
-docx_15,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+962 79 555 0164,,
-docx_15,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,khaled.mansour@example.jo,,
-docx_15,TEXT-FULL,body,LOCATION,"Mecca Street 90, Amman 11953, Jordan",,
-docx_15,TEXT-FULL,"body,comments",US_SSN,312-48-9025,,
-docx_15,META-FULL,comment_authors,author,Khaled Mansour,,
-docx_15,META-PARTIAL,comment_authors,title,Confidential – Khaled Mansour,"remaining tokens: khaled, mansour",
-docx_15,META-PARTIAL,comment_authors,keywords,"Khaled Mansour, khaled.mansour@example.jo","remaining tokens: khaled, mansour",
-docx_15,META-PARTIAL,comment_authors,comments,Created for Khaled Mansour,"remaining tokens: khaled, mansour",
-docx_15,META-FULL,(other field),EMAIL_ADDRESS,khaled.mansour@example.jo,,
-docx_16,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Emily Watson,,
-docx_16,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+44 161 496 0198,,
-docx_16,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,emily.watson@example.co.uk,,
-docx_16,TEXT-FULL,body,LOCATION,"22 King Street, Manchester M2 4LQ, UK",,
-docx_16,TEXT-FULL,"body,comments",US_SSN,188-29-5540,,
-docx_16,META-FULL,comment_authors,author,Emily Watson,,
-docx_16,META-PARTIAL,comment_authors,title,Confidential – Emily Watson,"remaining tokens: emily, watson",
-docx_16,META-PARTIAL,comment_authors,keywords,"Emily Watson, emily.watson@example.co.uk","remaining tokens: emily, watson",
-docx_16,META-PARTIAL,comment_authors,comments,Created for Emily Watson,"remaining tokens: emily, watson",
-docx_16,META-FULL,(other field),EMAIL_ADDRESS,emily.watson@example.co.uk,,
-docx_17,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Carlos Rivera,,
-docx_17,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+1 (305) 555-0176,,
-docx_17,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,carlos.rivera@example.com,,
-docx_17,TEXT-FULL,body,LOCATION,"500 Ocean Drive, Miami, FL 33139",,
-docx_17,TEXT-FULL,"body,comments",US_SSN,263-51-7788,,
-docx_17,META-FULL,comment_authors,author,Carlos Rivera,,
-docx_17,META-PARTIAL,comment_authors,title,Confidential – Carlos Rivera,"remaining tokens: carlos, rivera",
-docx_17,META-PARTIAL,comment_authors,keywords,"Carlos Rivera, carlos.rivera@example.com","remaining tokens: carlos, rivera",
-docx_17,META-PARTIAL,comment_authors,comments,Created for Carlos Rivera,"remaining tokens: carlos, rivera",
-docx_17,META-FULL,(other field),EMAIL_ADDRESS,carlos.rivera@example.com,,
-docx_18,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Sara Haddad,,
-docx_18,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,0796667788,,
-docx_18,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,sara.haddad@example.jo,,
-docx_18,TEXT-FULL,body,LOCATION,"Rainbow Street 15, Amman 11181, Jordan",,
-docx_18,TEXT-FULL,"body,comments",US_SSN,299-37-6610,,
-docx_18,META-FULL,comment_authors,author,Sara Haddad,,
-docx_18,META-PARTIAL,comment_authors,title,Confidential – Sara Haddad,"remaining tokens: haddad, sara",
-docx_18,META-PARTIAL,comment_authors,keywords,"Sara Haddad, sara.haddad@example.jo","remaining tokens: haddad, sara",
-docx_18,META-PARTIAL,comment_authors,comments,Created for Sara Haddad,"remaining tokens: haddad, sara",
-docx_18,META-FULL,(other field),EMAIL_ADDRESS,sara.haddad@example.jo,,
-docx_19,TEXT-FULL,"body,header:header1.xml,comments",PERSON,نورا المصري,,
-docx_19,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,0781234567,,
-docx_19,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,noura.masri@example.jo,,
-docx_19,TEXT-FULL,body,LOCATION,شارع مكة، عمّان,,
-docx_19,TEXT-FULL,"body,comments",US_SSN,341-52-8890,,
-docx_19,META-FULL,comment_authors,author,نورا المصري,,
-docx_19,META-PARTIAL,comment_authors,title,Confidential – نورا المصري,"remaining tokens: المصري, نورا",
-docx_19,META-PARTIAL,comment_authors,keywords,"نورا المصري, noura.masri@example.jo","remaining tokens: المصري, نورا",
-docx_19,META-PARTIAL,comment_authors,comments,Created for نورا المصري,"remaining tokens: المصري, نورا",
-pdf_00,TEXT-FULL,body,PERSON,Omar Al-Khatib,,
-pdf_00,TEXT-FULL,body,PHONE_NUMBER,+962 79 555 1234,,
-pdf_00,TEXT-FULL,body,EMAIL_ADDRESS,omar.khatib@example.jo,,
-pdf_00,TEXT-FULL,body,LOCATION,"Building 15, Wasfi Al-Tal Street, Amman 11181, Jordan",,
-pdf_00,TEXT-FULL,body,US_SSN,623-19-4580,,
-pdf_01,TEXT-FULL,body,PERSON,Siobhan O'Brien-Walsh,,
-pdf_01,TEXT-FULL,body,PHONE_NUMBER,+44 20 7946 0958,,
-pdf_01,TEXT-FULL,body,EMAIL_ADDRESS,siobhan.obrien-walsh@example.co.uk,,
-pdf_01,TEXT-FULL,body,LOCATION,"14 Mill Lane, Cardiff CF10 3AT, UK",,
-pdf_01,TEXT-FULL,body,US_SSN,412-55-7731,,
-pdf_02,TEXT-FULL,body,PERSON,Aisha Khan,,
-pdf_02,TEXT-FULL,body,PHONE_NUMBER,+1 (415) 555-0132,,
-pdf_02,TEXT-FULL,body,EMAIL_ADDRESS,aisha.khan+hr@example.org,,
-pdf_02,TEXT-FULL,body,LOCATION,"42 Elm Street, Apt 5B, Springfield, IL 62704",,
-pdf_02,TEXT-FULL,body,US_SSN,538-62-4417,,
-pdf_03,TEXT-FULL,body,PERSON,Michael Chen,,
-pdf_03,TEXT-FULL,body,PHONE_NUMBER,555 867 5309,,
-pdf_03,TEXT-FULL,body,EMAIL_ADDRESS,michael_chen@mail.example.com,,
-pdf_03,TEXT-FULL,body,LOCATION,"700 Harbor Blvd, Unit 12, San Diego, CA 92101",,
-pdf_03,TEXT-FULL,body,US_SSN,528-91-4406,,
-pdf_04,TEXT-FULL,body,PERSON,Maria Garcia,,
-pdf_04,TEXT-FULL,body,PHONE_NUMBER,(212) 555-0147,,
-pdf_04,TEXT-FULL,body,EMAIL_ADDRESS,maria.garcia@example.com,,
-pdf_04,TEXT-FULL,body,LOCATION,"88 Broadway, New York, NY 10006",,
-pdf_04,TEXT-FULL,body,US_SSN,301-44-9012,,
-pdf_05,TEXT-FULL,body,PERSON,محمد الخطيب,,
-pdf_05,TEXT-FULL,body,PHONE_NUMBER,0795551234,,
-pdf_05,TEXT-FULL,body,EMAIL_ADDRESS,mohammad.khateeb@example.com,,
-pdf_05,TEXT-FULL,body,LOCATION,شارع الجامعة، عمان,,
-pdf_05,TEXT-FULL,body,US_SSN,317-80-2256,,
-pdf_06,TEXT-FULL,body,PERSON,Priya Raman,,
-pdf_06,TEXT-FULL,body,PHONE_NUMBER,555.201.8890,,
-pdf_06,TEXT-FULL,body,EMAIL_ADDRESS,priya.raman@example.net,,
-pdf_06,TEXT-FULL,body,LOCATION,"1200 Market St, Philadelphia, PA 19107",,
-pdf_06,TEXT-FULL,body,US_SSN,287-31-5540,,
-pdf_07,TEXT-FULL,body,PERSON,Liam Nguyen,,
-pdf_07,TEXT-FULL,body,PHONE_NUMBER,1-800-555-0199,,
-pdf_07,TEXT-FULL,body,EMAIL_ADDRESS,liam@sub.domain.example.com,,
-pdf_07,TEXT-FULL,body,LOCATION,"P.O. Box 4471, Austin, TX 78765",,
-pdf_07,TEXT-FULL,body,US_SSN,140-22-6073,,
-pdf_08,TEXT-FULL,body,PERSON,José Ángel Martínez,,
-pdf_08,TEXT-FULL,body,PHONE_NUMBER,555-0123,,
-pdf_08,TEXT-FULL,body,EMAIL_ADDRESS,jose.martinez@example.es,,
-pdf_08,TEXT-FULL,body,LOCATION,"Calle Mayor 7, Madrid 28013, Spain",,
-pdf_08,TEXT-FULL,body,US_SSN,562-19-3345,,
-pdf_09,TEXT-FULL,body,PERSON,Wei Zhang,,
-pdf_09,TEXT-FULL,body,PHONE_NUMBER,+1.555.123.4567,,
-pdf_09,TEXT-FULL,body,EMAIL_ADDRESS,wei.zhang@example.com,,
-pdf_09,TEXT-FULL,body,LOCATION,"300 Oak Ave Apt 4, Seattle, WA 98101",,
-pdf_09,TEXT-FULL,body,US_SSN,077-14-2938,,
-pdf_10,TEXT-FULL,body,PERSON,فاطمة الزعبي,,
-pdf_10,TEXT-FULL,body,PHONE_NUMBER,+962 78 555 0146,,
-pdf_10,TEXT-FULL,body,EMAIL_ADDRESS,fatima.zoubi@example.jo,,
-pdf_10,TEXT-FULL,body,LOCATION,شارع الملكة رانيا، إربد,,
-pdf_10,TEXT-FULL,body,US_SSN,609-23-7788,,
-pdf_11,TEXT-FULL,body,PERSON,Mateo Hernández,,
-pdf_11,TEXT-FULL,body,PHONE_NUMBER,+34 612 55 01 88,,
-pdf_11,TEXT-FULL,body,EMAIL_ADDRESS,mateo.hernandez@example.es,,
-pdf_11,TEXT-FULL,body,LOCATION,"Calle del Sol 23, Sevilla 41004, Spain",,
-pdf_11,TEXT-FULL,body,US_SSN,254-73-9910,,
-pdf_12,TEXT-FULL,body,PERSON,Mei Lin,,
-pdf_12,TEXT-FULL,body,PHONE_NUMBER,+86 10 5555 0123,,
-pdf_12,TEXT-FULL,body,EMAIL_ADDRESS,mei.lin@example.com,,
-pdf_12,TEXT-FULL,body,LOCATION,"88 Nanjing Road, Huangpu, Shanghai 200021, China",,
-pdf_12,TEXT-FULL,body,US_SSN,231-55-7420,,
-pdf_13,TEXT-FULL,body,PERSON,Arjun Patel,,
-pdf_13,TEXT-FULL,body,PHONE_NUMBER,+91 22 5555 0112,,
-pdf_13,TEXT-FULL,body,EMAIL_ADDRESS,arjun.patel@example.in,,
-pdf_13,TEXT-FULL,body,LOCATION,"12 MG Road, Bengaluru 560001, India",,
-pdf_13,TEXT-FULL,body,US_SSN,276-14-8835,,
-pdf_14,TEXT-FULL,body,PERSON,Hannah Schmidt,,
-pdf_14,TEXT-FULL,body,PHONE_NUMBER,+49 30 5550 0199,,
-pdf_14,TEXT-FULL,body,EMAIL_ADDRESS,hannah.schmidt@example.de,,
-pdf_14,TEXT-FULL,body,LOCATION,"Unter den Linden 5, 10117 Berlin, Germany",,
-pdf_14,TEXT-FULL,body,US_SSN,205-66-3471,,
-pdf_15,TEXT-FULL,body,PERSON,Khaled Mansour,,
-pdf_15,TEXT-FULL,body,PHONE_NUMBER,+962 79 555 0164,,
-pdf_15,TEXT-FULL,body,EMAIL_ADDRESS,khaled.mansour@example.jo,,
-pdf_15,TEXT-FULL,body,LOCATION,"Mecca Street 90, Amman 11953, Jordan",,
-pdf_15,TEXT-FULL,body,US_SSN,312-48-9025,,
-pdf_16,TEXT-FULL,body,PERSON,Emily Watson,,
-pdf_16,TEXT-FULL,body,PHONE_NUMBER,+44 161 496 0198,,
-pdf_16,TEXT-FULL,body,EMAIL_ADDRESS,emily.watson@example.co.uk,,
-pdf_16,TEXT-FULL,body,LOCATION,"22 King Street, Manchester M2 4LQ, UK",,
-pdf_16,TEXT-FULL,body,US_SSN,188-29-5540,,
-pdf_17,TEXT-FULL,body,PERSON,Carlos Rivera,,
-pdf_17,TEXT-FULL,body,PHONE_NUMBER,+1 (305) 555-0176,,
-pdf_17,TEXT-FULL,body,EMAIL_ADDRESS,carlos.rivera@example.com,,
-pdf_17,TEXT-FULL,body,LOCATION,"500 Ocean Drive, Miami, FL 33139",,
-pdf_17,TEXT-FULL,body,US_SSN,263-51-7788,,
-pdf_18,TEXT-FULL,body,PERSON,Sara Haddad,,
-pdf_18,TEXT-FULL,body,PHONE_NUMBER,0796667788,,
-pdf_18,TEXT-FULL,body,EMAIL_ADDRESS,sara.haddad@example.jo,,
-pdf_18,TEXT-FULL,body,LOCATION,"Rainbow Street 15, Amman 11181, Jordan",,
-pdf_18,TEXT-FULL,body,US_SSN,299-37-6610,,
-pdf_19,TEXT-FULL,body,PERSON,نورا المصري,,
-pdf_19,TEXT-FULL,body,PHONE_NUMBER,0781234567,,
-pdf_19,TEXT-FULL,body,EMAIL_ADDRESS,noura.masri@example.jo,,
-pdf_19,TEXT-FULL,body,LOCATION,شارع مكة، عمّان,,
-pdf_19,TEXT-FULL,body,US_SSN,341-52-8890,,
+docx_00,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Omar Al-Khatib,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,footer:footer1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_00,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+962 79 555 1234,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_00,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,omar.khatib@example.jo,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_00,TEXT-FULL,body,LOCATION,"Building 15, Wasfi Al-Tal Street, Amman 11181, Jordan",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_00,TEXT-FULL,"body,comments",US_SSN,623-19-4580,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_00,META-FULL,comment_authors,author,Omar Al-Khatib,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_00,META-PARTIAL,comment_authors,title,Confidential – Omar Al-Khatib,"remaining tokens: khatib, omar",Metadata partial leak: title present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_00,META-PARTIAL,comment_authors,keywords,"Omar Al-Khatib, omar.khatib@example.jo","remaining tokens: khatib, omar",Metadata partial leak: keywords present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_00,META-PARTIAL,comment_authors,comments,Created for Omar Al-Khatib,"remaining tokens: khatib, omar",Metadata partial leak: comments present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_00,META-FULL,(other field),EMAIL_ADDRESS,omar.khatib@example.jo,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_01,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Siobhan O'Brien-Walsh,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,footer:footer1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_01,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+44 20 7946 0958,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_01,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,siobhan.obrien-walsh@example.co.uk,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_01,TEXT-FULL,body,LOCATION,"14 Mill Lane, Cardiff CF10 3AT, UK",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_01,TEXT-FULL,"body,comments",US_SSN,412-55-7731,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_01,META-FULL,comment_authors,author,Siobhan O'Brien-Walsh,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_01,META-PARTIAL,comment_authors,title,Confidential – Siobhan O'Brien-Walsh,"remaining tokens: brien, siobhan, walsh",Metadata partial leak: title present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_01,META-PARTIAL,comment_authors,keywords,"Siobhan O'Brien-Walsh, siobhan.obrien-walsh@example.co.uk","remaining tokens: brien, siobhan, walsh",Metadata partial leak: keywords present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_01,META-PARTIAL,comment_authors,comments,Created for Siobhan O'Brien-Walsh,"remaining tokens: brien, siobhan, walsh",Metadata partial leak: comments present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_01,META-FULL,(other field),EMAIL_ADDRESS,siobhan.obrien-walsh@example.co.uk,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_02,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Aisha Khan,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,footer:footer1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_02,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+1 (415) 555-0132,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_02,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,aisha.khan+hr@example.org,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_02,TEXT-FULL,body,LOCATION,"42 Elm Street, Apt 5B, Springfield, IL 62704",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_02,TEXT-FULL,"body,comments",US_SSN,538-62-4417,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_02,META-FULL,comment_authors,author,Aisha Khan,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_02,META-PARTIAL,comment_authors,title,Confidential – Aisha Khan,"remaining tokens: aisha, khan",Metadata partial leak: title present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_02,META-PARTIAL,comment_authors,keywords,"Aisha Khan, aisha.khan+hr@example.org","remaining tokens: aisha, khan",Metadata partial leak: keywords present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_02,META-PARTIAL,comment_authors,comments,Created for Aisha Khan,"remaining tokens: aisha, khan",Metadata partial leak: comments present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_02,META-FULL,(other field),EMAIL_ADDRESS,aisha.khan+hr@example.org,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_03,TEXT-FULL,"body,header:header1.xml,comments",PERSON,Michael Chen,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_03,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,555 867 5309,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_03,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,michael_chen@mail.example.com,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_03,TEXT-FULL,body,LOCATION,"700 Harbor Blvd, Unit 12, San Diego, CA 92101",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_03,TEXT-FULL,"body,comments",US_SSN,528-91-4406,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_03,META-FULL,comment_authors,author,Michael Chen,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_03,META-PARTIAL,comment_authors,title,Confidential – Michael Chen,"remaining tokens: chen, michael",Metadata partial leak: title present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_03,META-PARTIAL,comment_authors,keywords,"Michael Chen, michael_chen@mail.example.com","remaining tokens: chen, michael",Metadata partial leak: keywords present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_03,META-PARTIAL,comment_authors,comments,Created for Michael Chen,"remaining tokens: chen, michael",Metadata partial leak: comments present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_04,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Maria Garcia,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,footer:footer1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_04,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,(212) 555-0147,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_04,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,maria.garcia@example.com,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_04,TEXT-FULL,body,LOCATION,"88 Broadway, New York, NY 10006",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_04,TEXT-FULL,"body,comments",US_SSN,301-44-9012,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_04,META-FULL,comment_authors,author,Maria Garcia,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_04,META-PARTIAL,comment_authors,title,Confidential – Maria Garcia,"remaining tokens: garcia, maria",Metadata partial leak: title present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_04,META-PARTIAL,comment_authors,keywords,"Maria Garcia, maria.garcia@example.com","remaining tokens: garcia, maria",Metadata partial leak: keywords present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_04,META-PARTIAL,comment_authors,comments,Created for Maria Garcia,"remaining tokens: garcia, maria",Metadata partial leak: comments present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_04,META-FULL,(other field),EMAIL_ADDRESS,maria.garcia@example.com,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_05,TEXT-FULL,"body,header:header1.xml,comments",PERSON,محمد الخطيب,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_05,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,0795551234,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_05,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,mohammad.khateeb@example.com,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_05,TEXT-FULL,body,LOCATION,شارع الجامعة، عمان,,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_05,TEXT-FULL,"body,comments",US_SSN,317-80-2256,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_05,META-FULL,comment_authors,author,محمد الخطيب,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_05,META-PARTIAL,comment_authors,title,Confidential – محمد الخطيب,"remaining tokens: الخطيب, محمد",Metadata partial leak: title present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_05,META-PARTIAL,comment_authors,keywords,"محمد الخطيب, mohammad.khateeb@example.com","remaining tokens: الخطيب, محمد",Metadata partial leak: keywords present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_05,META-PARTIAL,comment_authors,comments,Created for محمد الخطيب,"remaining tokens: الخطيب, محمد",Metadata partial leak: comments present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_06,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Priya Raman,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,footer:footer1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_06,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,555.201.8890,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_06,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,priya.raman@example.net,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_06,TEXT-FULL,body,LOCATION,"1200 Market St, Philadelphia, PA 19107",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_06,TEXT-FULL,"body,comments",US_SSN,287-31-5540,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_06,META-FULL,comment_authors,author,Priya Raman,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_06,META-PARTIAL,comment_authors,title,Confidential – Priya Raman,"remaining tokens: priya, raman",Metadata partial leak: title present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_06,META-PARTIAL,comment_authors,keywords,"Priya Raman, priya.raman@example.net","remaining tokens: priya, raman",Metadata partial leak: keywords present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_06,META-PARTIAL,comment_authors,comments,Created for Priya Raman,"remaining tokens: priya, raman",Metadata partial leak: comments present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_06,META-FULL,(other field),EMAIL_ADDRESS,priya.raman@example.net,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_07,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Liam Nguyen,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,footer:footer1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_07,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,1-800-555-0199,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_07,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,liam@sub.domain.example.com,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_07,TEXT-FULL,body,LOCATION,"P.O. Box 4471, Austin, TX 78765",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_07,TEXT-FULL,"body,comments",US_SSN,140-22-6073,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_07,META-FULL,comment_authors,author,Liam Nguyen,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_07,META-PARTIAL,comment_authors,title,Confidential – Liam Nguyen,"remaining tokens: liam, nguyen",Metadata partial leak: title present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_07,META-PARTIAL,comment_authors,keywords,"Liam Nguyen, liam@sub.domain.example.com","remaining tokens: liam, nguyen",Metadata partial leak: keywords present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_07,META-PARTIAL,comment_authors,comments,Created for Liam Nguyen,"remaining tokens: liam, nguyen",Metadata partial leak: comments present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_07,META-FULL,(other field),EMAIL_ADDRESS,liam@sub.domain.example.com,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_08,TEXT-FULL,"body,header:header1.xml,comments",PERSON,José Ángel Martínez,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_08,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,555-0123,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_08,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,jose.martinez@example.es,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_08,TEXT-FULL,body,LOCATION,"Calle Mayor 7, Madrid 28013, Spain",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_08,TEXT-FULL,"body,comments",US_SSN,562-19-3345,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_08,META-FULL,comment_authors,author,José Ángel Martínez,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_08,META-PARTIAL,comment_authors,title,Confidential – José Ángel Martínez,"remaining tokens: josé, martínez, ángel",Metadata partial leak: title present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_08,META-PARTIAL,comment_authors,keywords,"José Ángel Martínez, jose.martinez@example.es","remaining tokens: josé, martínez, ángel",Metadata partial leak: keywords present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_08,META-PARTIAL,comment_authors,comments,Created for José Ángel Martínez,"remaining tokens: josé, martínez, ángel",Metadata partial leak: comments present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_09,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Wei Zhang,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,footer:footer1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_09,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+1.555.123.4567,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_09,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,wei.zhang@example.com,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_09,TEXT-FULL,body,LOCATION,"300 Oak Ave Apt 4, Seattle, WA 98101",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_09,TEXT-FULL,"body,comments",US_SSN,077-14-2938,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_09,META-FULL,comment_authors,author,Wei Zhang,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_09,META-PARTIAL,comment_authors,title,Confidential – Wei Zhang,remaining tokens: zhang,Metadata partial leak: title present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_09,META-PARTIAL,comment_authors,keywords,"Wei Zhang, wei.zhang@example.com",remaining tokens: zhang,Metadata partial leak: keywords present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_09,META-PARTIAL,comment_authors,comments,Created for Wei Zhang,remaining tokens: zhang,Metadata partial leak: comments present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_09,META-FULL,(other field),EMAIL_ADDRESS,wei.zhang@example.com,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_10,TEXT-FULL,"body,header:header1.xml,comments",PERSON,فاطمة الزعبي,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_10,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+962 78 555 0146,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_10,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,fatima.zoubi@example.jo,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_10,TEXT-FULL,body,LOCATION,شارع الملكة رانيا، إربد,,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_10,TEXT-FULL,"body,comments",US_SSN,609-23-7788,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_10,META-FULL,comment_authors,author,فاطمة الزعبي,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_10,META-PARTIAL,comment_authors,title,Confidential – فاطمة الزعبي,"remaining tokens: الزعبي, فاطمة",Metadata partial leak: title present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_10,META-PARTIAL,comment_authors,keywords,"فاطمة الزعبي, fatima.zoubi@example.jo","remaining tokens: الزعبي, فاطمة",Metadata partial leak: keywords present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_10,META-PARTIAL,comment_authors,comments,Created for فاطمة الزعبي,"remaining tokens: الزعبي, فاطمة",Metadata partial leak: comments present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_11,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Mateo Hernández,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,footer:footer1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_11,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+34 612 55 01 88,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_11,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,mateo.hernandez@example.es,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_11,TEXT-FULL,body,LOCATION,"Calle del Sol 23, Sevilla 41004, Spain",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_11,TEXT-FULL,"body,comments",US_SSN,254-73-9910,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_11,META-FULL,comment_authors,author,Mateo Hernández,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_11,META-PARTIAL,comment_authors,title,Confidential – Mateo Hernández,"remaining tokens: hernández, mateo",Metadata partial leak: title present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_11,META-PARTIAL,comment_authors,keywords,"Mateo Hernández, mateo.hernandez@example.es","remaining tokens: hernández, mateo",Metadata partial leak: keywords present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_11,META-PARTIAL,comment_authors,comments,Created for Mateo Hernández,"remaining tokens: hernández, mateo",Metadata partial leak: comments present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_11,META-FULL,(other field),EMAIL_ADDRESS,mateo.hernandez@example.es,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_12,TEXT-FULL,"body,header:header1.xml,comments",PERSON,Mei Lin,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_12,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+86 10 5555 0123,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_12,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,mei.lin@example.com,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_12,TEXT-FULL,body,LOCATION,"88 Nanjing Road, Huangpu, Shanghai 200021, China",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_12,TEXT-FULL,"body,comments",US_SSN,231-55-7420,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_12,META-FULL,comment_authors,author,Mei Lin,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_13,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Arjun Patel,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,footer:footer1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_13,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+91 22 5555 0112,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_13,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,arjun.patel@example.in,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_13,TEXT-FULL,body,LOCATION,"12 MG Road, Bengaluru 560001, India",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_13,TEXT-FULL,"body,comments",US_SSN,276-14-8835,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_13,META-FULL,comment_authors,author,Arjun Patel,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_13,META-PARTIAL,comment_authors,title,Confidential – Arjun Patel,"remaining tokens: arjun, patel",Metadata partial leak: title present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_13,META-PARTIAL,comment_authors,keywords,"Arjun Patel, arjun.patel@example.in","remaining tokens: arjun, patel",Metadata partial leak: keywords present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_13,META-PARTIAL,comment_authors,comments,Created for Arjun Patel,"remaining tokens: arjun, patel",Metadata partial leak: comments present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_13,META-FULL,(other field),EMAIL_ADDRESS,arjun.patel@example.in,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_14,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Hannah Schmidt,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,footer:footer1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_14,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+49 30 5550 0199,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_14,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,hannah.schmidt@example.de,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_14,TEXT-FULL,body,LOCATION,"Unter den Linden 5, 10117 Berlin, Germany",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_14,TEXT-FULL,"body,comments",US_SSN,205-66-3471,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_14,META-FULL,comment_authors,author,Hannah Schmidt,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_14,META-PARTIAL,comment_authors,title,Confidential – Hannah Schmidt,"remaining tokens: hannah, schmidt",Metadata partial leak: title present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_14,META-PARTIAL,comment_authors,keywords,"Hannah Schmidt, hannah.schmidt@example.de","remaining tokens: hannah, schmidt",Metadata partial leak: keywords present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_14,META-PARTIAL,comment_authors,comments,Created for Hannah Schmidt,"remaining tokens: hannah, schmidt",Metadata partial leak: comments present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_14,META-FULL,(other field),EMAIL_ADDRESS,hannah.schmidt@example.de,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_15,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Khaled Mansour,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,footer:footer1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_15,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+962 79 555 0164,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_15,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,khaled.mansour@example.jo,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_15,TEXT-FULL,body,LOCATION,"Mecca Street 90, Amman 11953, Jordan",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_15,TEXT-FULL,"body,comments",US_SSN,312-48-9025,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_15,META-FULL,comment_authors,author,Khaled Mansour,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_15,META-PARTIAL,comment_authors,title,Confidential – Khaled Mansour,"remaining tokens: khaled, mansour",Metadata partial leak: title present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_15,META-PARTIAL,comment_authors,keywords,"Khaled Mansour, khaled.mansour@example.jo","remaining tokens: khaled, mansour",Metadata partial leak: keywords present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_15,META-PARTIAL,comment_authors,comments,Created for Khaled Mansour,"remaining tokens: khaled, mansour",Metadata partial leak: comments present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_15,META-FULL,(other field),EMAIL_ADDRESS,khaled.mansour@example.jo,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_16,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Emily Watson,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,footer:footer1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_16,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+44 161 496 0198,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_16,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,emily.watson@example.co.uk,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_16,TEXT-FULL,body,LOCATION,"22 King Street, Manchester M2 4LQ, UK",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_16,TEXT-FULL,"body,comments",US_SSN,188-29-5540,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_16,META-FULL,comment_authors,author,Emily Watson,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_16,META-PARTIAL,comment_authors,title,Confidential – Emily Watson,"remaining tokens: emily, watson",Metadata partial leak: title present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_16,META-PARTIAL,comment_authors,keywords,"Emily Watson, emily.watson@example.co.uk","remaining tokens: emily, watson",Metadata partial leak: keywords present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_16,META-PARTIAL,comment_authors,comments,Created for Emily Watson,"remaining tokens: emily, watson",Metadata partial leak: comments present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_16,META-FULL,(other field),EMAIL_ADDRESS,emily.watson@example.co.uk,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_17,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Carlos Rivera,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,footer:footer1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_17,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+1 (305) 555-0176,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_17,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,carlos.rivera@example.com,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_17,TEXT-FULL,body,LOCATION,"500 Ocean Drive, Miami, FL 33139",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_17,TEXT-FULL,"body,comments",US_SSN,263-51-7788,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_17,META-FULL,comment_authors,author,Carlos Rivera,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_17,META-PARTIAL,comment_authors,title,Confidential – Carlos Rivera,"remaining tokens: carlos, rivera",Metadata partial leak: title present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_17,META-PARTIAL,comment_authors,keywords,"Carlos Rivera, carlos.rivera@example.com","remaining tokens: carlos, rivera",Metadata partial leak: keywords present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_17,META-PARTIAL,comment_authors,comments,Created for Carlos Rivera,"remaining tokens: carlos, rivera",Metadata partial leak: comments present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_17,META-FULL,(other field),EMAIL_ADDRESS,carlos.rivera@example.com,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_18,TEXT-FULL,"body,header:header1.xml,footer:footer1.xml,comments",PERSON,Sara Haddad,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,footer:footer1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_18,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,0796667788,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_18,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,sara.haddad@example.jo,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_18,TEXT-FULL,body,LOCATION,"Rainbow Street 15, Amman 11181, Jordan",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_18,TEXT-FULL,"body,comments",US_SSN,299-37-6610,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_18,META-FULL,comment_authors,author,Sara Haddad,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_18,META-PARTIAL,comment_authors,title,Confidential – Sara Haddad,"remaining tokens: haddad, sara",Metadata partial leak: title present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_18,META-PARTIAL,comment_authors,keywords,"Sara Haddad, sara.haddad@example.jo","remaining tokens: haddad, sara",Metadata partial leak: keywords present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_18,META-PARTIAL,comment_authors,comments,Created for Sara Haddad,"remaining tokens: haddad, sara",Metadata partial leak: comments present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_18,META-FULL,(other field),EMAIL_ADDRESS,sara.haddad@example.jo,,Metadata full leak: EMAIL_ADDRESS present in field(s) (other field). Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_19,TEXT-FULL,"body,header:header1.xml,comments",PERSON,نورا المصري,,"Metadata-only baseline (no body redaction): PERSON text value present in body,header:header1.xml,comments. Expected text leak; this approach strips metadata only."
+docx_19,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,0781234567,,"Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body,hidden_text. Expected text leak; this approach strips metadata only."
+docx_19,TEXT-FULL,"body,footer:footer1.xml",EMAIL_ADDRESS,noura.masri@example.jo,,"Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body,footer:footer1.xml. Expected text leak; this approach strips metadata only."
+docx_19,TEXT-FULL,body,LOCATION,شارع مكة، عمّان,,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+docx_19,TEXT-FULL,"body,comments",US_SSN,341-52-8890,,"Metadata-only baseline (no body redaction): US_SSN text value present in body,comments. Expected text leak; this approach strips metadata only."
+docx_19,META-FULL,comment_authors,author,نورا المصري,,Metadata full leak: author present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_19,META-PARTIAL,comment_authors,title,Confidential – نورا المصري,"remaining tokens: المصري, نورا",Metadata partial leak: title present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_19,META-PARTIAL,comment_authors,keywords,"نورا المصري, noura.masri@example.jo","remaining tokens: المصري, نورا",Metadata partial leak: keywords present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+docx_19,META-PARTIAL,comment_authors,comments,Created for نورا المصري,"remaining tokens: المصري, نورا",Metadata partial leak: comments present in field(s) comment_authors. Metadata-only baseline leaves this field populated. Direct identifier in document metadata. Severity: High. Fix: clear this metadata field (core props / PDF Info / comment author).
+pdf_00,TEXT-FULL,body,PERSON,Omar Al-Khatib,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_00,TEXT-FULL,body,PHONE_NUMBER,+962 79 555 1234,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_00,TEXT-FULL,body,EMAIL_ADDRESS,omar.khatib@example.jo,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_00,TEXT-FULL,body,LOCATION,"Building 15, Wasfi Al-Tal Street, Amman 11181, Jordan",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_00,TEXT-FULL,body,US_SSN,623-19-4580,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.
+pdf_01,TEXT-FULL,body,PERSON,Siobhan O'Brien-Walsh,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_01,TEXT-FULL,body,PHONE_NUMBER,+44 20 7946 0958,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_01,TEXT-FULL,body,EMAIL_ADDRESS,siobhan.obrien-walsh@example.co.uk,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_01,TEXT-FULL,body,LOCATION,"14 Mill Lane, Cardiff CF10 3AT, UK",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_01,TEXT-FULL,body,US_SSN,412-55-7731,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.
+pdf_02,TEXT-FULL,body,PERSON,Aisha Khan,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_02,TEXT-FULL,body,PHONE_NUMBER,+1 (415) 555-0132,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_02,TEXT-FULL,body,EMAIL_ADDRESS,aisha.khan+hr@example.org,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_02,TEXT-FULL,body,LOCATION,"42 Elm Street, Apt 5B, Springfield, IL 62704",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_02,TEXT-FULL,body,US_SSN,538-62-4417,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.
+pdf_03,TEXT-FULL,body,PERSON,Michael Chen,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_03,TEXT-FULL,body,PHONE_NUMBER,555 867 5309,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_03,TEXT-FULL,body,EMAIL_ADDRESS,michael_chen@mail.example.com,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_03,TEXT-FULL,body,LOCATION,"700 Harbor Blvd, Unit 12, San Diego, CA 92101",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_03,TEXT-FULL,body,US_SSN,528-91-4406,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.
+pdf_04,TEXT-FULL,body,PERSON,Maria Garcia,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_04,TEXT-FULL,body,PHONE_NUMBER,(212) 555-0147,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_04,TEXT-FULL,body,EMAIL_ADDRESS,maria.garcia@example.com,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_04,TEXT-FULL,body,LOCATION,"88 Broadway, New York, NY 10006",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_04,TEXT-FULL,body,US_SSN,301-44-9012,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.
+pdf_05,TEXT-FULL,body,PERSON,محمد الخطيب,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_05,TEXT-FULL,body,PHONE_NUMBER,0795551234,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_05,TEXT-FULL,body,EMAIL_ADDRESS,mohammad.khateeb@example.com,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_05,TEXT-FULL,body,LOCATION,شارع الجامعة، عمان,,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_05,TEXT-FULL,body,US_SSN,317-80-2256,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.
+pdf_06,TEXT-FULL,body,PERSON,Priya Raman,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_06,TEXT-FULL,body,PHONE_NUMBER,555.201.8890,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_06,TEXT-FULL,body,EMAIL_ADDRESS,priya.raman@example.net,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_06,TEXT-FULL,body,LOCATION,"1200 Market St, Philadelphia, PA 19107",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_06,TEXT-FULL,body,US_SSN,287-31-5540,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.
+pdf_07,TEXT-FULL,body,PERSON,Liam Nguyen,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_07,TEXT-FULL,body,PHONE_NUMBER,1-800-555-0199,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_07,TEXT-FULL,body,EMAIL_ADDRESS,liam@sub.domain.example.com,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_07,TEXT-FULL,body,LOCATION,"P.O. Box 4471, Austin, TX 78765",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_07,TEXT-FULL,body,US_SSN,140-22-6073,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.
+pdf_08,TEXT-FULL,body,PERSON,José Ángel Martínez,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_08,TEXT-FULL,body,PHONE_NUMBER,555-0123,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_08,TEXT-FULL,body,EMAIL_ADDRESS,jose.martinez@example.es,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_08,TEXT-FULL,body,LOCATION,"Calle Mayor 7, Madrid 28013, Spain",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_08,TEXT-FULL,body,US_SSN,562-19-3345,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.
+pdf_09,TEXT-FULL,body,PERSON,Wei Zhang,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_09,TEXT-FULL,body,PHONE_NUMBER,+1.555.123.4567,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_09,TEXT-FULL,body,EMAIL_ADDRESS,wei.zhang@example.com,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_09,TEXT-FULL,body,LOCATION,"300 Oak Ave Apt 4, Seattle, WA 98101",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_09,TEXT-FULL,body,US_SSN,077-14-2938,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.
+pdf_10,TEXT-FULL,body,PERSON,فاطمة الزعبي,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_10,TEXT-FULL,body,PHONE_NUMBER,+962 78 555 0146,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_10,TEXT-FULL,body,EMAIL_ADDRESS,fatima.zoubi@example.jo,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_10,TEXT-FULL,body,LOCATION,شارع الملكة رانيا، إربد,,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_10,TEXT-FULL,body,US_SSN,609-23-7788,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.
+pdf_11,TEXT-FULL,body,PERSON,Mateo Hernández,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_11,TEXT-FULL,body,PHONE_NUMBER,+34 612 55 01 88,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_11,TEXT-FULL,body,EMAIL_ADDRESS,mateo.hernandez@example.es,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_11,TEXT-FULL,body,LOCATION,"Calle del Sol 23, Sevilla 41004, Spain",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_11,TEXT-FULL,body,US_SSN,254-73-9910,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.
+pdf_12,TEXT-FULL,body,PERSON,Mei Lin,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_12,TEXT-FULL,body,PHONE_NUMBER,+86 10 5555 0123,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_12,TEXT-FULL,body,EMAIL_ADDRESS,mei.lin@example.com,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_12,TEXT-FULL,body,LOCATION,"88 Nanjing Road, Huangpu, Shanghai 200021, China",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_12,TEXT-FULL,body,US_SSN,231-55-7420,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.
+pdf_13,TEXT-FULL,body,PERSON,Arjun Patel,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_13,TEXT-FULL,body,PHONE_NUMBER,+91 22 5555 0112,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_13,TEXT-FULL,body,EMAIL_ADDRESS,arjun.patel@example.in,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_13,TEXT-FULL,body,LOCATION,"12 MG Road, Bengaluru 560001, India",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_13,TEXT-FULL,body,US_SSN,276-14-8835,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.
+pdf_14,TEXT-FULL,body,PERSON,Hannah Schmidt,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_14,TEXT-FULL,body,PHONE_NUMBER,+49 30 5550 0199,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_14,TEXT-FULL,body,EMAIL_ADDRESS,hannah.schmidt@example.de,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_14,TEXT-FULL,body,LOCATION,"Unter den Linden 5, 10117 Berlin, Germany",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_14,TEXT-FULL,body,US_SSN,205-66-3471,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.
+pdf_15,TEXT-FULL,body,PERSON,Khaled Mansour,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_15,TEXT-FULL,body,PHONE_NUMBER,+962 79 555 0164,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_15,TEXT-FULL,body,EMAIL_ADDRESS,khaled.mansour@example.jo,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_15,TEXT-FULL,body,LOCATION,"Mecca Street 90, Amman 11953, Jordan",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_15,TEXT-FULL,body,US_SSN,312-48-9025,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.
+pdf_16,TEXT-FULL,body,PERSON,Emily Watson,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_16,TEXT-FULL,body,PHONE_NUMBER,+44 161 496 0198,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_16,TEXT-FULL,body,EMAIL_ADDRESS,emily.watson@example.co.uk,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_16,TEXT-FULL,body,LOCATION,"22 King Street, Manchester M2 4LQ, UK",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_16,TEXT-FULL,body,US_SSN,188-29-5540,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.
+pdf_17,TEXT-FULL,body,PERSON,Carlos Rivera,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_17,TEXT-FULL,body,PHONE_NUMBER,+1 (305) 555-0176,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_17,TEXT-FULL,body,EMAIL_ADDRESS,carlos.rivera@example.com,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_17,TEXT-FULL,body,LOCATION,"500 Ocean Drive, Miami, FL 33139",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_17,TEXT-FULL,body,US_SSN,263-51-7788,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.
+pdf_18,TEXT-FULL,body,PERSON,Sara Haddad,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_18,TEXT-FULL,body,PHONE_NUMBER,0796667788,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_18,TEXT-FULL,body,EMAIL_ADDRESS,sara.haddad@example.jo,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_18,TEXT-FULL,body,LOCATION,"Rainbow Street 15, Amman 11181, Jordan",,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_18,TEXT-FULL,body,US_SSN,299-37-6610,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.
+pdf_19,TEXT-FULL,body,PERSON,نورا المصري,,Metadata-only baseline (no body redaction): PERSON text value present in body. Expected text leak; this approach strips metadata only.
+pdf_19,TEXT-FULL,body,PHONE_NUMBER,0781234567,,Metadata-only baseline (no body redaction): PHONE_NUMBER text value present in body. Expected text leak; this approach strips metadata only.
+pdf_19,TEXT-FULL,body,EMAIL_ADDRESS,noura.masri@example.jo,,Metadata-only baseline (no body redaction): EMAIL_ADDRESS text value present in body. Expected text leak; this approach strips metadata only.
+pdf_19,TEXT-FULL,body,LOCATION,شارع مكة، عمّان,,Metadata-only baseline (no body redaction): LOCATION text value present in body. Expected text leak; this approach strips metadata only.
+pdf_19,TEXT-FULL,body,US_SSN,341-52-8890,,Metadata-only baseline (no body redaction): US_SSN text value present in body. Expected text leak; this approach strips metadata only.

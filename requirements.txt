@@ -25,3 +25,11 @@ python-bidi==0.6.12
 
 # NLP model (install with the spacy command above, pinned for reproducibility):
 #   en_core_web_lg==3.8.0
+
+# Testing (tests/test_redaction.py). pytest drives the real v4 pipeline on synthetic fixtures.
+pytest==9.2.0
+
+# NOTE: Faker is NOT a dependency. The synthetic data in generate_real_docs.py /
+# generate_fresh_docs.py is fixed and deterministic (no `import faker` anywhere in the repo);
+# "Faker" appears only in a source comment. It is intentionally omitted so the environment
+# stays reproducible and minimal.
