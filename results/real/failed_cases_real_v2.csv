@@ -1,88 +1,88 @@
 doc,kind,location,entity_or_field,value,auto_note,manual_review_note
-docx_00,TEXT-PARTIAL,body,LOCATION,"Building 15, Wasfi Al-Tal Street, Amman 11181, Jordan","remaining tokens: 11181, building",
-docx_00,FALSE-REDACTION,body,decoy,hr@company.com,,
-docx_01,TEXT-PARTIAL,body,LOCATION,"14 Mill Lane, Cardiff CF10 3AT, UK",remaining tokens: cf10,
-docx_01,FALSE-REDACTION,body,decoy,hr@company.com,,
-docx_02,TEXT-FULL,"body,comments",PERSON,Aisha Khan,,
-docx_02,TEXT-PARTIAL,body,LOCATION,"42 Elm Street, Apt 5B, Springfield, IL 62704",remaining tokens: 62704,
-docx_02,FALSE-REDACTION,body,decoy,hr@company.com,,
-docx_03,TEXT-PARTIAL,body,LOCATION,"700 Harbor Blvd, Unit 12, San Diego, CA 92101",remaining tokens: 92101,
-docx_03,FALSE-REDACTION,body,decoy,hr@company.com,,
-docx_04,TEXT-PARTIAL,body,LOCATION,"88 Broadway, New York, NY 10006",remaining tokens: 10006,
-docx_04,FALSE-REDACTION,body,decoy,hr@company.com,,
-docx_05,TEXT-FULL,"body,header:header1.xml,comments",PERSON,محمد الخطيب,,
-docx_05,TEXT-PARTIAL,body,LOCATION,شارع الجامعة، عمان,"remaining tokens: الجامعة, شارع",
-docx_05,FALSE-REDACTION,body,decoy,hr@company.com,,
-docx_06,TEXT-FULL,"header:header1.xml,comments",PERSON,Priya Raman,,
-docx_06,TEXT-PARTIAL,body,LOCATION,"1200 Market St, Philadelphia, PA 19107","remaining tokens: 1200, 19107",
-docx_06,FALSE-REDACTION,body,decoy,hr@company.com,,
-docx_07,TEXT-PARTIAL,body,LOCATION,"P.O. Box 4471, Austin, TX 78765",remaining tokens: 78765,
-docx_07,FALSE-REDACTION,body,decoy,hr@company.com,,
-docx_08,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,555-0123,,
-docx_08,TEXT-PARTIAL,body,LOCATION,"Calle Mayor 7, Madrid 28013, Spain",remaining tokens: 28013,
-docx_08,FALSE-REDACTION,body,decoy,hr@company.com,,
-docx_09,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+1.555.123.4567,,
-docx_09,TEXT-PARTIAL,body,LOCATION,"300 Oak Ave Apt 4, Seattle, WA 98101",remaining tokens: 98101,
-docx_09,FALSE-REDACTION,body,decoy,hr@company.com,,
-docx_10,TEXT-FULL,"header:header1.xml,comments",PERSON,فاطمة الزعبي,,
-docx_10,TEXT-PARTIAL,body,LOCATION,شارع الملكة رانيا، إربد,"remaining tokens: الملكة, رانيا, شارع",
-docx_10,FALSE-REDACTION,body,decoy,hr@company.com,,
-docx_11,TEXT-FULL,header:header1.xml,PERSON,Mateo Hernández,,
-docx_11,TEXT-PARTIAL,body,LOCATION,"Calle del Sol 23, Sevilla 41004, Spain","remaining tokens: 41004, sevilla",
-docx_11,FALSE-REDACTION,body,decoy,hr@company.com,,
-docx_12,TEXT-PARTIAL,body,LOCATION,"88 Nanjing Road, Huangpu, Shanghai 200021, China","remaining tokens: 200021, nanjing",
-docx_12,FALSE-REDACTION,body,decoy,hr@company.com,,
-docx_13,TEXT-PARTIAL,body,LOCATION,"12 MG Road, Bengaluru 560001, India","remaining tokens: 560001, bengaluru",
-docx_13,FALSE-REDACTION,body,decoy,hr@company.com,,
-docx_14,TEXT-PARTIAL,body,LOCATION,"Unter den Linden 5, 10117 Berlin, Germany","remaining tokens: linden, unter",
-docx_14,FALSE-REDACTION,body,decoy,hr@company.com,,
-docx_15,TEXT-PARTIAL,body,LOCATION,"Mecca Street 90, Amman 11953, Jordan","remaining tokens: 11953, mecca",
-docx_15,FALSE-REDACTION,body,decoy,hr@company.com,,
-docx_16,TEXT-PARTIAL,body,LOCATION,"22 King Street, Manchester M2 4LQ, UK","remaining tokens: king, manchester",
-docx_16,FALSE-REDACTION,body,decoy,hr@company.com,,
-docx_17,TEXT-PARTIAL,body,LOCATION,"500 Ocean Drive, Miami, FL 33139","remaining tokens: 33139, drive, ocean",
-docx_17,FALSE-REDACTION,body,decoy,hr@company.com,,
-docx_18,TEXT-PARTIAL,body,LOCATION,"Rainbow Street 15, Amman 11181, Jordan","remaining tokens: 11181, rainbow",
-docx_18,FALSE-REDACTION,body,decoy,hr@company.com,,
-docx_19,TEXT-FULL,"body,header:header1.xml,comments",PERSON,نورا المصري,,
-docx_19,TEXT-FULL,body,LOCATION,شارع مكة، عمّان,,
-docx_19,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_00,TEXT-PARTIAL,body,LOCATION,"Building 15, Wasfi Al-Tal Street, Amman 11181, Jordan","remaining tokens: 11181, building",
-pdf_00,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_01,TEXT-PARTIAL,body,LOCATION,"14 Mill Lane, Cardiff CF10 3AT, UK",remaining tokens: cf10,
-pdf_01,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_02,TEXT-PARTIAL,body,LOCATION,"42 Elm Street, Apt 5B, Springfield, IL 62704",remaining tokens: 62704,
-pdf_02,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_03,TEXT-PARTIAL,body,LOCATION,"700 Harbor Blvd, Unit 12, San Diego, CA 92101",remaining tokens: 92101,
-pdf_03,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_04,TEXT-PARTIAL,body,LOCATION,"88 Broadway, New York, NY 10006",remaining tokens: 10006,
-pdf_04,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_05,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_06,TEXT-PARTIAL,body,LOCATION,"1200 Market St, Philadelphia, PA 19107","remaining tokens: 1200, 19107",
-pdf_06,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_07,TEXT-PARTIAL,body,LOCATION,"P.O. Box 4471, Austin, TX 78765",remaining tokens: 78765,
-pdf_07,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_08,TEXT-FULL,body,PHONE_NUMBER,555-0123,,
-pdf_08,TEXT-PARTIAL,body,LOCATION,"Calle Mayor 7, Madrid 28013, Spain",remaining tokens: 28013,
-pdf_08,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_09,TEXT-FULL,body,PHONE_NUMBER,+1.555.123.4567,,
-pdf_09,TEXT-PARTIAL,body,LOCATION,"300 Oak Ave Apt 4, Seattle, WA 98101",remaining tokens: 98101,
-pdf_09,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_10,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_11,TEXT-PARTIAL,body,LOCATION,"Calle del Sol 23, Sevilla 41004, Spain","remaining tokens: 41004, sevilla",
-pdf_11,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_12,TEXT-PARTIAL,body,LOCATION,"88 Nanjing Road, Huangpu, Shanghai 200021, China","remaining tokens: 200021, nanjing",
-pdf_12,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_13,TEXT-PARTIAL,body,LOCATION,"12 MG Road, Bengaluru 560001, India","remaining tokens: 560001, bengaluru",
-pdf_13,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_14,TEXT-PARTIAL,body,LOCATION,"Unter den Linden 5, 10117 Berlin, Germany","remaining tokens: linden, unter",
-pdf_14,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_15,TEXT-PARTIAL,body,LOCATION,"Mecca Street 90, Amman 11953, Jordan","remaining tokens: 11953, mecca",
-pdf_15,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_16,TEXT-PARTIAL,body,LOCATION,"22 King Street, Manchester M2 4LQ, UK","remaining tokens: king, manchester",
-pdf_16,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_17,TEXT-PARTIAL,body,LOCATION,"500 Ocean Drive, Miami, FL 33139","remaining tokens: 33139, drive, ocean",
-pdf_17,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_18,TEXT-PARTIAL,body,LOCATION,"Rainbow Street 15, Amman 11181, Jordan","remaining tokens: 11181, rainbow",
-pdf_18,FALSE-REDACTION,body,decoy,hr@company.com,,
-pdf_19,FALSE-REDACTION,body,decoy,hr@company.com,,
+docx_00,TEXT-PARTIAL,body,LOCATION,"Building 15, Wasfi Al-Tal Street, Amman 11181, Jordan","remaining tokens: 11181, building","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 11181, building. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+docx_00,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+docx_01,TEXT-PARTIAL,body,LOCATION,"14 Mill Lane, Cardiff CF10 3AT, UK",remaining tokens: cf10,Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): cf10. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule.
+docx_01,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+docx_02,TEXT-FULL,"body,comments",PERSON,Aisha Khan,,"Residual FULL text leak: PERSON value survived in body,comments. Direct identifier not removed by v2. Severity: High. Action: extend detector coverage / remove in manual review before release."
+docx_02,TEXT-PARTIAL,body,LOCATION,"42 Elm Street, Apt 5B, Springfield, IL 62704",remaining tokens: 62704,Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 62704. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule.
+docx_02,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+docx_03,TEXT-PARTIAL,body,LOCATION,"700 Harbor Blvd, Unit 12, San Diego, CA 92101",remaining tokens: 92101,Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 92101. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule.
+docx_03,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+docx_04,TEXT-PARTIAL,body,LOCATION,"88 Broadway, New York, NY 10006",remaining tokens: 10006,Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 10006. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule.
+docx_04,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+docx_05,TEXT-FULL,"body,header:header1.xml,comments",PERSON,محمد الخطيب,,"Residual FULL text leak: PERSON value survived in body,header:header1.xml,comments. Direct identifier not removed by v2. Severity: High. Action: extend detector coverage / remove in manual review before release."
+docx_05,TEXT-PARTIAL,body,LOCATION,شارع الجامعة، عمان,"remaining tokens: الجامعة, شارع","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): الجامعة, شارع. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+docx_05,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+docx_06,TEXT-FULL,"header:header1.xml,comments",PERSON,Priya Raman,,"Residual FULL text leak: PERSON value survived in header:header1.xml,comments. Direct identifier not removed by v2. Severity: High. Action: extend detector coverage / remove in manual review before release."
+docx_06,TEXT-PARTIAL,body,LOCATION,"1200 Market St, Philadelphia, PA 19107","remaining tokens: 1200, 19107","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 1200, 19107. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+docx_06,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+docx_07,TEXT-PARTIAL,body,LOCATION,"P.O. Box 4471, Austin, TX 78765",remaining tokens: 78765,Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 78765. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule.
+docx_07,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+docx_08,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,555-0123,,"Residual FULL text leak: PHONE_NUMBER value survived in body,hidden_text. Direct identifier not removed by v2. Severity: High. Action: extend detector coverage / remove in manual review before release."
+docx_08,TEXT-PARTIAL,body,LOCATION,"Calle Mayor 7, Madrid 28013, Spain",remaining tokens: 28013,Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 28013. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule.
+docx_08,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+docx_09,TEXT-FULL,"body,hidden_text",PHONE_NUMBER,+1.555.123.4567,,"Residual FULL text leak: PHONE_NUMBER value survived in body,hidden_text. Direct identifier not removed by v2. Severity: High. Action: extend detector coverage / remove in manual review before release."
+docx_09,TEXT-PARTIAL,body,LOCATION,"300 Oak Ave Apt 4, Seattle, WA 98101",remaining tokens: 98101,Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 98101. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule.
+docx_09,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+docx_10,TEXT-FULL,"header:header1.xml,comments",PERSON,فاطمة الزعبي,,"Residual FULL text leak: PERSON value survived in header:header1.xml,comments. Direct identifier not removed by v2. Severity: High. Action: extend detector coverage / remove in manual review before release."
+docx_10,TEXT-PARTIAL,body,LOCATION,شارع الملكة رانيا، إربد,"remaining tokens: الملكة, رانيا, شارع","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): الملكة, رانيا, شارع. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+docx_10,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+docx_11,TEXT-FULL,header:header1.xml,PERSON,Mateo Hernández,,Residual FULL text leak: PERSON value survived in header:header1.xml. Direct identifier not removed by v2. Severity: High. Action: extend detector coverage / remove in manual review before release.
+docx_11,TEXT-PARTIAL,body,LOCATION,"Calle del Sol 23, Sevilla 41004, Spain","remaining tokens: 41004, sevilla","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 41004, sevilla. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+docx_11,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+docx_12,TEXT-PARTIAL,body,LOCATION,"88 Nanjing Road, Huangpu, Shanghai 200021, China","remaining tokens: 200021, nanjing","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 200021, nanjing. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+docx_12,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+docx_13,TEXT-PARTIAL,body,LOCATION,"12 MG Road, Bengaluru 560001, India","remaining tokens: 560001, bengaluru","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 560001, bengaluru. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+docx_13,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+docx_14,TEXT-PARTIAL,body,LOCATION,"Unter den Linden 5, 10117 Berlin, Germany","remaining tokens: linden, unter","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): linden, unter. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+docx_14,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+docx_15,TEXT-PARTIAL,body,LOCATION,"Mecca Street 90, Amman 11953, Jordan","remaining tokens: 11953, mecca","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 11953, mecca. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+docx_15,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+docx_16,TEXT-PARTIAL,body,LOCATION,"22 King Street, Manchester M2 4LQ, UK","remaining tokens: king, manchester","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): king, manchester. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+docx_16,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+docx_17,TEXT-PARTIAL,body,LOCATION,"500 Ocean Drive, Miami, FL 33139","remaining tokens: 33139, drive, ocean","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 33139, drive, ocean. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+docx_17,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+docx_18,TEXT-PARTIAL,body,LOCATION,"Rainbow Street 15, Amman 11181, Jordan","remaining tokens: 11181, rainbow","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 11181, rainbow. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+docx_18,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+docx_19,TEXT-FULL,"body,header:header1.xml,comments",PERSON,نورا المصري,,"Residual FULL text leak: PERSON value survived in body,header:header1.xml,comments. Direct identifier not removed by v2. Severity: High. Action: extend detector coverage / remove in manual review before release."
+docx_19,TEXT-FULL,body,LOCATION,شارع مكة، عمّان,,Residual FULL text leak: LOCATION value survived in body. Direct identifier not removed by v2. Severity: High. Action: extend detector coverage / remove in manual review before release.
+docx_19,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_00,TEXT-PARTIAL,body,LOCATION,"Building 15, Wasfi Al-Tal Street, Amman 11181, Jordan","remaining tokens: 11181, building","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 11181, building. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+pdf_00,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_01,TEXT-PARTIAL,body,LOCATION,"14 Mill Lane, Cardiff CF10 3AT, UK",remaining tokens: cf10,Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): cf10. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule.
+pdf_01,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_02,TEXT-PARTIAL,body,LOCATION,"42 Elm Street, Apt 5B, Springfield, IL 62704",remaining tokens: 62704,Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 62704. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule.
+pdf_02,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_03,TEXT-PARTIAL,body,LOCATION,"700 Harbor Blvd, Unit 12, San Diego, CA 92101",remaining tokens: 92101,Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 92101. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule.
+pdf_03,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_04,TEXT-PARTIAL,body,LOCATION,"88 Broadway, New York, NY 10006",remaining tokens: 10006,Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 10006. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule.
+pdf_04,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_05,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_06,TEXT-PARTIAL,body,LOCATION,"1200 Market St, Philadelphia, PA 19107","remaining tokens: 1200, 19107","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 1200, 19107. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+pdf_06,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_07,TEXT-PARTIAL,body,LOCATION,"P.O. Box 4471, Austin, TX 78765",remaining tokens: 78765,Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 78765. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule.
+pdf_07,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_08,TEXT-FULL,body,PHONE_NUMBER,555-0123,,Residual FULL text leak: PHONE_NUMBER value survived in body. Direct identifier not removed by v2. Severity: High. Action: extend detector coverage / remove in manual review before release.
+pdf_08,TEXT-PARTIAL,body,LOCATION,"Calle Mayor 7, Madrid 28013, Spain",remaining tokens: 28013,Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 28013. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule.
+pdf_08,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_09,TEXT-FULL,body,PHONE_NUMBER,+1.555.123.4567,,Residual FULL text leak: PHONE_NUMBER value survived in body. Direct identifier not removed by v2. Severity: High. Action: extend detector coverage / remove in manual review before release.
+pdf_09,TEXT-PARTIAL,body,LOCATION,"300 Oak Ave Apt 4, Seattle, WA 98101",remaining tokens: 98101,Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 98101. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule.
+pdf_09,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_10,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_11,TEXT-PARTIAL,body,LOCATION,"Calle del Sol 23, Sevilla 41004, Spain","remaining tokens: 41004, sevilla","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 41004, sevilla. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+pdf_11,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_12,TEXT-PARTIAL,body,LOCATION,"88 Nanjing Road, Huangpu, Shanghai 200021, China","remaining tokens: 200021, nanjing","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 200021, nanjing. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+pdf_12,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_13,TEXT-PARTIAL,body,LOCATION,"12 MG Road, Bengaluru 560001, India","remaining tokens: 560001, bengaluru","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 560001, bengaluru. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+pdf_13,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_14,TEXT-PARTIAL,body,LOCATION,"Unter den Linden 5, 10117 Berlin, Germany","remaining tokens: linden, unter","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): linden, unter. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+pdf_14,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_15,TEXT-PARTIAL,body,LOCATION,"Mecca Street 90, Amman 11953, Jordan","remaining tokens: 11953, mecca","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 11953, mecca. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+pdf_15,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_16,TEXT-PARTIAL,body,LOCATION,"22 King Street, Manchester M2 4LQ, UK","remaining tokens: king, manchester","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): king, manchester. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+pdf_16,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_17,TEXT-PARTIAL,body,LOCATION,"500 Ocean Drive, Miami, FL 33139","remaining tokens: 33139, drive, ocean","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 33139, drive, ocean. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+pdf_17,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_18,TEXT-PARTIAL,body,LOCATION,"Rainbow Street 15, Amman 11181, Jordan","remaining tokens: 11181, rainbow","Residual PARTIAL leak: LOCATION quasi-identifier fragment in body. Surviving fragment(s): 11181, rainbow. Low identifiability alone but linkable (re-identification). Severity: Low. Fix: generalize/suppress postcode; add locale address rule."
+pdf_18,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
+pdf_19,FALSE-REDACTION,body,decoy,hr@company.com,,False redaction: non-personal decoy was removed (over-redaction). Severity: Medium (utility/precision loss). Fix: allow-list the non-personal value.
