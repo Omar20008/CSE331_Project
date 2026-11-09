@@ -47,24 +47,34 @@ CSE331_Project/
 ├─ README.md                     ← this file
 ├─ CHANGELOG.md                  ← what changed vs. the original prototype
 ├─ requirements.txt              ← pinned dependencies + spaCy model + Arabic shaping libs
-├─ pipelines.py                  ← the detectors: make_detector("v1".."v4")
+├─ .gitignore                    ← ignores regenerated outputs (see "Reproduce everything")
+│
+│   ── source: detectors + pipeline ─────────────────────────────────
+├─ pipelines.py                  ← the detectors: make_detector("v1".."v4") + allow-list
 ├─ generate_real_docs.py         ← builds 20 synthetic people → 40 DOCX/PDF + ground_truth_real.json
-├─ redact_real_docs.py           ← detect → anonymize → scrub metadata  (per version)
+├─ generate_fresh_docs.py        ← builds the 20-person UNSEEN hold-out set + ground_truth_fresh.json
+├─ redact_real_docs.py           ← detect → anonymize → scrub metadata  (per version, real|fresh)
 ├─ strip_metadata.py             ← metadata-only baseline → redacted_real/meta/{docx,pdf}/
 ├─ check_metadata.py             ← quick residual-metadata spot check
 ├─ evaluate_real_docs.py         ← residual-disclosure evaluation (the privacy OUTCOME)
 ├─ detection_quality.py          ← detector precision/recall (the DETECTION quality)
 ├─ attack_real_docs.py           ← RED TEAM: re-identification / anonymity-set attack on the release
 ├─ fill_manual_review.py         ← interactive helper to complete the manual review of misses
-├─ run_all_real.py               ← one command: redact + baseline + evaluate + detection + attack
-├─ documents_real/               ← INPUT: 20 DOCX + 20 PDF + ground_truth_real.json  (synthetic)
-├─ redacted_real_v1 … v4/        ← OUTPUT: redacted documents per detector version ({docx,pdf}/)
-├─ redacted_real/meta/           ← OUTPUT: metadata-only baseline ({docx,pdf}/)
-├─ evaluation_real_*.txt         ← EVIDENCE: residual disclosure per approach
-├─ failed_cases_real_*.csv       ← EVIDENCE: every surviving/over-redacted value (+ manual notes)
-├─ detection_quality.txt         ← EVIDENCE: precision/recall per version
-├─ attack_report_*.txt           ← EVIDENCE: re-identification rate + anonymity set per approach
-├─ attack_findings_*.csv         ← EVIDENCE: per-doc k, attacker guess, leaking surfaces, fragments
+├─ run_all_real.py               ← one command: redact + baseline + evaluate + detection + attack (real)
+├─ run_all_fresh.py              ← same pipeline on the unseen hold-out set (generalisation test)
+│
+│   ── synthetic inputs (only ground_truth_*.json is versioned) ──────
+├─ documents_real/               ← INPUT: ground_truth_real.json  (+ docx/, pdf/ regenerated, git-ignored)
+├─ documents_fresh/              ← INPUT: ground_truth_fresh.json (+ docx/, pdf/ regenerated, git-ignored)
+│
+│   ── committed evidence snapshot (see results/README.md) ───────────
+├─ results/
+│  ├─ real/                      ← evaluation_real_*.txt, failed_cases_real_*.csv
+│  ├─ fresh/                     ← evaluation_fresh_*.txt, failed_cases_fresh_*.csv, detection_quality_fresh.txt
+│  ├─ attack/                    ← attack_report_*.txt, attack_findings_*.csv  (real + fresh)
+│  ├─ detection/                 ← detection_quality.txt
+│  └─ README.md                  ← what each subfolder and approach tag means
+│
 └─ docs/                         ← privacy-by-design & compliance documentation
    ├─ ARCHITECTURE.md
    ├─ DATA_DICTIONARY.md
@@ -74,8 +84,13 @@ CSE331_Project/
    ├─ LEGAL_ETHICS.md
    ├─ LIMITATIONS_AND_MANUAL_REVIEW.md
    ├─ RED_TEAM_REIDENTIFICATION.md
+   ├─ FRESH_HOLDOUT_RESULTS.md
    └─ AI_USE_DECLARATION.md
 ```
+
+> Re-running the pipeline recreates `documents_*/docx|pdf/`, `redacted_*/`, and the root-level
+> evidence files; all of those are **git-ignored** and regenerate deterministically. The committed,
+> reviewed evidence lives in [`results/`](results/).
 
 > Naming note: `documents_real` / `redacted_real` mean *realistic office documents* (DOCX/PDF),
 > as opposed to an earlier plain‑text prototype. The data itself is synthetic (see the lab‑rule box).
@@ -99,20 +114,28 @@ python -m spacy download en_core_web_lg
 
 ## Reproduce everything
 
+Two orchestrators reproduce the whole project — run them in order:
+
 ```bash
 python generate_real_docs.py           # (re)create the 40 synthetic documents + ground truth
-python run_all_real.py                  # redact v1..v4 + metadata baseline + evaluate + attack
+python run_all_real.py                  # real set: redact v1..v4 + metadata baseline + evaluate + detection + attack
+python run_all_fresh.py                 # hold-out: generate fresh docs, then redact + evaluate + detection + attack
 ```
 
-`run_all_real.py` writes `evaluation_real_<version>.txt`, `failed_cases_real_<version>.csv`,
-`detection_quality.txt`, and `attack_report_<version>.txt` / `attack_findings_<version>.csv`.
-To run one piece:
+Both write their **fresh outputs to the repository root**
+(`evaluation_<ds>_<version>.txt`, `failed_cases_<ds>_<version>.csv`, `detection_quality*.txt`,
+`attack_report_*.txt`, `attack_findings_*.csv`) plus the redacted corpora in `redacted_<ds>_*/`.
+All of these are **git-ignored** and regenerate deterministically; the committed, reviewed copies
+live in [`results/`](results/) (see [`results/README.md`](results/README.md)).
+
+To run one piece (add a `fresh` argument to target the hold-out set, e.g.
+`python evaluate_real_docs.py v4 fresh`):
 
 ```bash
 python redact_real_docs.py v4          # produce redacted_real_v4/
-python evaluate_real_docs.py v4        # residual-disclosure report for v4
+python evaluate_real_docs.py v4        # residual-disclosure report for v4   (-> root; snapshot in results/real/)
 python evaluate_real_docs.py original  # baseline: shows PII leaking from every surface
-python detection_quality.py v4         # precision/recall for the v4 detector
+python detection_quality.py v4         # precision/recall for the v4 detector (-> root; snapshot in results/detection/)
 python attack_real_docs.py v4          # RED TEAM: re-identification / anonymity-set attack on v4
 python attack_real_docs.py original    # baseline: attacker re-identifies 40/40 from the raw files
 python fill_manual_review.py           # interactively complete manual_review_note in the v4 CSV
@@ -123,7 +146,8 @@ python fill_manual_review.py           # interactively complete manual_review_no
 ## Results
 
 *(20 distinct individuals × 2 formats = 40 documents; 200 planted text identifiers, 160 planted
-metadata values.)*
+metadata values.)* The committed evidence behind every table below is in
+[`results/`](results/) — `real/`, `fresh/`, `attack/`, `detection/`.
 
 ### A. Detector quality — precision / recall on the original documents (`detection_quality.txt`)
 

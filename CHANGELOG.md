@@ -4,6 +4,28 @@ All notable changes to this project. Dates are ISO‑8601. "Original version" = 
 prototype (10 synthetic individuals, English‑plus‑one‑Arabic, detectors v1–v4, residual‑disclosure
 evaluation). This changelog summarizes what was added on top of it.
 
+## [2.1] — 2026‑11‑09 — Repository cleanup & `results/` layout
+
+### Changed
+- **Evidence reorganized into `results/`** with four subfolders — `real/`, `fresh/`, `attack/`,
+  `detection/` — plus a `results/README.md` mapping each subfolder and approach tag (`original`,
+  `meta`, `v1`–`v4`) to its files. The 46 evaluation / failed‑cases / detection‑quality / attack
+  files moved out of the repo root with `git mv` (version history preserved). **No script paths
+  changed:** the scripts still write fresh copies to the root on re‑run; `results/` is the committed
+  snapshot.
+- **`.gitignore`** now ignores the regenerated root‑level outputs (`/evaluation_*.txt`,
+  `/failed_cases_*.csv`, `/attack_report_*.txt`, `/attack_findings_*.csv`, `/detection_quality*.txt` —
+  anchored with a leading `/` so the `results/` snapshot stays tracked) and broadens the redacted‑output
+  rule to `redacted_*/` + `holdout_redacted_*/`.
+- **README** structure tree and "Reproduce everything" section updated for the `results/` layout and the
+  hold‑out commands (`run_all_fresh.py`, `generate_fresh_docs.py`), including where regenerated vs.
+  committed outputs live.
+
+### Notes
+- Nothing was removed from version control. Generated working‑directory folders (`__pycache__/`,
+  `redacted_*/`) are untracked and regenerate with `run_all_*.py`. No duplicate or junk files were
+  found. `requirements.txt` verified complete (no `faker` — it appears only in a source comment).
+
 ## [2.0] — 2026‑11‑08 — Population, bilingual PDFs, red‑team, and docs
 
 ### Added
