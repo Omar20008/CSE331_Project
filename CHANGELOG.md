@@ -4,6 +4,37 @@ All notable changes to this project. Dates are ISO‑8601. "Original version" = 
 prototype (10 synthetic individuals, English‑plus‑one‑Arabic, detectors v1–v4, residual‑disclosure
 evaluation). This changelog summarizes what was added on top of it.
 
+## [2.3] — 2026‑11‑15 — Repository slim‑down (keep only what reproduces the results)
+
+### Removed (archived, not deleted)
+- Moved three helper scripts that are **not needed to reproduce the results** — and are not imported
+  or invoked by `run_all_real.py`, `run_all_fresh.py`, or the test suite — into `archive_removed/`
+  (via `git mv`, full history preserved), with an `archive_removed/README.md` explaining each and how
+  to restore it:
+  - `check_metadata.py` — a quick residual‑metadata spot check, fully subsumed by
+    `evaluate_real_docs.py` (which inspects every metadata part: core/app/custom docProps, PDF Info,
+    XMP, comment‑author attributes).
+  - `fill_manual_review.py` — interactive note entry, duplicated by the non‑interactive batch version.
+  - `fill_manual_review_auto.py` — one‑off authoring tool for the `manual_review_note` column; the
+    reviewed notes it produced are already committed in `results/*/failed_cases_*.csv`.
+- Rationale: the brief asks for a **small** project, so only the reproduction pipeline (detectors,
+  generators, redact / evaluate / detection / attack, orchestrators, tests) is kept at the repo root.
+
+### Changed
+- **Dead code removed from kept files** (behavior‑preserving; no detector rule in `pipelines.py`
+  touched): an unused `TRUTH_FILE` constant in `redact_real_docs.py`, and unused imports
+  (`docx.shared.RGBColor` in both generators, plus `sys` in `generate_fresh_docs.py`).
+- **Doc references updated** for the archived scripts: `README.md` (structure tree, run‑one‑piece
+  block, manual‑review workflow, deliverable table), `docs/technical_guide.md` (tree, command list,
+  troubleshooting), `docs/threat_model.md` (A3 evidence), `docs/LIMITATIONS_AND_MANUAL_REVIEW.md`.
+- **`requirements.txt`** restored (it had been deleted from the working tree); it is already minimal
+  and Faker‑free, so no dependency change was needed.
+
+### Verified
+- `run_all_real.py` and `run_all_fresh.py` were re‑run from a clean state after the cleanup; all 24
+  committed evidence files (`evaluation_*`, `detection_quality*`, `attack_report_*`, real + fresh) are
+  **byte‑for‑byte identical** to the pre‑cleanup `results/` snapshot — the result numbers are unchanged.
+
 ## [2.2] — 2026‑11‑09 — Technical deliverables (docs, tests, manual review)
 
 ### Added

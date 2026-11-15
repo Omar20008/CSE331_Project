@@ -3,7 +3,8 @@
 **Project 09.** The brief requires a **manual review of misses** and an honest statement of limits.
 This document reviews every residual case from the recommended detector **v4**
 (`evaluation_real_v4.txt`, `failed_cases_real_v4.csv`) on the 40‑document set and records the
-remaining limitations. Use `fill_manual_review.py` to record a per‑row `manual_review_note`.
+remaining limitations. The per‑row `manual_review_note` values are committed in
+`results/*/failed_cases_*.csv` (the batch helper that generated them is kept in `archive_removed/`).
 
 ## 1. Manual review of every v4 residual case
 

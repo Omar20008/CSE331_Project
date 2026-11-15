@@ -33,10 +33,8 @@ copy is embedded), which keeps the Arabic individuals testable.
 import json
 import os
 import re
-import sys
 
 from docx import Document
-from docx.shared import RGBColor  # noqa: F401  (imported to mirror the real generator)
 from reportlab.lib.pagesizes import A4
 from reportlab.pdfgen import canvas
 from pypdf import PdfReader, PdfWriter

@@ -34,12 +34,9 @@ CSE331_Project/
 ├─ generate_fresh_docs.py       # the 20-person UNSEEN hold-out set + ground_truth_fresh.json
 ├─ redact_real_docs.py          # detect -> anonymize -> scrub metadata (per version, real|fresh)
 ├─ strip_metadata.py            # metadata-only baseline -> redacted_real/meta/{docx,pdf}/
-├─ check_metadata.py            # quick residual-metadata spot check
 ├─ evaluate_real_docs.py        # residual-disclosure evaluation (the privacy OUTCOME)
 ├─ detection_quality.py         # detector precision/recall (the DETECTION quality)
 ├─ attack_real_docs.py          # RED TEAM: re-identification / anonymity-set attack
-├─ fill_manual_review.py        # interactive helper: fill manual_review_note (real v4 by default)
-├─ fill_manual_review_auto.py   # non-interactive batch: fill notes from row evidence + report counts
 ├─ run_all_real.py / run_all_fresh.py   # orchestrators (whole chain)
 ├─ documents_real/ documents_fresh/     # INPUT: ground_truth_*.json (+ docx/, pdf/ regenerated)
 ├─ results/                     # committed evidence snapshot (real/ fresh/ attack/ detection/)
@@ -78,12 +75,7 @@ python attack_real_docs.py original       # attacker wins 40/40 on raw files
 python attack_real_docs.py v4             # recommended pipeline
 python attack_real_docs.py v4 fresh       # on the unseen hold-out
 
-# 6) manual review of residual misses
-python fill_manual_review.py              # interactive, real v4 CSV
-python fill_manual_review_auto.py         # batch-fill empty notes in every results CSV (+counts)
-python fill_manual_review_auto.py --dry-run
-
-# 7) tests
+# 6) tests
 python -m pytest tests/ -v                # 17 passed, 1 xfailed
 ```
 
@@ -138,5 +130,4 @@ and an optional `real`/`fresh` dataset keyword, then call `make_detector(version
 | Arabic shows as `?` / "no Arabic font" warning | Drop `Amiri-Regular.ttf` or `NotoNaskhArabic-Regular.ttf` into `fonts/`; the DOCX/metadata paths still work without it. |
 | Arabic prints crash in a console (`cp1252 codec`) | A Windows console encoding issue only; set `PYTHONIOENCODING=utf-8`. File I/O uses UTF‑8 and is unaffected. |
 | `ModuleNotFoundError: No module named 'pytest'` | `pip install -r requirements.txt` (pytest is pinned there). |
-| `fill_manual_review.py` prints "interactive … stdin is not a TTY" | It is interactive by design; use `fill_manual_review_auto.py` for non‑interactive batch filling. |
 | Root‑level outputs reappear after a run | Expected — they are git‑ignored; the committed snapshot is `results/`. |

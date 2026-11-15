@@ -32,7 +32,7 @@ the internal network, and the transport channel.
 |---|---|---|---|---|
 | **A1** | **Reader of the redacted file** | the released DOCX/PDF + standard tooling | open it, read the visible page | baseline of `evaluate_real_docs.py` |
 | **A2** | **Text extractor / copy‑paster** | A1 + `pypdf` / `python‑docx` / "save as text" | select‑all+copy, extract the **text layer** incl. hidden `w:vanish` and invisible **white** PDF text | `evaluate_real_docs.py` (reads extracted text, never the rendered page) |
-| **A3** | **Metadata / hidden‑content inspector** | A1 + a metadata viewer / zip tool | read core/app/custom `docProps`, PDF Info dict, XMP, **comment‑author** attributes, headers/footers, annotations | `evaluate_real_docs.py` + `check_metadata.py` (all metadata parts) |
+| **A3** | **Metadata / hidden‑content inspector** | A1 + a metadata viewer / zip tool | read core/app/custom `docProps`, PDF Info dict, XMP, **comment‑author** attributes, headers/footers, annotations | `evaluate_real_docs.py` (all metadata parts) |
 | **A4** | **Linkage adversary with partial knowledge** | A1–A3 + an **auxiliary directory** of candidate individuals (an "HR directory") | link surviving fragments (name tokens, phone/SSN digit runs, ZIP/postcode) to a directory row → put a **name** to the file | `attack_real_docs.py` (anonymity‑set size *k*; closed‑population linkage) |
 
 The verifier/attacker is given **no privileged access**: it reads exactly the surfaces A2/A3 can,

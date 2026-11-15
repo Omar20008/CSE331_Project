@@ -16,7 +16,6 @@ font so they render and can be extracted from PDFs instead of being dropped by a
 import json
 import os
 from docx import Document
-from docx.shared import RGBColor
 from reportlab.lib.pagesizes import A4
 from reportlab.pdfgen import canvas
 from pypdf import PdfReader, PdfWriter

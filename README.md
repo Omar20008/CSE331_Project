@@ -55,11 +55,9 @@ CSE331_Project/
 ├─ generate_fresh_docs.py        ← builds the 20-person UNSEEN hold-out set + ground_truth_fresh.json
 ├─ redact_real_docs.py           ← detect → anonymize → scrub metadata  (per version, real|fresh)
 ├─ strip_metadata.py             ← metadata-only baseline → redacted_real/meta/{docx,pdf}/
-├─ check_metadata.py             ← quick residual-metadata spot check
 ├─ evaluate_real_docs.py         ← residual-disclosure evaluation (the privacy OUTCOME)
 ├─ detection_quality.py          ← detector precision/recall (the DETECTION quality)
 ├─ attack_real_docs.py           ← RED TEAM: re-identification / anonymity-set attack on the release
-├─ fill_manual_review.py         ← interactive helper to complete the manual review of misses
 ├─ run_all_real.py               ← one command: redact + baseline + evaluate + detection + attack (real)
 ├─ run_all_fresh.py              ← same pipeline on the unseen hold-out set (generalisation test)
 │
@@ -75,7 +73,6 @@ CSE331_Project/
 │  ├─ detection/                 ← detection_quality.txt
 │  └─ README.md                  ← what each subfolder and approach tag means
 │
-├─ fill_manual_review_auto.py    ← batch-fill manual_review_note from row evidence (non-interactive)
 ├─ tests/                        ← pytest suite (test_redaction.py + conftest.py)
 └─ docs/                         ← privacy-by-design & compliance documentation
    ├─ data_dictionary.md             ├─ technical_guide.md
@@ -138,7 +135,6 @@ python evaluate_real_docs.py original  # baseline: shows PII leaking from every 
 python detection_quality.py v4         # precision/recall for the v4 detector (-> root; snapshot in results/detection/)
 python attack_real_docs.py v4          # RED TEAM: re-identification / anonymity-set attack on v4
 python attack_real_docs.py original    # baseline: attacker re-identifies 40/40 from the raw files
-python fill_manual_review.py           # interactively complete manual_review_note in the v4 CSV
 ```
 
 ---
@@ -244,10 +240,9 @@ Statistical NER cannot guarantee 100 %, so manual review is a step, not an after
 
 1. `python evaluate_real_docs.py v4` writes every residual case to `failed_cases_real_v4.csv`
    (doc, kind, location, entity, value, an automatic note, and an empty `manual_review_note`).
-2. `python fill_manual_review.py` walks each case interactively and records a human root‑cause /
-   decision in `manual_review_note`; `python fill_manual_review_auto.py` is a non‑interactive batch
-   complement that fills an evidence‑based factual note for every empty row and reports the counts
-   (filled vs. already reviewed vs. flagged).
+2. The `manual_review_note` column records a human root‑cause / decision for each case; the reviewed
+   notes are committed in [`results/`](results/) (`results/*/failed_cases_*.csv`). The batch helper
+   that generated them is retained in [`archive_removed/`](archive_removed/).
 3. The analysis is written up in
    [`docs/LIMITATIONS_AND_MANUAL_REVIEW.md`](docs/LIMITATIONS_AND_MANUAL_REVIEW.md), which reviews all
    **3 full + 16 partial** v4 residuals and recommends the next control (ZIP/postcode generalization,
@@ -267,7 +262,7 @@ The technical deliverables for this milestone and where they live:
 | 4 | Test suite + plan + results | [`tests/test_redaction.py`](tests/test_redaction.py), [`docs/test_plan.md`](docs/test_plan.md), [`docs/test_results.md`](docs/test_results.md) |
 | 5 | Evidence map (Requirement → Risk → Control → Test → Evidence) | [`docs/evidence_map.md`](docs/evidence_map.md) |
 | 6 | Privacy / utility / residual risk (real + fresh) | [`docs/privacy_utility_residual_risk.md`](docs/privacy_utility_residual_risk.md) |
-| 7 | Manual review of misses (per‑row notes) | [`fill_manual_review_auto.py`](fill_manual_review_auto.py), [`results/*/failed_cases_*.csv`](results/) |
+| 7 | Manual review of misses (per‑row notes) | [`results/*/failed_cases_*.csv`](results/), [`docs/LIMITATIONS_AND_MANUAL_REVIEW.md`](docs/LIMITATIONS_AND_MANUAL_REVIEW.md) |
 | 8 | Technical guide + environment + pinned deps | [`docs/technical_guide.md`](docs/technical_guide.md), [`docs/environment.md`](docs/environment.md), [`requirements.txt`](requirements.txt) |
 
 **Run the tests:**

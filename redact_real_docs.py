@@ -43,7 +43,6 @@ VERSION = _positional[0] if _positional else "v3"
 
 SRC_DOCX = os.path.join(f"documents_{DATASET}", "docx")
 SRC_PDF = os.path.join(f"documents_{DATASET}", "pdf")
-TRUTH_FILE = os.path.join(f"documents_{DATASET}", f"ground_truth_{DATASET}.json")
 
 OUT_DIR = f"redacted_{DATASET}_{VERSION}"
 
