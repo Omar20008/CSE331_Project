@@ -16,7 +16,7 @@ import numpy as np
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
-from matplotlib.patches import FancyBboxPatch, FancyArrowPatch, Rectangle, Circle, Polygon
+from matplotlib.patches import FancyBboxPatch, FancyArrowPatch, Rectangle
 from matplotlib import font_manager as fm
 from matplotlib.backends.backend_agg import FigureCanvasAgg
 
@@ -623,8 +623,8 @@ def fig_results_bars():
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(10.2, 4.6))
     fig.suptitle("Results across approaches", fontproperties=LATB, fontsize=14, color=INK, y=1.02)
     TA(ax1, 1.12, 1.15, "النتائج بين الأساليب", size=11.5, color=ARCLR, va="bottom", data=False)
-    def hl(vals): return ["#16a34a" if l == "v4" else "#93c5fd" for l in labels]
-    b1 = ax1.bar(labels, reid, color=hl(reid), edgecolor="white", width=0.68)
+    def hl(): return ["#16a34a" if l == "v4" else "#93c5fd" for l in labels]
+    b1 = ax1.bar(labels, reid, color=hl(), edgecolor="white", width=0.68)
     for b, v in zip(b1, reid): ax1.text(b.get_x()+b.get_width()/2, v+1.5, f"{v:g}", ha="center", fontproperties=LATB, fontsize=9, color=INK)
     ax1.set_title("Re-identification rate  %", fontproperties=LATB, fontsize=10.5, color=INK, pad=20)
     TA(ax1, 0.5, 1.02, "نسبة إعادة التعرّف  —  الأقل أفضل", size=9, color=MUTED, va="bottom", data=False)

@@ -28,11 +28,6 @@ if REPO_ROOT not in sys.path:
 
 
 @pytest.fixture(scope="session")
-def repo_root():
-    return REPO_ROOT
-
-
-@pytest.fixture(scope="session")
 def redactor(tmp_path_factory):
     """The real redact_real_docs pipeline, configured for v4 (the recommended detector)."""
     saved_argv = sys.argv

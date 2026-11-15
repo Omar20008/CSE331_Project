@@ -285,7 +285,7 @@ def create_docx(doc_id: str, planted: dict, author_name: str) -> str:
 def create_pdf(doc_id: str, planted: dict, author_name: str) -> str:
     path = os.path.join(PDF_DIR, f"{doc_id}.pdf")
     c = canvas.Canvas(path, pagesize=A4)
-    width, height = A4
+    _, height = A4
 
     y = height - 50
     c.setFont("Helvetica-Bold", 14)

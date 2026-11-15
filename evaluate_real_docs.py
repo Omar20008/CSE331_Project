@@ -201,7 +201,6 @@ def main():
         r_parts, r_meta = extract(red_path, dtype)
         o_all = "\n".join(o_parts.values())
         r_all = "\n".join(r_parts.values())
-        o_meta_all = "\n".join(o_meta.values())
         r_meta_all = "\n".join(r_meta.values())
 
         doc_full = doc_meta = False
