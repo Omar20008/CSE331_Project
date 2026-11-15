@@ -12,7 +12,7 @@ prompt summary. Cite reused material and be ready to explain your work."*
 | Item | Detail |
 |---|---|
 | **Tool** | Claude (Anthropic) via the Claude Code CLI |
-| **Where used** | Code refactor/cleanup; the `v4` locale‑aware detector; the precision/recall script; the **re‑identification attack harness** (`attack_real_docs.py`); the **20‑individual population expansion + Arabic PDF rendering**; the metadata‑baseline path refactor and manual‑review helper; and the documentation in `docs/` and `README.md` |
+| **Where used** | Code refactor/cleanup; the `v4` locale‑aware detector; the precision/recall script; the **re‑identification attack harness** (`attack_real_docs.py`); the **20‑individual population expansion + Arabic PDF rendering**; the metadata‑baseline path refactor and manual‑review helper; the documentation in `docs/` and `README.md`; a **repository slim‑down** (archiving unused helper scripts, removing dead code); and the **bilingual Milestone‑1 and Milestone‑2 slide decks** (`deliverables/CSE331_TeamXX_M1.pptx` and `_M2.pptx`, plus PDF exports) |
 | **Not AI‑generated** | The original project concept, the synthetic dataset design, and the v1–v3 pipeline approach were the team's own work |
 
 ## Purpose & prompt summary
@@ -30,6 +30,18 @@ prompt summary. Cite reused material and be ready to explain your work."*
 - **Documentation:** architecture (Mermaid), data dictionary, threat model, risk register, evidence
   map, legal/ethics notes, the re‑identification write‑up, this manual‑review/limitations analysis,
   and the changelog.
+- **Repository slim‑down & Milestone‑2 deck (2026‑11‑15):** keep only the reproduction pipeline —
+  archive three unused helper scripts (`check_metadata.py`, `fill_manual_review.py`,
+  `fill_manual_review_auto.py`) to `archive_removed/`, remove dead code (no detector rule changed),
+  and verify the result numbers are byte‑for‑byte unchanged. Then build short **bilingual
+  (English + Arabic) Milestone‑1 and Milestone‑2 slide decks** (`deliverables/CSE331_TeamXX_M1.pptx`
+  and `_M2.pptx`, each exported to PDF) whose content and numbers come **only** from the committed
+  evidence and the team's own milestone sources (`README.md`, `results/*`, `docs/`,
+  `deliverables/source/build_m1.py`); no numbers were invented and all data remains synthetic. The
+  M1/M2 bilingual figures from `deliverables/source/figs/` were reused for visual consistency. Prompt
+  summary: *"slim the project to what reproduces the results, then create ≤8‑slide bilingual
+  CSE331_TeamXX_M1 and _M2 decks grounded in the real project files, with placeholders for team‑owned
+  fields."* Tool: Claude (Anthropic) via Claude Code CLI.
 
 ## Reused material / libraries (cite in the report)
 
