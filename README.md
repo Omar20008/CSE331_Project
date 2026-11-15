@@ -55,11 +55,9 @@ CSE331_Project/
 ├─ generate_fresh_docs.py        ← builds the 20-person UNSEEN hold-out set + ground_truth_fresh.json
 ├─ redact_real_docs.py           ← detect → anonymize → scrub metadata  (per version, real|fresh)
 ├─ strip_metadata.py             ← metadata-only baseline → redacted_real/meta/{docx,pdf}/
-├─ check_metadata.py             ← quick residual-metadata spot check
 ├─ evaluate_real_docs.py         ← residual-disclosure evaluation (the privacy OUTCOME)
 ├─ detection_quality.py          ← detector precision/recall (the DETECTION quality)
 ├─ attack_real_docs.py           ← RED TEAM: re-identification / anonymity-set attack on the release
-├─ fill_manual_review.py         ← interactive helper to complete the manual review of misses
 ├─ run_all_real.py               ← one command: redact + baseline + evaluate + detection + attack (real)
 ├─ run_all_fresh.py              ← same pipeline on the unseen hold-out set (generalisation test)
 │
